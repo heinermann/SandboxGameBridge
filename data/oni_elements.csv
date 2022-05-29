@@ -1,0 +1,162 @@
+elementId,name,state
+Aerogel,Aerogel,Solid
+Algae,Algae,Solid
+Aluminum,Aluminum,Solid
+AluminumOre,Aluminum Ore,Solid
+Bitumen,Bitumen,Solid
+BleachStone,Bleach Stone,Solid
+Brick,Brick,Solid
+BrineIce,Brine Ice,Solid
+Carbon,Coal,Solid
+CarbonFibre,Carbon Fiber,Solid
+Cement,Cement,Solid
+CementMix,Cement Mix,Solid
+Ceramic,Ceramic,Solid
+Clay,Clay,Solid
+Copper,Copper,Solid
+Creature,Genetic Ooze,Solid
+CrushedIce,Crushed Ice,Solid
+CrushedRock,Crushed Rock,Solid
+Cuprite,Copper Ore,Solid
+DepletedUranium,Depleted Uranium,Solid
+Diamond,Diamond,Solid
+Dirt,Dirt,Solid
+DirtyIce,Polluted Ice,Solid
+Electrum,Electrum,Solid
+EnrichedUranium,Enriched Uranium,Solid
+Fertilizer,Fertilizer,Solid
+FoolsGold,Pyrite,Solid
+Fossil,Fossil,Solid
+Fullerene,Fullerene,Solid
+Glass,Glass,Solid
+Gold,Gold,Solid
+GoldAmalgam,Gold Amalgam,Solid
+Granite,Granite,Solid
+Ice,Ice,Solid
+IgneousRock,Igneous Rock,Solid
+Iron,Iron,Solid
+IronOre,Iron Ore,Solid
+Cobalt,Cobalt,Solid
+Cobaltite,Cobalt Ore,Solid
+Isoresin,Isoresin,Solid
+Katairite,Abyssalite,Solid
+Lead,Lead,Solid
+Lime,Lime,Solid
+MaficRock,Mafic Rock,Solid
+Niobium,Niobium,Solid
+Corium,Corium,Solid
+Obsidian,Obsidian,Solid
+OxyRock,Oxylite,Solid
+PhosphateNodules,Phosphate Nodules,Solid
+Phosphorite,Phosphorite,Solid
+Phosphorus,Phosphorus,Solid
+Polypropylene,Plastic,Solid
+Radium,Radium,Solid
+RefinedCarbon,Refined Carbon,Solid
+Regolith,Regolith,Solid
+Rust,Rust,Solid
+Salt,Salt,Solid
+Sand,Sand,Solid
+SandCement,Sand Cement,Solid
+SandStone,Sandstone,Solid
+SedimentaryRock,Sedimentary Rock,Solid
+Slabs,Building Slab,Solid
+SlimeMold,Slime,Solid
+Snow,Snow,Solid
+SolidCarbonDioxide,Carbon Dioxide,Solid
+SolidChlorine,Chlorine,Solid
+SolidCrudeOil,Crude Oil,Solid
+SolidHydrogen,Hydrogen,Solid
+SolidMercury,Mercury,Solid
+SolidMethane,Methane,Solid
+SolidNaphtha,Naphtha,Solid
+SolidOxygen,Oxygen,Solid
+SolidPetroleum,Petroleum,Solid
+SolidPropane,Propane,Solid
+SolidResin,Resin,Solid
+SolidSuperCoolant,Super Coolant,Solid
+SolidViscoGel,Visco-Gel,Solid
+Steel,Steel,Solid
+Sulfur,Sulfur,Solid
+SuperInsulator,Insulation,Solid
+TempConductorSolid,Thermium,Solid
+ToxicSand,Polluted Dirt,Solid
+Tungsten,Tungsten,Solid
+Unobtanium,Neutronium,Solid
+UraniumOre,Uranium Ore,Solid
+Wolframite,Wolframite,Solid
+Yellowcake,Yellowcake,Solid
+SolidEthanol,Ethanol,Solid
+SolidSyngas,STRINGS.ELEMENTS.SOLIDSYNGAS.NAME,Solid
+ToxicMud,Polluted Mud,Solid
+Mud,Mud,Solid
+Sucrose,Sucrose,Solid
+Graphite,Graphite,Solid
+SolidNuclearWaste,Solid Nuclear Waste,Solid
+Brine,Brine,Liquid
+Chlorine,Chlorine,Liquid
+CrudeOil,Crude Oil,Liquid
+DirtyWater,Polluted Water,Liquid
+LiquidCarbonDioxide,Carbon Dioxide,Liquid
+LiquidHelium,Helium,Liquid
+LiquidHydrogen,Hydrogen,Liquid
+LiquidMethane,Methane,Liquid
+LiquidOxygen,Oxygen,Liquid
+LiquidPhosphorus,Phosphorus,Liquid
+LiquidPropane,Propane,Liquid
+LiquidSulfur,Liquid Sulfur,Liquid
+Magma,Magma,Liquid
+Mercury,Mercury,Liquid
+MoltenAluminum,Aluminum,Liquid
+MoltenCarbon,Carbon,Liquid
+MoltenCopper,Copper,Liquid
+MoltenGlass,Glass,Liquid
+MoltenGold,Gold,Liquid
+MoltenIron,Iron,Liquid
+MoltenCobalt,Cobalt,Liquid
+MoltenLead,Lead,Liquid
+MoltenNiobium,Niobium,Liquid
+MoltenSalt,Salt,Liquid
+MoltenSteel,Steel,Liquid
+MoltenTungsten,Tungsten,Liquid
+MoltenUranium,Uranium,Liquid
+Naphtha,Naphtha,Liquid
+NuclearWaste,Nuclear Waste,Liquid
+Petroleum,Petroleum,Liquid
+Resin,Resin,Liquid
+SaltWater,Salt Water,Liquid
+SuperCoolant,Super Coolant,Liquid
+ViscoGel,Visco-Gel,Liquid
+Water,Water,Liquid
+Ethanol,Ethanol,Liquid
+MoltenSyngas,STRINGS.ELEMENTS.MOLTENSYNGAS.NAME,Liquid
+MoltenSucrose,Sucrose,Liquid
+AluminumGas,Aluminum,Gas
+CarbonDioxide,Carbon Dioxide,Gas
+CarbonGas,Carbon,Gas
+ChlorineGas,Chlorine,Gas
+ContaminatedOxygen,Polluted Oxygen,Gas
+CopperGas,Copper,Gas
+GoldGas,Gold,Gas
+Helium,Helium,Gas
+Hydrogen,Hydrogen,Gas
+IronGas,Iron,Gas
+CobaltGas,Cobalt,Gas
+LeadGas,Lead,Gas
+MercuryGas,Mercury,Gas
+Methane,Natural Gas,Gas
+NiobiumGas,Niobium,Gas
+Fallout,Nuclear Fallout,Gas
+Oxygen,Oxygen,Gas
+PhosphorusGas,Phosphorus,Gas
+Propane,Propane,Gas
+RockGas,Rock Gas,Gas
+SaltGas,Salt,Gas
+SourGas,Sour Gas,Gas
+Steam,Steam,Gas
+SteelGas,Steel,Gas
+SulfurGas,Sulfur,Gas
+SuperCoolantGas,Super Coolant,Gas
+TungstenGas,Tungsten,Gas
+EthanolGas,Ethanol,Gas
+Syngas,Synthesis Gas,Gas
