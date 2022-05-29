@@ -28,5 +28,4 @@ for elem_type in ["solid", "liquid", "gas"]:
 with open("result.csv", 'w') as result:
     writer = csv.DictWriter(result, fieldnames=['elementId', 'name', 'state'], extrasaction='ignore')
     writer.writeheader()
-    for item in out_data:
-        writer.writerow(item)
+    writer.writerows(out_data)

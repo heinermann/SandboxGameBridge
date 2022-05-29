@@ -20,11 +20,9 @@ for filename in glob.iglob("./**/*.*", recursive=True):
             continue
 
         if "itemName" in data and "shortdescription" in data:
-            print(f"Adding {filename}")
             out_data.append(data)
 
 with open("result.csv", 'w') as result:
     writer = csv.DictWriter(result, fieldnames=['itemName', 'shortdescription', 'description', 'price', 'category'], extrasaction='ignore')
     writer.writeheader()
-    for item in out_data:
-        writer.writerow(item)
+    writer.writerows(out_data)
