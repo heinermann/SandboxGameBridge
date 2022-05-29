@@ -1012,14 +1012,14 @@ waterballoon,Water Balloon,A favourite of children and pranksters everywhere.,,t
 chainsaw,Chainsaw,Great for chopping down trees. Try to avoid massacres.,0,Tool
 flashlight,Flashlight,A handy flashlight!,100,Tool
 greenflashlight,Flashlight,A green flashlight! A mighty glow.,100,Tool
-hoe,^orange;Hoe^white;,This hoe lets you till soil. The tilled soil can then be used to grow all sorts of crops!,125,Tool
+hoe,Hoe,This hoe lets you till soil. The tilled soil can then be used to grow all sorts of crops!,125,Tool
 mininglantern,Explorer's Lantern,This lantern can be carried by explorers to light the surrounding area.,800,Tool
-painttool,Paint Mode,"Primary fire applies paint, secondary changes colour. ^green;Quick select with [Y] key.",0,Tool
+painttool,Paint Mode,"Primary fire applies paint, secondary changes colour. Quick select with [Y] key.",0,Tool
 redflashlight,Flashlight,A red flashlight! Everything looks hot and filled with rage.,100,Tool
-wiretool,Wire Mode,Built to place optical wires between input points. ^green;Quick select with [T] key.,0,Tool
+wiretool,Wire Mode,Built to place optical wires between input points. Quick select with [T] key.,0,Tool
 yellowflashlight,Flashlight,A yellow flashlight! Don't be afraid.,100,Tool
-beamaxe,Matter Manipulator,Manipulates anything that matters. ^green;Quick select with [R] key.,0,Tool
-beamaxeX,Matter Manipulator,Manipulates anything that matters. ^green;Quick select with [R] key.,0,Tool ^green;[R]
+beamaxe,Matter Manipulator,Manipulates anything that matters. Quick select with [R] key.,0,Tool
+beamaxeX,Matter Manipulator,Manipulates anything that matters. Quick select with [R] key.,0,Tool ^green;[R]
 copperdrill,Copper Drill,Drills fast but breaks quickly. A temporary alternative to the matter manipulator.,150,Tool
 copperpickaxe,Copper Pickaxe,"This tool won't last long, but I'll be able to dig pretty fast with it.",50,Tool
 diamonddrill,Diamond Drill,Drills fast but breaks quickly. A temporary alternative to the matter manipulator.,450,Tool

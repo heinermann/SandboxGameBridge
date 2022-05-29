@@ -1,0 +1,638 @@
+itemName,shortdescription,description,price,category
+arcana_bag_spell,Velvet Pouch,"This small velvet pouch can store many small items in it, such as seeds and herbs.",500,tool
+arcana_bag_essence,Essence Storage,This storage is used for storing various different types of essence.,500,tool
+arcana_inventory,Backpack,"Several specialized bags have been attached to this backpack, increasing its carrying capacity.",2500,tool
+arcana_shield_suppressionShield,Supression Shield,A standard supression shield for Exousian police officers.,800,shield
+bleuark_wateringcan_1,Watering Can,Water your crops with this fashionable watering can.,,tool
+FD|GrandCrossZana,Grand Cross Zână,"An unique gunblade weapon that has mana inside, unlock its power with the Skill Menu Item from the FutaraDragon race.",0,customskill
+monarch_parasol_1,White Parasol,Open to gently float while falling. It's bad luck to open inside the house.,500,tool
+monarch_parasol_2,Spotted Parasol,Open to gently float while falling. It's bad luck to open inside the house.,500,tool
+aeolus_axe_1,Ariostone Axe,An axe made of ariostone.,800,axe
+aeolus_shortbow_1,Ariostone Shortbow,A shortbow that fires light arrows at an extremely fast speed.,800,bow
+aeolus_shortbow_2,Zephyr,A shortbow that fires light arrows at an extremely fast speed.,1000,bow
+aeolus_spear_1,Ariostone Spear,A light spear blessed by the northern winds.,800,spear
+aeon_battleaxe_1,Sagacity,A battleaxe created with the timeless aeons.,1000,axe
+aeon_lance_1,Acuity,A yellowish lance.,1000,spear
+aeon_shortbow_1,Aeon Shortbow,"A golden shortbow, can instantly fire arrows.",1000,bow
+arcana_boss_cosmoNemesis_assaultRifle_1,Asobibi,A wand that shoots out cosmic flames.,1000,assaultRifle
+arcana_boss_cosmoNemesis_blastRifle_1,Kitsunebi,A blast-rifle that shoots concentrated fire rounds.,1000,uniqueWeapon
+arcana_boss_cosmoNemesis_summonStaff_1,Vulpecula,A summoning staff that manifests cosmo spirits.,2000,staff
+arcana_boss_cosmoNemesis_wand_1,Hidama,A wand that summons cosmic flames.,2000,wand
+arcana_boss_evolapis_broadsword_1,Archosa,A jade plasma blade forged from the primordial powers.,1120,broadsword
+arcana_boss_evolapis_spear_1,Titanosa,A jade plasma fork-spear forged from the primordial powers.,1120,spear
+arcana_boss_evolapis_summonStaff_1,Sinornis,A jade plasma staff forged from the primordial powers.,1120,staff
+artifact_bow_tempest,Tempest,The cyclone of the raging storm.,60000,bow
+artifact_doubleBlade_eternity,Eternity,The eternal thunder that brings down divine judgement.,60000,broadsword
+artifact_katana_judgement,Judgement,The absolution brought by a piece of the brighter horizon.,60000,broadsword
+artifact_katana_mikazuki,Mikazuki,The divine blade of the crescent moon.,10000,broadsword
+artifact_lance_astrifer,Astrifer,A lance comparable to the brightest azure star.,10000,spear
+artifact_orb_grandCross,Grand Cross,A strange device embed with a cross.,10000,wand
+artifact_orb_nil,Nil,A device extracting power from a fragment of the Zero Mirror.,60000,wand
+artifact_orb_perpetuityEye,Perpetuity Eye,The eye of one whose vision was set on an everlasting stasis.,10000,wand
+artifact_shortbow_libertas,Libertas,A bow infused with the unconfined wind.,60000,bow
+artifact_staff_corrodingElm,Corroding Elm,May insuperable death guide you.,10000,staff
+artifact_staff_duality,Duality,Bringer of the radiant light and the colorless void.,60000,staff
+artifact_wand_glorious,Glorious,The burning goblet of the hottest flame.,60000,wand
+artifact_wand_idunsBlessing,Lost Idun's Blessing,A device that formerly brings fruits of rejuvenation.,100,wand
+avostone_lance_1,Star Breaker,A bright spear crafted from avostone.,1000,spear
+avostone_wand_1,Sapience,An avostone wand.,1000,wand
+azure_assaultRifle_1,Fomalhaut SMG,"An azurium submachinegun, has lowered damage but a fast firing rate.",1000,assaultRifle
+azure_assaultRifle_2,Altair SMG,An azurium submachinegun with a burst pattern.,1000,assaultRifle
+azure_broadsword_1,Starbrand,A blade designed to cut through the night sky.,1360,broadsword
+azure_machinePistol_1,Antares,An azurium pistol designed for rapid firing.,1000,machinePistol
+azure_machinePistol_2,Arcturus,"An improvised machine pistol, can rain down destructive bullets in a short burst.",1000,pistol
+azure_machinePistol_3,Sirius A,"Sirius, the Great Oracle.",10000,uniqueWeapon
+azure_pistol_1,Canopus,"An azurium pistol, has increased accuracy, knockback and damage.",1000,pistol
+azure_pistol_2,Pleiades,"An azurium pistol, has lowered damage and accuracy but can bounce up to 7 times.",1000,pistol
+azure_pistol_basic,Canopus Prototype,A prototype pistol used by Arcanian ship crew.,200,pistol
+azure_shotgun_1,Lesath,"An azurium shotgun, built for high damage at a close distance.",1000,shotgun
+azure_sniperRifle_1,Furud Modular,"An azurium sniper rifle, designed for clean eliminations.",1000,sniperRifle
+azure_sniperRifle_basic,Furud Prototype,A prototype sniper rifle used by Arcanian ship crew.,200,sniperRifle
+bleuark_assaultRifle_1,Golden Triumph,A golden rifle made from Atla gold.,1000,assaultRifle
+bleuark_spear_1,Atlantis Spear,A spear made from atla gold.,1000,spear
+bleuark_wand_1,Atlantis Wand,A wand infused with aqua magic.,1000,wand
+conflagration_greatsword_1,Fiery Greatsword,A burning greatsword.,1000,broadsword
+conflagration_machinePistol_1,Magma Pistol,A molten machine pistol.,1000,machinePistol
+conflagration_shortbow_1,Firestorm,A molten shortbow.,1000,bow
+conflagration_shortsword_1,Molten Slasher,A burning shortsword.,1000,shortsword
+conflagration_sniperRifle_1,Magma Rifle,A molten sniper rifle.,1000,sniperRifle
+detritus_greatsword_1,Detritus Greatsword,A crude greatsword made with various salvaged parts.,800,broadsword
+detritus_katana_1,Detritus Tachi,A crude tachi made with various salvaged parts.,800,broadsword
+elysia_assaultRifle_1,Elysian Repeater,"A rarely used rifle, covered in plant matter.",1000,assaultRifle
+elysia_doubleBlade_1,Elysian Double Blade,A bladed weapon created from some sort of a durable glass material.,1000,broadsword
+exousia_church_staff_1,Orpah,Acta deos numquam mortalia fallunt.,10000,staff
+exousia_imperialArmy_1_broadsword_1,EIA1 Schwarzritter Sword,A standard plasma blade wielded by Exousian Frontliners.,920,broadsword
+exousia_imperialArmy_1_broadsword_2,EIA1 Blutstark,A large plasma blade wielded by Exousian frontine Commanders.,920,broadsword
+exousia_imperialArmy_2_battleaxe_1,EIA2 Stalbrecher,A standard battleaxe used by Exousian Nashorns.,980,axe
+exousia_imperialArmy_2_broadsword_1,Sanguinecre,Only war can sustain this blade's thirst. Inflicts Sanguine. -40% Max HP while holding.,10000,broadsword
+exousia_imperialArmy_3_katana_1,EIA3 Nordwolf Edge,A special katana issued to Exousian Nordwolves.,1100,broadsword
+exousia_imperialArmy_3_katana_1_npc,EIA3 Nordwolf Edge,A special katana issued to Exousian Nordwolves.,1100,broadsword
+exousia_imperialArmy_3_lance_1,EIA3 Nordwolf Lance,A standard close combat lance issued to Exousian Nordwolves.,900,spear
+exousia_sovereign_katana_1,Dawnbreaker,The sword of the Emperor's might and power.,10000,broadsword
+gaea_axe_1,Floral Breaker,A one-handed hammer made of florastone.,1000,axe
+gaea_axe_2,Floral Smasher,A one-handed hammer made of florastone.,1000,axe
+gaea_boomerang_1,Verdant Boomerang,A boomerang found in Verdant Sanctums. Inflicts poisoned.,2000,boomerang
+gaea_chakram_1,Verdant Chakram,A special chakram found in Verdant Sanctums. Inflicts poisoned.,2000,chakram
+gaea_spear_1,Superpunch,A spear in the shape of a fist.,1000,spear
+havencrest_assaultRifle_1,Osiri Riveter,An arcanium forged rifle.,800,assaultRifle
+havencrest_broadsword_1,Arcanium Broadsword,"A true scholar is knowledged in all things, even combat.",1000,broadsword
+havencrest_machinePistol_1,Osiri Defender,An arcanium based machine pistol.,1000,machinePistol
+havencrest_shortbow_1,Arcanium Shortbow,"A shortbow made from arcanium, can instantly fire arrows.",1000,bow
+hephaestus_dagger_1,Magifire Dagger,A burning dagger infused with the fire element.,600,dagger
+hephaestus_staff_1,Hestia,Flame-infused staff of the ancient fire.,2000,staff
+hephaestus_wand_1,Magifire Wand,Flame-infused wand of the ancient fire.,600,wand
+hephaestus_wand_2,Grandfire Wand,Flame-infused wand of the ancient fire.,2000,wand
+horizon_assaultRifle_1,Anguish,A dark rifle made from necroium.,1000,assaultRifle
+horizon_assaultRifle_2,Remorse MKI,A dark rifle made from necroium.,1000,assaultRifle
+horizon_broadsword_1,Tenebrosity,A dark broadsword.,1000,broadsword
+horizon_broadsword_2,Erexeno Sword,A custom made sword used by Horizon elites.,1260,broadsword
+horizon_hammer_1,Retribution,A hammer made from necroium ingots.,1000,hammer
+horizon_lance_1,Destruction,A devastating lance.,1000,spear
+horizon_shotgun_1,Torment,A dark shotgun made from necroium.,1000,shotgun
+horizon_sniperRifle_1,Remorse MKII,A dark rifle made from necroium.,1000,sniperRifle
+horizon_staff_1,Sanctus,You can sense the darkness flowing inside.,1600,staff
+lunar_dagger_1,Hangetsu Tanto,A small tanto made from luminarium.,1460,dagger
+lunar_katana_1,Gekko Tachi,"A katana forged from luminarium, can perform swift strikes in mere moments.",1600,broadsword
+lunar_katana_2,Mamushi,"A katana forged from luminarium, also known as the serpent blade.",1600,broadsword
+luye_glaive_1,Corrodium Glaive,A glaive crafted from aegistalt and corrodium.,1000,spear
+luye_moonBlade_1,Corrodium Moon Blade,A moon-blade crafted from aegistalt and corrodium.,1000,broadsword
+magnus_assaultRifle_selach,Selach,"Selach, the Great Shark.",10000,assaultRifle
+magnus_blastRifle_testaViola,Testa Viola,"Testa Viola, the Great Slaughter.",10000,uniqueWeapon
+magnus_staff_grandel,Grandel,"Grandel, the Great Wilderness.",10000,staff
+maple_dagger_1,Maple Tanto,"A simple maple colored tanto made with copper, iron and orange dye.",160,dagger
+maple_hammer_1,Maple Hammer,"A simple maple colored hammer made with copper, iron and orange dye.",160,hammer
+maple_katana_1,Maple Tachi,"A simple maple colored tachi made with copper, iron and orange dye.",180,broadsword
+misc_axe_blackout,Blackout,A one-handed axe.,1000,axe
+misc_katana_ironKatana,Iron Katana,A sharp iron katana.,400,broadsword
+misc_katana_neon,Neon,A blade that cuts even the night sky.,1000,broadsword
+misc_katana_ouroburos,Ouroboros,Blade of the endless serpent.,1000,broadsword
+misc_katana_viridescentKatana,Viridescent Katana,Also known as the green sword!,960,broadsword
+misc_machinePistol_koelSteel,Koel Steel,A special rapid firing machine pistol used by Koel Industry's outpost guards.,1000,machinePistol
+misc_wand_tripleDecker,Trip1e Decker,Taste the icy sweetness!,10000,uniqueWeapon
+monarch_doubleBlade_1,Holosium Double Blade,A pale double bladed weapon.,1000,broadsword
+monarch_lance_1,Iustitia,A pale lance.,1000,spear
+monarch_staff_1,Elucidation,A pale staff.,1000,staff
+monarch_staff_2,Purity,A pale staff.,1000,staff
+nulla_claymore_1,Durendal,A weapon used by the Nulla Order.,1000,broadsword
+orion_broadsword_1,OC Voltaic Razor,A high-tech broadsword used by the Orion. Inflicts Eletrified.,900,broadsword
+orion_greatsword_1,OC Voltaic Engraver,A high tech greatsword. Inflicts Eletrified.,1000,broadsword
+prototype_doubleBlade_1,Prototype Double Blade,A prototype of a weapon.,1000,broadsword
+prototype_greatsword_1,Prototype Greatsword,A prototype of a weapon.,1000,broadsword
+solar_axe_1,Fiery Crescent,"A burning one-handed axe, forged from solar crystals.",1000,axe
+solar_lance_1,Molten Skewer,A burning lance made from solar crystals.,1000,spear
+solar_lance_2,Broken Solarron,An ancient artifact that has lost most of its energy.,1000,spear
+solar_shotgun_1,Thermal Shotgun,Fires a burst of solar projectiles.,1000,shotgun
+splendor_axe_1,Splendid Axe,A brightly designed axe..,1000,axe
+splendor_katana_1,Splendid Katana,A visually bright and colorful katana.,1000,broadsword
+splendor_shortbow_1,Splendid Shortbow,"A shortbow, shining magnificently.",1000,bow
+splendor_shortsword_1,Splendid Shortsword,A colorful shortsword.,1000,shortsword
+steelblades_assaultRifle_1,Verrostin Repeater,An assault-rifle made from verrostin. Used by the Steelblades.,1000,assaultRifle
+steelblades_blastRifle_1,Verrostin Blaster,A blast-rifle made from verrostin. Used by the Steelblades.,1000,uniqueWeapon
+steelblades_broadsword_1,Steelblades Broadsword,A broadsword used by the Steelblades.,1000,broadsword
+steelblades_shotgun_1,Verrostin Demolisher,A shotgun made from verrostin. Used by the Steelblades.,1000,shotgun
+steelblades_sniperRifle_1,Verrostin Markmaker,A sniper-rifle made from verrostin. Used by the Steelblades.,1000,sniperRifle
+thalassa_dagger_1,Aquamarine Dagger,"A sharp, glowing dagger.",800,dagger
+thalassa_spear_1,Seatide,The spear of the roaring seas.,800,spear
+thalassa_spear_2,Riptide,The spear of the roaring seas.,1000,spear
+workshop_assaultRifle_1,WG Kerose Carbine,A dark rifle made from Dustrium.,1000,assaultRifle
+workshop_axe_1,WGS8 Rusted Dustrium Axe,"A heavy axe, forged from dustrium.",1000,axe
+workshop_axe_2,WGS8 Produtar Axe,A heavy axe utilized by Section 8 of the Workshop of Gears.,1000,axe
+workshop_axe_3,WGS8 Produtar Prototype E,A heavy axe utilized by the elites of the Section 8 of the Workshop of Gears.,2100,axe
+workshop_axe_4,WGS8 Dustrium Axe PA,A variant heavy axe utilized by Section 8 of the Workshop of Gears.,1000,axe
+workshop_battleaxe_1,WGS8 Dustrium Battleaxe,A battleaxe used by Section 8 of the Workshop of Gears.,1000,axe
+workshop_pistol_1,WG Dieselle A7,"A pistol, crafted from Dustrium.",1300,pistol
+workshop_pistol_2,WGS8 Petrolle A2,A pistol utilized by Section 8 of the Workshop of Gears.,1000,pistol
+workshop_pistol_3,WGS8 Asphall AC1,A pistol used by the Section 8 elites of the Workshop of Gears.,2100,pistol
+workshop_sniperRifle_1,WG Kerose M60,A dark rifle made from Dustrium.,1000,sniperRifle
+arcana_augment_1,"Arcana 0, The Fool","An EPP module that boosts your total energy, health regen and damage by a small amount.",1000,eppAugment
+arcana_augment_10,"Arcana IX, The Hermit",Grants +20% resist to Ice and immunity to frost. Inflict ice damage to the attacker when damaged.,1000,eppAugment
+arcana_augment_13,"Arcana XII, The Hanged Man","Grants +20% resist to Electric, immunity to electrified and +60% energy.",1000,eppAugment
+arcana_augment_15,"Arcana XIV, Temperance","Grants immunity to burning, swim boost, +10% max health and +10% max energy.",1000,eppAugment
+arcana_augment_1_1,"Arcana 0, The Fool","An EPP module that boosts your total energy, health regen and damage by a small amount.",1000,eppAugment
+arcana_augment_2,"Arcana I, The Magician","Grants +20% resist to Fire, immunity to burning and +40% attack.",1000,eppAugment
+arcana_augment_3,"Arcana II, The High Priestess","Grants light gravity, +40% run speed, immunity to fall damage and +20% energy.",1000,eppAugment
+arcana_augment_4,"Arcana III, The Empress","Grants immunity to burning, frost, electrified and poisoned. +10% health, attack and energy.",1000,eppAugment
+arcana_augment_5,"Arcana IV, The Emperor","Grants Nova and +10% Attack. Upon triggering Nova, gain an additional +100% Attack for 4 seconds.",1000,eppAugment
+arcana_augment_halcyon,Gilded Key - Halcyon,"Grants +20% resist to Fire, Electric, Ice and Poison, +100% health and -40% attack.",1000,eppAugment
+arcana_augment_raven,Gilded Key - Raven,"Grants resistance to fall damage, +60% attack, +60% speed and -40% health.",1000,eppAugment
+arcana_bar_animaBar,Anima Bar,"An anima bar, can be used to craft useful equipment.",210,craftingMaterial
+arcana_bar_arcaniumBar,Arcanium Bar,"An arcanium bar, can be used to craft basic Arcane equipment.",160,craftingMaterial
+arcana_bar_atlaGoldBar,Atla Gold Bar,"An enchanted Atla gold bar, can be used to craft Atlantis Equipment.",170,craftingMaterial
+arcana_bar_atumiumBar,Atumium Bar,"An atumium bar, can be used to craft Solar equipment.",440,craftingMaterial
+arcana_bar_aureolaBar,Aureola Bar,A material brimming with golden light that can withstand corrosion for eons.,100,craftingMaterial
+arcana_bar_azuriumBar,Azurium Bar,"An azurium bar, can be used to craft Astral equipment.",440,craftingMaterial
+arcana_bar_borealiteBar,Borealite Bar,"An icy material forged with borealite, sceantine and ice essence.",360,craftingMaterial
+arcana_bar_borealiteRing,Borealite Ring,A matal ring formed with borealite ores.,80,craftingMaterial
+arcana_bar_corrodiumBar,Corrodium Bar,A corroded metal that has been soaked in viridescent acid for decades.,240,craftingMaterial
+arcana_bar_enartz,Enartz,"A refined steel-like metal. It's strong in heat resistance and durability, but is harder to manipulate.",140,craftingMaterial
+arcana_bar_exoslate,Exoslate,A refined metal that is similar to durasteel. It's lighter in comparison and is good as firearm manufacturing material.,140,craftingMaterial
+arcana_bar_hakenStahlite,Haken Stahlite,The strongest steel. Can be used to craft Steelblades weapons & armor.,250,craftingMaterial
+arcana_bar_hakenVerrostin,Haken Verrostin,A durable material found commonly in the Badlands. Can be used to craft Steelblades weapons & armor.,190,craftingMaterial
+arcana_bar_holosiumBar,Holosium Bar,"A holosium bar, can be used to craft Monarch equipment.",210,craftingMaterial
+arcana_bar_luminariumBar,Luminarium Bar,"A luminarium bar, can be used to craft Lunar equipment.",100,craftingMaterial
+arcana_bar_morphosisBar,Morphosis Bar,"A morphosis bar, can be used to craft useful equipment.",210,craftingMaterial
+arcana_bar_necroiumBar,Necroium Bar,"A necroium bar, can be used to craft Horizon equipment.",220,craftingMaterial
+arcana_bar_nullatusBar,Nullatus Bar,"A material radiating an overwhelming aura, its durability unknown.",3200,craftingMaterial
+arcana_bar_phantasmaBar,Phantasma Bar,A material infused with the aura of the deepest abyss.,100,craftingMaterial
+arcana_bar_refinedAspirite,Refined Aspirite,"A refined aspirite, its ore can be found in Polar star planet undergrounds.",160,craftingMaterial
+arcana_bar_refinedImmorite,Refined Immorite,"A refined immorite, its ore can be found in Polar star planet undergrounds.",160,craftingMaterial
+arcana_bar_refinedNoxion,Refined Noxion,"A refined noxion, its ore can be found in Polar star planet undergrounds.",160,craftingMaterial
+arcana_bar_thoriumBar,Electrolite Bar,"An Electrolite bar, can be used to craft Orion equipment.",230,craftingMaterial
+arcana_essence_abyssEssence,Abyss Essence,A solidified essence of the abyssal void of impending judgement.,10,craftingMaterial
+arcana_essence_aeonEssence,Aeon Essence,An essence that manipulates the fabric of time.,10,craftingMaterial
+arcana_essence_aquaEssence,Aqua Essence,A solidified essence of the clear water.,10,craftingMaterial
+arcana_essence_arcaneEssence,Arcane Essence,A solidified essence of arcane magic.,10,craftingMaterial
+arcana_essence_azureEssence,Azure Essence,A solidified essence of the azure stars.,10,craftingMaterial
+arcana_essence_chrysoEssence,Chryso Essence,"The essence of the endless, shining gold.",10,craftingMaterial
+arcana_essence_electricEssence,Electric Essence,A solidified essence of the roaring thunder.,10,craftingMaterial
+arcana_essence_fireEssence,Fire Essence,A solidified essence of the grand fire.,10,craftingMaterial
+arcana_essence_iceEssence,Ice Essence,A solidified essence of the reclusive frost.,10,craftingMaterial
+arcana_essence_illuminatedEssence,Illuminated Essence,A solidified essence of the illuminated plains.,10,craftingMaterial
+arcana_essence_intimaEssence,Intima Essence,"A solidified essence of the beating, aspiring heart.",10,craftingMaterial
+arcana_essence_lumenEssence,Lumen Essence,A solidified essence of the colorless light.,10,craftingMaterial
+arcana_essence_lunarEssence,Lunar Essence,A solidified essence of the frozen moons.,10,craftingMaterial
+arcana_essence_machinaEssence,Machina Essence,The essence of the turning wheel of Machina.,10,craftingMaterial
+arcana_essence_mirageEssence,Mirage Essence,A solidified essence of the hollow illusions.,10,craftingMaterial
+arcana_essence_poisonEssence,Poison Essence,"The essence of the toxic, viridescent acid.",10,craftingMaterial
+arcana_essence_solarEssence,Solar Essence,An essence illuminating with Solar flare.,10,craftingMaterial
+arcana_essence_steelEssence,Steel Essence,"An artificial essence, forged from the fiery flames and the solid earth.",10,craftingMaterial
+arcana_essence_superstormEssence,Superstorm Essence,A solidified essence of the superstorm expanse.,10,craftingMaterial
+arcana_essence_terraEssence,Terra Essence,A solidified essence of the mother earth.,10,craftingMaterial
+arcana_essence_tripolarEssence,Tripolar Essence,A solidified essence of the tripolar stars.,10,craftingMaterial
+arcana_essence_vermilionEssence,Vermilion Essence,A solidified essence of iron and blood.,10,craftingMaterial
+arcana_essence_vileEssence,Anima Essence,A solidified essence of the cerulean spirits.,10,craftingMaterial
+arcana_essence_windEssence,Wind Essence,A solidified essence of the swirling wind.,10,craftingMaterial
+arcana_farmable_ceruleanRoll,Cerulean Roll,A roll that grows on plants? Sweet!,200,food
+arcana_flowers_blueSpectralweed,Blue Spectralweed,A blue flower that grows in the islands of turbulent seas.,400,craftingMaterial
+arcana_flowers_cherryBlossom,Cherry Blossom,"A pretty pink flower, often used for ornamental decoration parts.",400,craftingMaterial
+arcana_flowers_lunarClematis,Lunar Clematis,A blue-purple flower found commonly in Eminsnow planets.,280,craftingMaterial
+arcana_flowers_oceanIvy,Ocean Ivy,A beautiful ivy with colors of the arcane seas.,400,craftingMaterial
+arcana_flowers_orangeFluxroot,Orange Fluxroot,"A flower with the shape of roots, found grown in blistering planets.",400,craftingMaterial
+arcana_flowers_scentedLilac,Scented Lilac,"A magenta lilac flower, sometimes found in the desolate mountains.",400,craftingMaterial
+arcana_flowers_whiteDaisy,White Daisy,A white daisy flower that can be often seen in arcane forests.,400,craftingMaterial
+arcana_flowers_wildPraire,Wild Praire,A flower that's abundant in verdant planets.,400,craftingMaterial
+arcana_flowers_windflower,Windflower,A flower found grown in the Windswept fields.,400,craftingMaterial
+arcana_food_arcaneJuice,Arcane Juice,A space colored juice made of arcane essence. Grants glowing for 360s.,360,drink
+arcana_food_atlantisRipple,Atlantis Ripple,An azure cerulean blueberry drink reminiscent of the ocean waves. Grants swim boost for 360s.,400,drink
+arcana_food_blackSesameRoll,Black Sesame Roll,A simple roll filled with sweet black sesame. +20% max health for 60s.,100,preparedFood
+arcana_food_blackTea,Black Tea,"A reddish, brown tea. +20% max health for 180s.",150,drink
+arcana_food_flamingBao,Flaming Bao,A burning steamed bun with barbeque meat and vegetable fillings. +20% max health and +20% attack for 90s.,280,preparedFood
+arcana_food_greenTea,Green Tea,Luye's traditional green tea. gives a minor run boost for 120s.,150,drink
+arcana_food_metallicTea,Metallic Tea,A tea brewed with metallic parts. gives a minor jump boost for 120s.,150,drink
+arcana_food_oolongTea,Oolong Tea,"A yellowish, lightly sweet tea. +20% max energy for 180s.",150,drink
+arcana_food_roubao,Roubao,A simple traditional steamed bun with pork fillings. +20% max health for 90s.,160,preparedFood
+arcana_food_timelessTea,Timeless Tea,"A starry, bitter tea that never decays. +20% max energy for 60s.",150,drink
+arcana_food_viridescentTea,Viridescent Tea,Toxic green tea made with viridescent acid. gives a minor run and jump boost for 240s and inflicts acidic burning.,150,drink
+arcana_food_zhushiPlatter,Zhushi Platter,"A traditional seasoned chicken and vegetable dish, served with a roubao. +20% max health for 270s.",320,preparedFood
+arcana_food_zinnofeurTea,Zinnofeur Tea,Fiery red tea made with zinnofeur leaves. gives a +10% attack boost for 120s.,150,drink
+arcana_key_verdantKey,Verdant Key,A special key that can open Verdant Doors.,1200,craftingMaterial
+arcana_lootbox_arcanaStarterSet,Arcana Starter Set,A bundle of Arcana starter items to help with your journey. 'Ad astra per aspera'.,1000,mysteriousReward
+arcana_lootbox_bambooBundle,Bamboo Bundle,A bundle of 400 bamboo tiles.,500,mysteriousReward
+arcana_lootbox_thinBambooBundle,Thin Bamboo Bundle,A bundle of 400 thin bamboo tiles.,500,mysteriousReward
+arcana_misc_avianSigil,Avian Sigil,"A golden sigil, carved into the shape of a bird.",40,craftingMaterial
+arcana_misc_avostone,Avostone,A bright red crystal. More commonly known as an avolite crystal in other parts of the universe.,100,craftingMaterial
+arcana_misc_behestDongle,Behest Dongle,A tech dongle that contains details of Exousia's military technologies.,260,craftingMaterial
+arcana_misc_borealiteMagnus,Borealite Magnus,"A pair of ice-like shards, crafted from borealite.",100,craftingMaterial
+arcana_misc_bunbun,Bunbun,Bunbun!,100,craftingMaterial
+arcana_misc_conflagrationShard,Conflagration Shard,A burning shard of the neverceasing great fire.,20,craftingMaterial
+arcana_misc_copperComponent,Copper Component,A piece of wired component made with copper.,10,craftingMaterial
+arcana_misc_debrisChunk,Debris Chunk,A chunk of fallen debris and salvages.,5,craftingMaterial
+arcana_misc_enartzComposite,Enartz Composite,A durable crafting material smelted from Enartz. Used often for Exousia's policing equipment.,20,craftingMaterial
+arcana_misc_eternalPage,Eternal Page,"A bright, golden book page.",120,craftingMaterial
+arcana_misc_exoslateComposite,Exoslate Composite,A durable crafting material smelted from Exoslate. Used often for Exousia's military equipment.,20,craftingMaterial
+arcana_misc_fluorescentBeacon,Fluorescent Beacon,A green torch-like beacon.,60,craftingMaterial
+arcana_misc_geodeComponent,Geode Component,A piece of wired component made with geodes!,10,craftingMaterial
+arcana_misc_gingkoWood,Gingko Wood,A yellow-green colored wood.,40,craftingMaterial
+arcana_misc_gleamstone,Gleamstone,"A glowing stone, purple and blue spikes can be seen growing from it.",100,craftingMaterial
+arcana_misc_herb,Herb,A collection of herb plants used for medical purposes.,60,craftingMaterial
+arcana_misc_kuromatsuWood,Kuromatsu Wood,A dark pine wood found commonly in the snowy woods.,40,craftingMaterial
+arcana_misc_lapisShard,Lapis Shard,"A curious piece of deep blue shard dropped by Azure Golems, resembling lapis lazuli.",160,craftingMaterial
+arcana_misc_nanoweave,Nanoweave,A modern fabric that's specialized to increase elasticity and resistance.,220,craftingMaterial
+arcana_misc_oceanicTechCard,Oceanic Tech Card,An ornate tech card made from oceanite.,80,craftingMaterial
+arcana_misc_oceanite,Oceanite,"A rare metal found in the Azure Seas, commonly used by Arcanians to make jewelry and weaponry parts.",170,craftingMaterial
+arcana_misc_oceaniteComposite,Oceanite Composite,A composite material that is suited for making furnishing objects.,60,craftingMaterial
+arcana_misc_preceptDongle,Precept Dongle,A tech dongle that contains details of Exousia's policing technologies.,260,craftingMaterial
+arcana_misc_renatineCrystal,Renatine Crystal,A shining crystal radiating arcane magic.,80,craftingMaterial
+arcana_misc_renatineFragment,Renatine Fragment,A small crystal fragment.,40,craftingMaterial
+arcana_misc_rufescite,Rufescite,An iron-like metal infused with furor of the vermilion craze.,130,craftingMaterial
+arcana_misc_rufesciteComposite,Rufescite Composite,"A crafting material smelted from Rufescite, used to craft a variety of Exousia's general items.",20,craftingMaterial
+arcana_misc_scarletPatch,Scarlet Patch,"A patch of scarlet plants, native to Sanguine planets.",300,craftingMaterial
+arcana_misc_sceantine,Sceantine,A rare metal found in the Draco Ridge and Daybroken biomes that can withstand most heat sources such as fire and lava.,120,craftingMaterial
+arcana_misc_slipstreamComposite,Slipstream Composite,A glitched composite that is utilized by Evo Cybernetics.,140,craftingMaterial
+arcana_misc_solfireShard,Solfire Shard,A shard emitting blue fire at the center.,100,craftingMaterial
+arcana_misc_terminalSigma,Terminal Rune,"An engraved stone artifact, forged from aura of the sun, moon and stars.",1000,craftingMaterial
+arcana_misc_verrostinComponent,Verrostin Component,A rusty component made from verrostin.,100,craftingMaterial
+arcana_misc_verrostinTechCard,Verrostin Tech Card,A rusty tech card made from verrostin.,100,craftingMaterial
+arcana_misc_voltaicShard,Voltaic Shard,A mysterious dropped by Electric Golems that contains a large amount of electricity.,160,craftingMaterial
+arcana_misc_aeonLeaf,Aeon Leaf,A piece of metal leaf.,220,craftingMaterial
+arcana_misc_avoliteCore,Avolite Core,"A machine core forged with avolite, dropped from the Kluex Avatar.",600,craftingMaterial
+arcana_misc_cosmoTendrils,Cosmo Tendrils,"A bunch of blistering tendrils, dropped from the Cosmo Nemesis.",380,craftingMaterial
+arcana_misc_cryogenicCell,Cryogenic Cell,A specialized cryogenic cell dropped from the Big Ape projectors.,600,craftingMaterial
+arcana_misc_entropyEye,Entropy Eye,"A badge carried by the Ruin cultists, dropped by Asra Nox.",600,craftingMaterial
+arcana_misc_lunarInsignia,Lunar Insignia,An insignia of the ancient Lunar tribe.,800,craftingMaterial
+arcana_misc_morphosisEgg,Morphosis Egg,"A green, glowing egg. Dropped from the Evolapis.",380,craftingMaterial
+arcana_misc_solarMedallion,Solar Medallion,A medallion infused with solar powers.,800,craftingMaterial
+arcana_ore_animaOre,Anima Ore,"An anima ore, spotted often in the surface of Anima planets. Can be used for smelting.",80,craftingMaterial
+arcana_ore_arcaniumOre,Arcanium Ore,"An arcanium ore found commonly in Arcane planets, can be used for smelting.",110,craftingMaterial
+arcana_ore_aspiriteOre,Aspirite Ore,An aspirite ore that can be used to craft refined aspirite.,70,craftingMaterial
+arcana_ore_atlaGoldOre,Atla Gold Ore,"An atla-gold ore found commonly in Golden Forests, can be used for smelting.",110,craftingMaterial
+arcana_ore_atumiumOre,Atumium Ore,"An atumium ore, can be used to craft atumium bars.",170,craftingMaterial
+arcana_ore_azuriumOre,Azurium Ore,"An azurium ore, can be used to craft azurium bars.",170,craftingMaterial
+arcana_ore_borealiteOre,Borealite Ore,"A borealite ore found commonly in Ardent Taigas, can be used for smelting.",40,craftingMaterial
+arcana_ore_corrodiumOre,Corrodium Ore,"A corrodium ore found commonly in Viridescent planets, can be used for smelting.",90,craftingMaterial
+arcana_ore_enartzFragment,Enartz Fragment,"An Enartz fragment, can be used for smelting.",90,craftingMaterial
+arcana_ore_exoslateFragment,Exoslate Fragment,"An Exoslate fragment, can be used for smelting.",90,craftingMaterial
+arcana_ore_holosiumFragment,Holosium Fragment,"A holosium fragment scattered about in Illuminated planets, can be used for smelting.",120,craftingMaterial
+arcana_ore_immoriteOre,Immorite Ore,An immorite ore that can be used to craft refined immorite.,70,craftingMaterial
+arcana_ore_luminariumOre,Luminarium Ore,"A luminarium ore, can be used to craft luminarium bars.",170,craftingMaterial
+arcana_ore_morphosisShard,Morphosis Shard,"A morphosis shard, spotted often in the surface of Evoaquatic planets. Can be used for smelting.",80,craftingMaterial
+arcana_ore_necroiumFragment,Necroium Fragment,"A necroium fragment scattered about in Desolate planets, can be used for smelting.",120,craftingMaterial
+arcana_ore_noxionOre,Noxion Ore,A noxion ore that can be used to craft refined noxion.,70,craftingMaterial
+arcana_ore_phantasmaShard,Phantasma Shard,A shard of the illusive abyss.,100,craftingMaterial
+arcana_ore_rawDiathrylium,Raw Diathrylium,Raw diathrylium found in Timeless planets. Can be used for smelting.,170,craftingMaterial
+arcana_ore_thoriumOre,Electrolite Ore,"An Electrolite ore found commonly in the Superstorm planets of neverending thunder, can be used for smelting.",150,craftingMaterial
+arcana_ore_verrostinOre,Verrostin Ore,"A verrostin ore found commonly in the Badlands, can be used for smelting.",140,craftingMaterial
+arcana_sigils_abyssSigil,Abyss Sigil,"An alien sigil, once a construct used by the ancients.",10000,craftingMaterial
+arcana_sigils_aeonSigil,"Aeon Sigil, Siorraidh","An alien sigil, once a construct used by the ancients.",10000,craftingMaterial
+arcana_sigils_avoSigil,Avo Sigil,"An alien sigil, once a construct used by the ancients.",10000,craftingMaterial
+arcana_sigils_azureSigil,"Azure Sigil, Astecrois","An alien sigil, once a construct used by the ancients.",10000,craftingMaterial
+arcana_sigils_electricSigil,Electric Sigil,"An alien sigil, once a construct used by the ancients.",10000,craftingMaterial
+arcana_sigils_fireSigil,Fire Sigil,"An alien sigil, once a construct used by the ancients.",10000,craftingMaterial
+arcana_sigils_lumenSigil,Lumen Sigil,"An alien sigil, once a construct used by the ancients.",10000,craftingMaterial
+arcana_sigils_lunarSigil,"Lunar Sigil, Imihealach","An alien sigil, once a construct used by the ancients.",10000,craftingMaterial
+arcana_sigils_mirageSigil,Mirage Sigil,"An alien sigil, once a construct used by the ancients.",10000,craftingMaterial
+arcana_sigils_poisonSigil,"Poison Sigil, Venetox","An alien sigil, once a construct used by the ancients.",10000,craftingMaterial
+arcana_sigils_stormSigil,Storm Sigil,"An alien sigil, once a construct used by the ancients.",10000,craftingMaterial
+arcana_sigils_vermilionSigil,"Vermilion Sigil, Lowenherz","An alien sigil, once a construct used by the ancients.",10000,craftingMaterial
+arcana_sigils_windSigil,Wind Sigil,"An alien sigil, once a construct used by the ancients.",10000,craftingMaterial
+arcana_teabag_blackTeabag,Black Teabag,A teabag for brewing black tea at a tea brewer.,10,craftingMaterial
+arcana_teabag_greenTeabag,Green Teabag,A teabag for brewing green tea at a tea brewer.,10,craftingMaterial
+arcana_teabag_metallicTeabag,Metallic Teabag,A teabag for brewing metallic tea at a tea brewer.,10,craftingMaterial
+arcana_teabag_oolongTeabag,Oolong Teabag,A teabag for brewing oolong tea at a tea brewer.,10,craftingMaterial
+arcana_teabag_timelessTeabag,Timeless Teabag,A teabag for brewing timeless tea at a tea brewer.,10,craftingMaterial
+arcana_teabag_viridescentTeabag,Viridescent Teabag,A teabag for brewing viridescent tea at a tea brewer.,10,craftingMaterial
+arcana_teabag_zinnofeurTeabag,Zinnofeur Teabag,A teabag for brewing zinnofeur tea at a tea brewer.,10,craftingMaterial
+arcana_vendor_1_bronzeFortuneBox,Bronze Fortune Box,Open this to recieve a mysterious reward!,200,mysteriousReward
+arcana_vendor_1_goldenFortuneBox,Golden Fortune Box,Open this to recieve a mysterious reward!,10000,mysteriousReward
+arcana_vendor_1_silverFortuneBox,Silver Fortune Box,Open this to recieve a mysterious reward!,1000,mysteriousReward
+elemental_crafting_anemoneWood,Anemone Wood,"A dark colored wood, once used by villages in Windswept planets.",70,craftingMaterial
+elemental_crafting_aquamarineStone,Aquamarine Stone,One of the many blue crystals in the abundance of the deep.,100,craftingMaterial
+elemental_crafting_ariostone,Ariostone,"Fragment of the harmonic wind, found commonly in Windswept planets.",100,craftingMaterial
+elemental_crafting_dryPlate,Dry Plate,An orange-brown plating.,100,craftingMaterial
+elemental_crafting_evernightCrystal,Evernight Crystal,Crystal of the everlasting darkness.,100,craftingMaterial
+elemental_crafting_florastone,Florastone,A stone found only at the deepest of the overgrown jungle.,100,craftingMaterial
+elemental_crafting_magifireCrystal,Magifire Crystal,A warm crystal infused with ancient magic and the desert heat.,100,craftingMaterial
+elemental_crafting_pinkAquamarine,Pink Aquamarine,The crystal that hosts the oceanic magic when arcane sources infected the deep.,100,craftingMaterial
+horizon_crafting_horizonTechCard,Horizon Tech Card,A mysterious tech card crafted from necroium.,100,craftingMaterial
+arcana_mech_anubis_body,Anubis Mech Body,"An open-top mech body, improvised from the Venturer by the Aurea Order.",8800,mechPart
+monarch_crafting_holosiumStar,Holosium Star,A rare material synthesized from solarium and illuminated essence.,160,craftingMaterial
+monarch_crafting_monarchEmblem,Monarch Emblem,"An emblem shaped like a butterfly, can be used to craft Monarch equipment.",80,craftingMaterial
+orion_crafting_enhancedBattery,Enhanced Battery,An advanced battery unit.,320,craftingMaterial
+orion_crafting_jupiterCell,Jupiter Cell,A cell machinary infused with arcane essence.,400,craftingMaterial
+orion_crafting_orionTechCard,Orion Tech Card,An upgraded tech card used in most Orion machines.,80,craftingMaterial
+orion_crafting_regulusCell,Regulus Cell,A cell machinary infused with superstorm essence.,400,craftingMaterial
+orion_crafting_ursaplate,Ursaplate,A reinforced plate material used to manufacture most of Orion's goods.,60,craftingMaterial
+solar_crafting_solarCore,Solar Core,"An ancient device that appears to be some sort of an energy core, its true purpose unknown.",420,craftingMaterial
+solar_crafting_solarCoreFragment,Solar Core Fragment,A piece of a broken down solar core.,80,craftingMaterial
+workshop_crafting_dustriumConnector,Dustrium Connector,"A machinary part, crafted from Dustrium.",80,craftingMaterial
+workshop_crafting_dustriumPanel,Dustrium Panel,A dark panel refined from dustrium.,50,craftingMaterial
+workshop_crafting_dustriumPlate,Dustrium Plate,A heavy plate refined from dustrium.,60,craftingMaterial
+workshop_crafting_GS8TechChip,GS8 Tech Chip,A tech chip found in weapondry used by Section 8 of the Workshop of Gears.,110,craftingMaterial
+workshop_crafting_rawDustrium,Raw Dustrium,A fragment of raw dustrium.,90,craftingMaterial
+arcana_liquid_arcaneWater,Arcane Water,A measure of water sprinkled with arcane magic.,,liquid
+arcana_liquid_illuminatedWater,Illuminated Water,A pale colored liquid.,,liquid
+arcana_liquid_neonWater,Neon Water,A neon colored liquid.,,liquid
+arcana_liquid_ruinousWater,Ruinous Water,A mysterious dark liquid.,,liquid
+arcana_liquid_viridescentAcid,Viridescent Acid,"A highly acidic liquid, found in Viridescent planets.",,liquid
+aeolus_tile1,Ariostone Bricks,Bricks made from ariostone.,0,block
+aeolus_tile2,Heavy Ariostone Bricks,Bricks made from ariostone.,0,block
+aeolus_tile3,Ariostone Flooring,A brick flooring made from ariostone.,0,block
+aeolus_tile4,Arius Construct Beam,A beam coated with anemone wood.,0,block
+aeolus_tile5,Anemone Wood Beam,A beam of anemone wood.,0,block
+aeolus_tile6,Ariostone Wall,A wall made from ariostone.,0,block
+aeon_tile1,Aeon Flooring,A timeless flooring tile.,0,block
+aeon_tile2,Aeon Wall,A timeless wall tile.,0,block
+aeon_tile3,Aeon Stone Wall,A stone wall tile.,0,block
+aeon_tile4,Aeon Panel DEC,A sloped panel.,0,block
+aeon_tile5,Chrono Panel,A durable material found only in Timeless structures.,0,block
+ambersoil_tile1,Ambersoil Dirt,A yellowish soil found in Ambersoil biomes.,0,block
+animus_tile1,Ketsueki Rock,A blood colored rock.,0,block
+animus_tile2,Animus Bricks,"Dark, shadowy colored bricks.",0,block
+animus_tile3,Animus Wood,"A dark, shadowy colored wood chunk.",0,block
+animus_tile4,Animus Crystals,Strange blue crystals that emit a faint light.,0,block
+animus_tile5,Animus Smooth Stone,A dark smooth stone brick.,0,block
+animus_tile6,Animus Flooring,A blood red flooring block.,0,block
+arcana_platform_aeonPlatform,Aeon Platform,A timeless platform.,0,block
+arcana_platform_astralPlatform,Astral Platform,A platform carefully crafted with sandstone and composite materials.,0,block
+arcana_platform_atlantisPlatform,Atlantis Platform,A golden platform found in the ocean ruins.,0,block
+arcana_platform_exoslatePlatform,Exoslate Platform,A dark platform made with exoslate.,0,block
+arcana_platform_kuromatsuPlatform,Kuromatsu Platform,Nicely finished wooden platforms.,0,block
+arcana_platform_nullaPlatform,Nulla Platform,A pale platform.,0,block
+arcana_platform_verrostinPlatform,Verrostin Platform,A durable platform made from verrostin.,0,block
+arcana_tile1,Magiwood Window,A wooden window.,0,block
+arcana_tile10,Magiwood Beam,A magiwood beam. Good for building simple structures.,0,block
+arcana_tile11,Magiwood Log,A magiwood log. Good for building simple structures.,0,block
+arcana_tile12,Arcane Roofing,A solid roofing tile.,0,block
+arcana_tile13,Arcane Leaf Block,A composition of plants.,0,block
+arcana_tile14,Arcane Flower Block,A composition of flowers.,0,block
+arcana_tile15,Filled Magiwood Window,A wooden window.,0,block
+arcana_tile16,Cathaya Tile,A brightly colored roofing tile.,0,block
+arcana_tile17,Cathaya Roofing,A brightly colored roofing tile.,0,block
+arcana_tile18,Gingko Tile,A brightly colored roofing tile.,0,block
+arcana_tile19,Gingko Roofing,A brightly colored roofing tile.,0,block
+arcana_tile2,Magiwood Fence,A wooden fence made of magiwood.,0,block
+arcana_tile20,Maple Flower Block,A composition of flowers.,0,block
+arcana_tile21,Cathaya Panel,A wooden wall panel.,0,block
+arcana_tile22,Tree Branch Block,A block of tree branches.,0,block
+arcana_tile23,Myriad Leaf Block,A composition of colorful plants.,0,block
+arcana_tile24,Sloped Concrete Block,A sloped concrete tile.,0,block
+arcana_tile25,Sloped Rusty Block,A sloped rusty copper tile.,0,block
+arcana_tile3,Magiwood Bridge,A wooden bridge made of magiwood.,0,block
+arcana_tile4,Magiwood Ornate Flooring,An ornate flooring block.,0,block
+arcana_tile5,Magiwood Panelling,This wood panelling was fashionable in a distant era.,0,block
+arcana_tile6,Magiwood Planks,Wood that has been prepared for building and crafting.,0,block
+arcana_tile7,Magiwood Flooring,A simple flooring built on cobblestone.,0,block
+arcana_tile8,Ornate Magiwood,Expertly treated ornate wood.,0,block
+arcana_tile9,Unrefined Magiwood,"Rough and unrefined, this wood looks freshly chopped.",0,block
+arcaneDesert_tile1,Arcane Sand,A reddish sand block.,0,block
+arcaneDesert_tile2,Sand,Soft and warm sand.,0,block
+arcaneDesert_tile3,Arcane Blaststone,"A blaststone block, looks tough.",0,block
+arcaneForest_tile1,Arcane Dirt,A blueish dirt block sprinkled with arcane magic.,0,block
+arcaneForest_tile2,Arcane Cobblestone,A blueish stone block sprinkled with arcane magic.,0,block
+arcaneForest_tile3,Arcane Blaststone,"A blaststone block, looks tough.",0,block
+arcaneTundra_tile1,Frozen Dirt,A frozen dirt block.,0,block
+arcaneTundra_tile2,Arcane Ice,A solid ice block sprinkled with arcane magic. Emits a faint light.,0,block
+ardentTaiga_tile1,Ardent Rock,An orangeish rock.,0,block
+ardentTaiga_tile2,Ardent Brick,"A worn, orangeish stone brick.",0,block
+ardentTaiga_tile3,Ardent Ice,A deep blue ice block.,0,block
+ardentTaiga_tile4,Ardent Wood,A deep blue chunk of wood.,0,block
+ashen_tile1,Ashmarble,An ash-colored stony material. Its surface is unexpectedly smooth.,0,block
+astral_tile1,Astral Flooring,An Arcanian flooring material made from sandstone.,0,block
+astral_tile10,Metallic Fabric Ashen,An gray material made from a flexible metallic texile.,0,block
+astral_tile2,Astral Carpet Flooring,"An Arcanian flooring material, covered with blue carpet.",0,block
+astral_tile3,Astral Bricks,An Arcanian sandstone building material.,0,block
+astral_tile4,Astral Sandstone Beam,An Arcanian sandstone support material.,0,block
+astral_tile5,Astral Fabric Ocean,An Arcanian fabric tile used for decorating purposes.,0,block
+astral_tile6,Astral Fabric Desert,An Arcanian fabric tile used for decorating purposes.,0,block
+astral_tile7,Astral Sloped Panel Ocean,An Arcanian composite material used to build complex structures.,0,block
+astral_tile8,Astral Sloped Panel Desert,An Arcanian composite material used to build complex structures.,0,block
+astral_tile9,Azurium Flooring,An ancient constructing material made from azurium. Highly durable.,0,block
+automated_tile1,S01 Panel A,A panel made from scraps.,0,block
+automated_tile2,S01 Panel B,A panel made from scraps.,0,block
+azureDesert_tile1,Hardened Sand,A dry sand block that has been hardened with time.,0,block
+azureDesert_tile2,Azure Sand,Sand that has been sprinkled with the element of Azure.,0,block
+bleuark_tile1,Seastone Block,A dark blue stone block.,0,block
+bleuark_tile2,Golden Sand Block,Gold-colored sand.,0,block
+bleuark_tile3,Seastone Flooring,A seastone flooring surfaced with Atla gold.,0,block
+bleuark_tile4,Seastone Brick,A smoothed seastone brick tile.,0,block
+bleuark_tile5,Atlantis Wall,A wall tile crafted with Atla gold.,0,block
+bleuark_tile6,Atlantis Support Beam,A support beam crafted with Atla gold and seastone.,0,block
+bleuark_tile7,Seastone Pillar,A smooth pillar crafted from seastone.,0,block
+bleuark_tile8,Atlantis Gold Block,An Atla gold block.,0,block
+blistering_tile1,Blistering Cobblestone,A reddish cobblestone block.,0,block
+borealite_tile1,Borealite Wall,A borealite wall.,0,block
+borealite_tile2,Borealite Plating,A borealite wall.,0,block
+borealite_tile3,Borealite Pillar,A borealite pillar.,0,block
+borealite_tile4,Borealite Beam,A borealite beam.,0,block
+borealite_tile5,Opus Deca,A borealite beam.,0,block
+borealite_tile6,Opus Hecto,A borealite beam.,0,block
+borealite_tile7,Opus Kilo,A borealite beam.,0,block
+borealite_tile8,Opus Mega,A borealite beam.,0,block
+cerueon_tile1,Cerueon Dirt,"A blueish dirt tile, looks enchanted.",0,block
+cerueon_tile2,Cerueon Flower Block,"A blue flower tile, looks enchanted.",0,block
+desolate_tile1,Ruinous Stone,"A dark, smoldering rock.",0,block
+desolate_tile2,Desolate Cobblestone,A black cobblestone block.,0,block
+elysia_tile1,Resort Carpeted Timber,A carpeted wooden tile.,0,block
+elysia_tile2,Resort Carpeted Flooring,"A carpeted green flooring, somewhat resembles the texture of bamboos.",0,block
+elysia_tile3,Resort Green Support,An emerald-colored wall support.,0,block
+elysia_tile4,Resort White Support,A pale-colored wall support.,0,block
+eminsnow_tile1,Eminsnow Dirt,Soft and fluffy snowy dirt.,0,block
+empress_tile1,Empress Gold Block,A golden patterned tile.,0,block
+empress_tile2,Empress Gold Flooring,A golden patterned flooring.,0,block
+empress_tile3,Empress Flooring,A gold plated flooring.,0,block
+empress_tile4,Empress Roofing,A gold plated roofing.,0,block
+empress_tile5,Empress Wall,A dark wall panel.,0,block
+empress_tile6,Empress Sleek Panel,A sleek dark wall panel.,0,block
+evoaquatic_tile1,Evoaquatic Mud,A greenish mud tile.,0,block
+evoaquatic_tile2,Evoaquatic Dirt,A blueish dirt tile.,0,block
+evoaquatic_tile3,Evoaquatic Rock,A yellowish rock tile.,0,block
+evoaquatic_tile4,Evoaquatic Crystals,"A block of green crystals, emitting faint light.",0,block
+exousia_tile1,Exousian White Tile,"A minimalistic while tile, often used in Exousian modern structures.",0,block
+exousia_tile10,Enartz Machinery Tile,A durable white machinary crafted from Enartz composites.,0,block
+exousia_tile11,Enartz Smooth Wall,A patterned smooth wall crafted from Enartz composites.,0,block
+exousia_tile12,Exoslate Plated Wall,A plated wall panel crafted from Exoslate composites.,0,block
+exousia_tile13,Exoslate Vented Wall,A vented wall panel crafted from Exoslate composites.,0,block
+exousia_tile14,Exoslate Plating,A durable plating tile crafted from Exoslate composites.,0,block
+exousia_tile15,Composite Enartz Panel,"A durable sloped panel tile, used to construct complex buildings.",0,block
+exousia_tile16,Composite Rufescite Panel,"A durable red sloped panel tile, used to construct complex buildings.",0,block
+exousia_tile17,Composite Exoslate Panel,"A durable black sloped panel tile, used to construct complex buildings.",0,block
+exousia_tile18,Composite Endoslate Panel,"A durable dark black sloped panel tile, used to construct complex buildings.",0,block
+exousia_tile19,Smooth Enartz Panel,"A durable white smooth panel tile, used to construct complex buildings.",0,block
+exousia_tile2,Exousian Flooring WRB,A minimalistic while flooring tile used to construct composite structures.,0,block
+exousia_tile20,Smooth Rufescite Panel,"A durable red smooth panel tile, used to construct complex buildings.",0,block
+exousia_tile21,Smooth Exoslate Panel,"A durable black smooth panel tile, used to construct complex buildings.",0,block
+exousia_tile22,Smooth Endoslate Panel,"A durable dark black smooth panel tile, used to construct complex buildings.",0,block
+exousia_tile23,Exousian Red Glass,A sloped red glass tile.,0,block
+exousia_tile24,Exousian Gray Glass,A sloped gray glass tile.,0,block
+exousia_tile25,Enartz Frame,A sloped white metal frame.,0,block
+exousia_tile26,Exoslate Frame,A sloped black metal frame.,0,block
+exousia_tile27,Unlit Window,A glass window.,0,block
+exousia_tile28,Lit Window,A glass window.,0,block
+exousia_tile29,Enartz Pipe H,A large metal pipe.,0,block
+exousia_tile3,Exousian Flooring WRB,A minimalistic red and white flooring tile used to construct composite structures.,0,block
+exousia_tile30,Enartz Pipe V,A large metal pipe.,0,block
+exousia_tile31,Chainlink Fence,A chainlink fence.,0,block
+exousia_tile32,Vermilion Panel,A durable material found in Vermilion ruins.,0,block
+exousia_tile4,Exousian Flooring WRB,A minimalistic black and white flooring tile used to construct composite structures.,0,block
+exousia_tile5,Light Exoslate Tile,A light slate tile used to construct Exousian modern structures.,0,block
+exousia_tile6,Dark Exoslate Tile,A dark slate tile used to construct Exousian modern structures.,0,block
+exousia_tile7,Red Exoslate Flooring,A red slate flooring tile used to construct Exousian modern structures.,0,block
+exousia_tile8,Black Exoslate Flooring,A black slate flooring tile used to construct Exousian modern structures.,0,block
+exousia_tile9,Enartz Plating,A durable plating tile crafted from Enartz composites.,0,block
+ferocious_tile1,Ferocious Soil,A soil mixed with wastes.,0,block
+ferocious_tile2,Ferocious Dirt,A sturdy dirt block filled with rusted materials.,0,block
+gaea_tile1,Florastone Bricks,An ancient stone brick block made of florastone.,0,block
+gaea_tile2,Florastone Pillar,An ancient stone pillar made of florastone.,0,block
+gaea_tile3,Florastone Wall,A decorative florastone wall.,0,block
+gaea_tile4,Florastone Roofing,A florastone roofing tile.,0,block
+glowtearUnderground_tile1,Glowspectral Stone,A large glowing blue rock found in Glowtear Undergrounds.,0,block
+glowtearUnderground_tile2,Glowspectral Soil,A solid soil found in Glowtear Undergrounds.,0,block
+glowtear_tile1,Tearstone,A dark blue stone tile.,0,block
+glowtear_tile2,Glowtear Crystal,"A glowing cyan crystal block, emits light.",0,block
+goldenForest_tile1,Golden Grass Block,A shiny golden grass block.,0,block
+goldenForest_tile2,Golden Leaves,A pile of golden leaves.,0,block
+havencrest_tile1,Arcane Sandstone,A sandstone block.,0,block
+havencrest_tile2,Havencrest Flooring,A sandstone flooring tile.,0,block
+havencrest_tile3,Decorative Sandstone,A decorative sandstone tile.,0,block
+havencrest_tile4,Sandstone Fence,A solid sandstone fence.,0,block
+havencrest_tile5,Brightstill Wall Panel,A bright wall panel.,0,block
+havencrest_tile6,Havencrest Bridge Block,A sandstone bridge tile.,0,block
+havencrest_tile7,Stone Support Block,A solid brick tile.,0,block
+havencrest_tile8,Havencrest Roofing,A silver colored roofing tile.,0,block
+hephaestus_tile1,Magistone Flooring,An ancient flooring made with magistone.,0,block
+hephaestus_tile2,Magistone Block,An ancient building material fused with magifire.,0,block
+hephaestus_tile3,Dry Stone Bridge,A dry stone bridge tile.,0,block
+hephaestus_tile4,Dry Stone Block,An ancient building material carrying the desert heat.,0,block
+hephaestus_tile5,Magistone Wall,A decorative magistone wall tile.,0,block
+hephaestus_tile6,Magistone Pillar,A decorative magistone pillar.,0,block
+horizon_tile1,Horizon Roofing Tile,A dark roofing tile.,0,block
+horizon_tile2,Horizon Glyph Block,A dark glyph block.,0,block
+horizon_tile3,Horizon Flooring,A solid flooring tile.,0,block
+horizon_tile4,Cataclysmic Light Beam,A metal beam crafted from necroium.,0,block
+horizon_tile5,Cataclysmic Dark Beam,A metal beam crafted from necroium.,0,block
+horizon_tile6,Cataclysmic Panel,A dark sloped panel crafted from necroium.,0,block
+jadeMorass_tile1,Jade Flower Block,Green flowers found in Jade Morass biomes.,0,block
+jadeMorass_tile2,Jade Crystal Block,Glowing green crystals found in Jade Morass biomes.,0,block
+lunar_tile1,Kuromatsu Fence,"A dark ornate wooden fence, crafted by the Tsukuyomi clan.",0,block
+lunar_tile10,Kuromatsu Ornate Flooring,An ornate flooring tile.,0,block
+lunar_tile11,Kuromatsu Ornate Roofing,A dark ornate roofing tile.,0,block
+lunar_tile12,Kuromatsu Ornate Tile,An ornate roof tile commonly found in buildings of Lunar villages.,0,block
+lunar_tile13,Kuromatsu Ceiling Tile,An ornate ceiling tile commonly found in buildings of Lunar villages.,0,block
+lunar_tile14,Sakura Block,A block of sakura petals.,0,block
+lunar_tile15,Kuromatsu Ornate Wood H,Eh?... What is this alien material? Horizontal ornate wood? Impossible!,0,block
+lunar_tile16,Sakura Leaf Block,A block of pink leaves.,0,block
+lunar_tile17,Luinarium Flooring,An ancient constructing material made from luminarium. Highly durable.,0,block
+lunar_tile2,Kuromatsu Window,"A dark ornate wooden window tile, crafted by the Tsukuyomi clan.",0,block
+lunar_tile3,Kuromatsu Bridge Tile,"A dark wooden bridge tile, made from kuromatsu wood.",0,block
+lunar_tile4,Kuromatsu Timber,"A dark timber, prepared with kuromatsu wood.",0,block
+lunar_tile5,Kuromatsu Flooring,"A dark wooden flooring tile, made from kuromatsu wood.",0,block
+lunar_tile6,Lunar Carpet Flooring,A carpet tile dyed with the signature Lunar purple.,0,block
+lunar_tile7,Lunar Ornate Wall,An ornate wall decorated in a traditional pattern.,0,block
+lunar_tile8,Kuromatsu Ornate Wood,"An ornate wooden beam, often used for critical construction parts.",0,block
+lunar_tile9,Kuromatsu Thick Wood,"An thick wooden beam, often used for critical construction parts.",0,block
+luye_tile1,Luye Support Beam,"A solid, metal beam.",0,block
+luye_tile2,Luye Mechanical Wall,"A metal plated wall, looks fairly durable.",0,block
+luye_tile3,Luye Tech Block,A metal plated block filled with machinary.,0,block
+luye_tile4,Luye Sloped Plating,A rusty metal plating tile.,0,block
+luye_tile5,Luye Smooth Wall,A smooth wall panel for building interior walls.,0,block
+monarch_tile1,Palestone Block,A pale blaststone block.,0,block
+monarch_tile10,Holosium Wall,A pale stone wall.,0,block
+monarch_tile2,Voidstone Block,A dark blaststone block.,0,block
+monarch_tile3,Pale Ash Block,A pale ash block.,0,block
+monarch_tile4,Dark Ash Block,A dark ash block.,0,block
+monarch_tile5,Palace Stone Brick,A grey brick tile..,0,block
+monarch_tile6,Palace Heavy Brick,A heavy grey brick tile.,0,block
+monarch_tile7,Palace Stone Pillar,A grey stone pillar.,0,block
+monarch_tile8,Palace Wall,A grey brick wall tile.,0,block
+monarch_tile9,Palace Stone Fence,A black and white stone-made fence.,0,block
+nihil_tile1,Akyri Gi,The black void manifested as the solid earth.,0,block
+nihil_tile2,Nullastone,A distorted cobblestone tile.,0,block
+nulla_tile1,Nulla Glass Flooring,A fancy black and white glass flooring tile.,0,block
+nulla_tile2,Nulla White Flooring,A fancy white flooring tile.,0,block
+nulla_tile3,Nulla Grey Carpet,A grey carpet tile.,0,block
+nulla_tile4,Nulla Bricks,A distorted brick tile.,0,block
+nulla_tile5,Nulla Fence,A black and white palace fence tile.,0,block
+nulla_tile6,Illuminated Leaf Block,A composition of pale plants.,0,block
+orion_tile1,Soft Prefab Wall,A soft prefabricated wall panel.,0,block
+orion_tile10,Orion Light Panel,"A sloped metal panel used by the Orion, painted white.",0,block
+orion_tile11,Orion Machinery Panel,"A sloped metal panel composed of a mix of machinery, used by the Orion.",0,block
+orion_tile12,Orion Inset Panel,A sloped inset panel.,0,block
+orion_tile13,Blue LED Panel,A blue light display panel.,0,block
+orion_tile14,Pink LED Panel,A pink light display panel.,0,block
+orion_tile2,White Concrete Floor,A white concrete flooring tile.,0,block
+orion_tile3,Dark Thin Support,"A thin metal support beam, painted black.",0,block
+orion_tile4,Light Thin Support,"A thin metal support beam, painted white.",0,block
+orion_tile5,Pipebeam Connector,A pipe-like metal support tile.,0,block
+orion_tile6,Orion Dark Girder,A dark girder utilized by the Orion.,0,block
+orion_tile7,Orion Light Beam,"A reinforced beam used by the Orion, painted white.",0,block
+orion_tile8,Orion Dark Beam,"A reinforced beam used by the Orion, painted black.",0,block
+orion_tile9,Orion Dark Panel,"A sloped metal panel used by the Orion, painted dark-blue.",0,block
+polar_tile1,Aspirite Rock,A red rock found in aspirite caves.,0,block
+polar_tile2,Noxion Rock,A green rock found in noxion caves.,0,block
+polar_tile3,Immorite Rock,A blue rock found in immorite caves.,0,block
+polar_tile4,Bamboo Stalk,A bamboo tile.,0,block
+polar_tile5,Thin Bamboo Stalk,A thin bamboo tile.,0,block
+sanguine_tile1,Sanguine Grass Block,A crimson grass block.,0,block
+sanguine_tile2,Sanguine Mud,A reddish mud block.,0,block
+solarized_tile1,Solarized Rock,"A piece of rock, covered with bright, burning grass.",0,block
+solarized_tile2,Umberstone Rock,A piece of rock. Highly durable.,0,block
+solarized_tile3,Solite Crystal Block,A deposite of burning crystals.,0,block
+solarized_tile4,Solar Ancient Material,An ancient building material.,0,block
+solar_tile1,Umberstone Bricks,An ancient construction material made from umberstone and solar crystal. Highly durable.,0,block
+solar_tile2,Umberstone Flooring,An ancient constructing material made from umberstone and solar crystal. Highly durable.,0,block
+solar_tile3,Umberstone Pillar,An ancient pillar made from umberstone and solar crystal. Highly durable.,0,block
+solar_tile4,Activated Umberstone Pillar,An ancient pillar made from umberstone and solar crystal. Highly durable.,0,block
+solar_tile5,Umberstone Constructor,An ancient constructing material made from umberstone. Highly durable.,0,block
+solar_tile6,Activated Umberstone Constructor,An ancient constructing material made from umberstone. Highly durable.,0,block
+stahlernBadlands_tile1,Stahlern Dirt,A dirt block.,0,block
+steelblades_tile1,Stahlern Brick Tile,A durable stack of bricks.,0,block
+steelblades_tile2,Verrostin Tile,A durable building material made from verrostin.,0,block
+steelblades_tile3,Verrostin Flooring,A durable floor tile made from verrostin.,0,block
+steelblades_tile4,Stahlern Beam,A durable support beam.,0,block
+steelblades_tile5,Verrostin Beam,"A durable support beam, emits a faint yellow light.",0,block
+steelblades_tile6,Stahl-Verro Panel,A wall panel. Looks highly durable.,0,block
+steelblades_tile7,Verrostin Panel,A wall panel. Looks highly durable.,0,block
+steelblades_tile8,Stahlern Panel,A wall panel. Looks highly durable.,0,block
+superstormExpanse_tile1,Superstorm Rock,A piece of thunder stroke rock.,0,block
+superstormExpanse_tile2,Superstorm Mud,A piece of thunder stroke mud.,0,block
+superstormExpanse_tile3,Superstorm Dirt,A piece of lightning tased dirt.,0,block
+superstormExpanse_tile4,Boltstone,A glowing stone.,0,block
+thalassa_tile1,Aquamarine Flooring,A blue flooring surfaced with pink aquamarine.,0,block
+thalassa_tile2,Small Aquamarine Brick,Bricks made from aquamerine stone.,0,block
+thalassa_tile3,Aquamarine Block,A stone block made from aquamarine.,0,block
+thalassa_tile4,Pink Aquamarine Block,A stone block made from pink aquamarine.,0,block
+thalassa_tile5,Heavy Aquamarine Brick,Bricks made from aquamerine stone.,0,block
+thalassa_tile6,Aquamarine Roofing,A deep blue roofing made from aquamarine stone.,0,block
+timeless_tile1,Timeless Stone Brick,A yellowish stone brick tile.,0,block
+timeless_tile2,Timeless Wood,A yellowish wood tile.,0,block
+turbulent_tile1,Turbulent Rock,A sea stained rock block.,0,block
+verdant_tile1,Verdant Dirt,A dirt block.,0,block
+verdant_tile2,Verdant Rock,A brownish rock.,0,block
+viridescent_tile1,Viridescent Wood Block,"A green wood block, laced with acid.",0,block
+viridescent_tile2,Viridescent Scrap Panel,A rusty scrap panel tile.,0,block
+viridescent_tile3,Viridescent Leaf Block,"A bright, green leaf block.",0,block
+volcanicCave_tile1,Volcanic Rock,A reddish volcanic rock.,0,block
+windswept_tile1,Highland Dirt,A dirt block covered with lush grass.,0,block
+workshop_tile1,Orange Workshop Panel,"A wall panel, painted in orange.",0,block
+workshop_tile10,Blue Metal Support,A blue support tile used by the Workshop.,0,block
+workshop_tile2,Black Workshop Panel,"A wall panel, painted in black.",0,block
+workshop_tile3,Orange Workshop Wall,An orange wall tile used by the Workshop.,0,block
+workshop_tile4,Black Workshop Wall,A black wall tile used by the Workshop.,0,block
+workshop_tile5,Workshop Metal Flooring,A metal flooring tile used by the Workshop.,0,block
+workshop_tile6,Workshop Metal Support,A dark support tile used by the Workshop.,0,block
+workshop_tile7,Orange Machinery Panel,A machinery block covered in orange.,0,block
+workshop_tile8,Black Machinery Panel,A machinery block covered in black.,0,block
+workshop_tile9,Blue Metal Support,"A wall panel, painted in blue.",0,block
+arcana_throwable_boss_cosmoNemesis,Sakura Tribute,A shadowy stone covered in cherry blossom flowers...,,throwableItem
+arcana_throwable_boss_evolapis,Evo Abomination,A suspicious looking rock covered in green goo...,,throwableItem
+monarch_throwable_1,Illuminated Dart,"A throwing dart, emits light.",,throwableItem

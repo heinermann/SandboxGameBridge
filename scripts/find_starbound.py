@@ -5,6 +5,7 @@ import os
 import glob
 import csv
 import json
+import re
 
 out_data = []
 
@@ -20,6 +21,9 @@ for filename in glob.iglob("./**/*.*", recursive=True):
             continue
 
         if "itemName" in data and "shortdescription" in data:
+            data['shortdescription'] = re.sub(r"\^[^;]*;", "", data['shortdescription'])
+            if 'description' in data:
+                data['description'] = re.sub(r"\^[^;]*;", "", data['description'])
             out_data.append(data)
 
 with open("result.csv", 'w') as result:
