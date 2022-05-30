@@ -1,0 +1,240 @@
+localised_name,name,type
+Wooden chest,wooden-chest,item
+Iron chest,iron-chest,item
+Steel chest,steel-chest,item
+Storage tank,storage-tank,item
+Transport belt,transport-belt,item
+Fast transport belt,fast-transport-belt,item
+Express transport belt,express-transport-belt,item
+Underground belt,underground-belt,item
+Fast underground belt,fast-underground-belt,item
+Express underground belt,express-underground-belt,item
+Splitter,splitter,item
+Fast splitter,fast-splitter,item
+Express splitter,express-splitter,item
+Loader,loader,item
+Fast loader,fast-loader,item
+Express loader,express-loader,item
+Burner inserter,burner-inserter,item
+Inserter,inserter,item
+Long-handed inserter,long-handed-inserter,item
+Fast inserter,fast-inserter,item
+Filter inserter,filter-inserter,item
+Stack inserter,stack-inserter,item
+Stack filter inserter,stack-filter-inserter,item
+Small electric pole,small-electric-pole,item
+Medium electric pole,medium-electric-pole,item
+Big electric pole,big-electric-pole,item
+Substation,substation,item
+Pipe,pipe,item
+Pipe to ground,pipe-to-ground,item
+Pump,pump,item
+Rail,rail,rail-planner
+Train stop,train-stop,item
+Rail signal,rail-signal,item
+Rail chain signal,rail-chain-signal,item
+Locomotive,locomotive,item-with-entity-data
+Cargo wagon,cargo-wagon,item-with-entity-data
+Fluid wagon,fluid-wagon,item-with-entity-data
+Artillery wagon,artillery-wagon,item-with-entity-data
+Car,car,item-with-entity-data
+Tank,tank,item-with-entity-data
+Spidertron,spidertron,item-with-entity-data
+Spidertron remote,spidertron-remote,spidertron-remote
+Logistic robot,logistic-robot,item
+Construction robot,construction-robot,item
+Active provider chest,logistic-chest-active-provider,item
+Passive provider chest,logistic-chest-passive-provider,item
+Storage chest,logistic-chest-storage,item
+Buffer chest,logistic-chest-buffer,item
+Requester chest,logistic-chest-requester,item
+Roboport,roboport,item
+Lamp,small-lamp,item
+Red wire,red-wire,item
+Green wire,green-wire,item
+Arithmetic combinator,arithmetic-combinator,item
+Decider combinator,decider-combinator,item
+Constant combinator,constant-combinator,item
+Power switch,power-switch,item
+Programmable speaker,programmable-speaker,item
+Stone brick,stone-brick,item
+Concrete,concrete,item
+Hazard concrete,hazard-concrete,item
+Refined concrete,refined-concrete,item
+Refined hazard concrete,refined-hazard-concrete,item
+Landfill,landfill,item
+Cliff explosives,cliff-explosives,capsule
+Repair pack,repair-pack,repair-tool
+Blueprint,blueprint,blueprint
+Deconstruction planner,deconstruction-planner,deconstruction-item
+Blueprint book,blueprint-book,blueprint-book
+Boiler,boiler,item
+Steam engine,steam-engine,item
+Solar panel,solar-panel,item
+Accumulator,accumulator,item
+Nuclear reactor,nuclear-reactor,item
+Heat pipe,heat-pipe,item
+Heat exchanger,heat-exchanger,item
+Steam turbine,steam-turbine,item
+Burner mining drill,burner-mining-drill,item
+Electric mining drill,electric-mining-drill,item
+Offshore pump,offshore-pump,item
+Pumpjack,pumpjack,item
+Stone furnace,stone-furnace,item
+Steel furnace,steel-furnace,item
+Electric furnace,electric-furnace,item
+Assembling machine 1,assembling-machine-1,item
+Assembling machine 2,assembling-machine-2,item
+Assembling machine 3,assembling-machine-3,item
+Oil refinery,oil-refinery,item
+Chemical plant,chemical-plant,item
+Centrifuge,centrifuge,item
+Lab,lab,item
+Beacon,beacon,item
+Speed module,speed-module,module
+Speed module 2,speed-module-2,module
+Speed module 3,speed-module-3,module
+Efficiency module,effectivity-module,module
+Efficiency module 2,effectivity-module-2,module
+Efficiency module 3,effectivity-module-3,module
+Productivity module,productivity-module,module
+Productivity module 2,productivity-module-2,module
+Productivity module 3,productivity-module-3,module
+Rocket silo,rocket-silo,item
+Satellite,satellite,item
+Wood,wood,item
+Coal,coal,item
+Stone,stone,item
+Iron ore,iron-ore,item
+Copper ore,copper-ore,item
+Uranium ore,uranium-ore,item
+Raw fish,raw-fish,capsule
+Iron plate,iron-plate,item
+Copper plate,copper-plate,item
+Solid fuel,solid-fuel,item
+Steel plate,steel-plate,item
+Plastic bar,plastic-bar,item
+Sulfur,sulfur,item
+Battery,battery,item
+Explosives,explosives,item
+Water barrel,crude-oil-barrel,item
+Water barrel,heavy-oil-barrel,item
+Water barrel,light-oil-barrel,item
+Water barrel,lubricant-barrel,item
+Water barrel,petroleum-gas-barrel,item
+Water barrel,sulfuric-acid-barrel,item
+Water barrel,water-barrel,item
+Copper cable,copper-cable,item
+Iron stick,iron-stick,item
+Iron gear wheel,iron-gear-wheel,item
+Empty barrel,empty-barrel,item
+Electronic circuit,electronic-circuit,item
+Advanced circuit,advanced-circuit,item
+Processing unit,processing-unit,item
+Engine unit,engine-unit,item
+Electric engine unit,electric-engine-unit,item
+Flying robot frame,flying-robot-frame,item
+Rocket control unit,rocket-control-unit,item
+Low density structure,low-density-structure,item
+Rocket fuel,rocket-fuel,item
+Rocket part,rocket-part,item
+Nuclear fuel,nuclear-fuel,item
+Uranium-235,uranium-235,item
+Uranium-238,uranium-238,item
+Uranium fuel cell,uranium-fuel-cell,item
+Used-up uranium fuel cell,used-up-uranium-fuel-cell,item
+Automation science pack,automation-science-pack,tool
+Logistic science pack,logistic-science-pack,tool
+Military science pack,military-science-pack,tool
+Chemical science pack,chemical-science-pack,tool
+Production science pack,production-science-pack,tool
+Utility science pack,utility-science-pack,tool
+Space science pack,space-science-pack,tool
+Coin,coin,item
+Pistol,pistol,gun
+Submachine gun,submachine-gun,gun
+Vehicle machine gun,tank-machine-gun,gun
+Vehicle machine gun,vehicle-machine-gun,gun
+Vehicle flamethrower,tank-flamethrower,gun
+Shotgun,shotgun,gun
+Combat shotgun,combat-shotgun,gun
+Rocket launcher,rocket-launcher,gun
+Flamethrower,flamethrower,gun
+Land mine,land-mine,item
+Artillery cannon,artillery-wagon-cannon,gun
+Spidertron rocket launcher,spidertron-rocket-launcher-1,gun
+Spidertron rocket launcher,spidertron-rocket-launcher-2,gun
+Spidertron rocket launcher,spidertron-rocket-launcher-3,gun
+Spidertron rocket launcher,spidertron-rocket-launcher-4,gun
+Tank cannon,tank-cannon,gun
+Firearm magazine,firearm-magazine,ammo
+Piercing rounds magazine,piercing-rounds-magazine,ammo
+Uranium rounds magazine,uranium-rounds-magazine,ammo
+Shotgun shells,shotgun-shell,ammo
+Piercing shotgun shells,piercing-shotgun-shell,ammo
+Cannon shell,cannon-shell,ammo
+Explosive cannon shell,explosive-cannon-shell,ammo
+Uranium cannon shell,uranium-cannon-shell,ammo
+Explosive uranium cannon shell,explosive-uranium-cannon-shell,ammo
+Artillery shell,artillery-shell,ammo
+Rocket,rocket,ammo
+Explosive rocket,explosive-rocket,ammo
+Atomic bomb,atomic-bomb,ammo
+Flamethrower ammo,flamethrower-ammo,ammo
+Grenade,grenade,capsule
+Cluster grenade,cluster-grenade,capsule
+Poison capsule,poison-capsule,capsule
+Slowdown capsule,slowdown-capsule,capsule
+Defender capsule,defender-capsule,capsule
+Distractor capsule,distractor-capsule,capsule
+Destroyer capsule,destroyer-capsule,capsule
+Light armor,light-armor,armor
+Heavy armor,heavy-armor,armor
+Modular armor,modular-armor,armor
+Power armor,power-armor,armor
+Power armor MK2,power-armor-mk2,armor
+Portable solar panel,solar-panel-equipment,item
+Portable fusion reactor,fusion-reactor-equipment,item
+Personal battery,battery-equipment,item
+Personal battery MK2,battery-mk2-equipment,item
+Belt immunity equipment,belt-immunity-equipment,item
+Exoskeleton,exoskeleton-equipment,item
+Personal roboport,personal-roboport-equipment,item
+Personal roboport MK2,personal-roboport-mk2-equipment,item
+Nightvision,night-vision-equipment,item
+Energy shield,energy-shield-equipment,item
+Energy shield MK2,energy-shield-mk2-equipment,item
+Personal laser defense,personal-laser-defense-equipment,item
+Discharge defense,discharge-defense-equipment,item
+Discharge defense remote,discharge-defense-remote,capsule
+Wall,stone-wall,item
+Gate,gate,item
+Gun turret,gun-turret,item
+Laser turret,laser-turret,item
+Flamethrower turret,flamethrower-turret,item
+Artillery turret,artillery-turret,item
+Artillery targeting remote,artillery-targeting-remote,capsule
+Radar,radar,item
+Player port,player-port,item
+Unknown item,item-unknown,item
+Electric energy interface,electric-energy-interface,item
+Linked chest,linked-chest,item
+Heat interface,heat-interface,item
+Linked belt,linked-belt,item
+Infinity chest,infinity-chest,item
+Infinity pipe,infinity-pipe,item
+Item with inventory,item-with-inventory,item-with-inventory
+Item with label,item-with-label,item-with-label
+Item with tags,item-with-tags,item-with-tags
+Simple entity with force,simple-entity-with-force,item
+Simple entity with owner,simple-entity-with-owner,item
+Burner generator,burner-generator,item
+Unknown fluid,fluid-unknown,fluid
+Water,water,fluid
+Crude oil,crude-oil,fluid
+Steam,steam,fluid
+Heavy oil,heavy-oil,fluid
+Light oil,light-oil,fluid
+Petroleum gas,petroleum-gas,fluid
+Sulfuric acid,sulfuric-acid,fluid
+Lubricant,lubricant,fluid

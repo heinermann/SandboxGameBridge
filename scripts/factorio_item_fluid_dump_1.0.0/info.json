@@ -1,0 +1,13 @@
+{
+  "name": "factorio_item_fluid_dump",
+  "version": "1.0.0",
+  "factorio_version": "1.1",
+  "title": "Item & Fluid Dump for SandboxGameBridge",
+  "author": "Heinermann",
+  "contact": "",
+  "dependencies": [
+    "base >= 1.1"
+  ],
+  "homepage": "https://github.com/heinermann/SandboxGameBridge",
+  "description": "Dumper of IDs and names for SandboxGameBridge mapping"
+}
