@@ -1,0 +1,65 @@
+id,name,description,price,category
+liquiddarkwater,Dark Water,"D2OAs. Nearly identical in nature to heavy water, but with high concentrations of arsenic.
+Extractable, Centrifugable.",,liquid
+ff_mercury,Mercury,"Mercury is the only metal that is liquid at standard temperatures and pressures. Caution: Toxic
+Extractable, Centrifugable.",,liquid
+fusaltwater,Salt Water,"A measure of salt water.
+Extractable, Centrifugable.",,liquid
+fu_honeyice,Frozen Honey,"A measure of icy honey that is somehow in a perpetual liquid state. Cold to the touch.
+Centrifugable.",0,liquid
+fu_honeyspirit,Exspiravit Honey,"A measure of semi-transparent, white-hued honey. Known to be a potent hallucinogen.
+Centrifugable.",0,liquid
+fu_liquidhoney,Pure Honey,"A measure of sweet, sweet honey.
+Centrifugable.",0,liquid
+fu_liquidhoneyred,Crimson Honey,"Sickeningly sweet honey that contains nearly-microscopic meat and flesh particles in great abundance.
+Extractable, Centrifugable.",0,liquid
+helium3gasliquid,Helium-3,"Exceptional in nuclear applications despite being non-radioactive.
+Centrifugable.",,liquid
+liquidaether,Aether,"A measure of liquid aether, a strange black liquid. Feels dry.
++1 produce.
+Uses -0.5 fluid use & -1 seed use
+Centrifugable.",,liquid
+liquidbeer,Beer,"A holy liquid loved by even the Gods themselves.
+Growth Rate x2 & +1 produce.
+Extractable, Centrifugable.",,liquid
+liquidbioooze,Bio-Ooze,"A measure of bio-ooze.
+Extractable, Centrifugable.",,liquid
+liquidblacktar,Black Tar,"A measure of viscous tar.
+Extractable, Centrifugable.",,liquid
+liquidblood,Blood,"A measure of blood.
+Extractable, Centrifugable.",,liquid
+liquidcrystal,Liquified Crystal,"A measure of liquified crystals.
+Growth Rate x2.5 & +2 produce.
+-1 seed use
+Centrifugable.",,liquid
+liquidelderfluid,Essentia Obscura,"A measure of a strange, unidentifiable liquid.
+Growth Rate x1.5 & +2 produce.
+-1 seed use
+Centrifugable.",,liquid
+liquidgravrain,Blue Grav-Liquid,"A measure of blue grav-liquid, manipulating gravity upon touch. How does this liquid even exist!?
+Centrifugable.",,liquid
+liquidironfu,Liquid Iron,"Iron Fe has a melting point of 1811K (1537C). Let that be a word of caution.
+Extractable, Centrifugable.",,liquid
+liquidirradium,Liquid Irradium,"A measure of liquid irradium.
++2 Fuel
+Centrifugable.",,liquid
+liquidmechfuel,Refined Fuel,An industrial-grade fuel obtained from refining lesser fuel using a catalyst.,,liquid
+liquidnitrogenitem,Liquid Nitrogen,"A measure of nitrogen at temperatures at or below 77K. Proceed with care.
+Extractable, Centrifugable.",,liquid
+liquidorangegravrain,Orange Grav-Liquid,"A measure of orange grav-liquid, manipulating gravity upon touch. How does this liquid even exist!?
+Centrifugable.",,liquid
+liquidorganicsoup,Organic Soup,"A measure of organic soup.
+Growth Rate x1.5 & +2 produce.
+-1 seed use
+Extractable, Centrifugable.",,liquid
+liquidpus,Pus,"A measure of pus. This is absolutely disgusting.
+Extractable, Centrifugable.",,liquid
+liquidsulphuricacid,Sulphuric Acid,"Sulphuric Acid H2SO4 is one of the strongest naturally occurring acids.
+Centrifugable.",,liquid
+liquidwastewater,Contaminated Water,"A measure of filthy, brackish water.
+Centrifugable.",,liquid
+shadowgasliquid,Caliginous Gas,"WF6CF4Po. Able to absorb light and alter gravitic force through unusual carbon nanotube formations. Toxic.
+Centrifugable.",,liquid
+unrefinedliquidmechfuel,Unrefined Fuel,"Unrefined fuel modified from oil. If exposed to air, it reverts to oil.",,liquid
+vialproto,Liquid Protocite,"A measure of liquid protocite.
+Centrifugable.",,liquid

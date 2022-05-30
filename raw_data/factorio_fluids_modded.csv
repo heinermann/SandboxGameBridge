@@ -1,0 +1,201 @@
+name,id,type
+Unknown fluid,fluid-unknown,fluid
+Ammoniated brine,ammoniated-brine,fluid
+Brine,brine,fluid
+Sour gas,sour-gas,fluid
+Ferrous sludge,angels-ore8-sludge,fluid
+Ferrous slurry,angels-ore8-solution,fluid
+Anodized ferrous concentrate,angels-ore8-anode-sludge,fluid
+Ferrous concentrate,angels-ore8-slime,fluid
+Ferric chloride solution,liquid-ferric-chloride-solution,fluid
+Cupric sludge,angels-ore9-sludge,fluid
+Cupric slurry,angels-ore9-solution,fluid
+Anodized cupric concentrate,angels-ore9-anode-sludge,fluid
+Cupric concentrate,angels-ore9-slime,fluid
+Cupric chloride solution,liquid-cupric-chloride-solution,fluid
+Thermal water,thermal-water,fluid
+Slag slurry,slag-slurry,fluid
+Mineral sludge,mineral-sludge,fluid
+Crystal slurry,crystal-slurry,fluid
+Crystal seedling,crystal-seedling,fluid
+Crystal matrix,crystal-matrix,fluid
+Chlorauric acid,liquid-chlorauric-acid,fluid
+Hexafluorosilicic acid,liquid-hexafluorosilicic-acid,fluid
+Hexachloroplatinic acid,liquid-hexachloroplatinic-acid,fluid
+Trichlorosilane,liquid-trichlorosilane,fluid
+Silane gas,gas-silane,fluid
+Titanium tetrachloride,liquid-titanium-tetrachloride,fluid
+Tungstic acid,liquid-tungstic-acid,fluid
+Tungsten hexafluoride gas,gas-tungsten-hexafluoride,fluid
+Molten aluminium,liquid-molten-aluminium,fluid
+Molten chrome,liquid-molten-chrome,fluid
+Molten cobalt,liquid-molten-cobalt,fluid
+Molten copper,liquid-molten-copper,fluid
+Molten Glass,liquid-molten-glass,fluid
+Molten gold,liquid-molten-gold,fluid
+Molten iron,liquid-molten-iron,fluid
+Molten lead,liquid-molten-lead,fluid
+Molten manganese,liquid-molten-manganese,fluid
+Molten nickel,liquid-molten-nickel,fluid
+Molten platinum,liquid-molten-platinum,fluid
+Molten silicon,liquid-molten-silicon,fluid
+Molten silver,liquid-molten-silver,fluid
+Concrete,liquid-concrete,fluid
+Molten tin,liquid-molten-tin,fluid
+Molten titanium,liquid-molten-titanium,fluid
+Molten zinc,liquid-molten-zinc,fluid
+Molten steel,liquid-molten-steel,fluid
+Molten solder,liquid-molten-solder,fluid
+Molten bronze,liquid-molten-bronze,fluid
+Molten brass,liquid-molten-brass,fluid
+Molten gunmetal,liquid-molten-gunmetal,fluid
+Molten invar,liquid-molten-invar,fluid
+Molten cobalt steel,liquid-molten-cobalt-steel,fluid
+Molten nitinol,liquid-molten-nitinol,fluid
+15% Semiheavy water,liquid-water-semiheavy-1,fluid
+15% Semiheavy water,liquid-water-semiheavy-2,fluid
+15% Semiheavy water,liquid-water-semiheavy-3,fluid
+Heavy water,liquid-water-heavy,fluid
+Water,water,fluid
+Purified water,water-purified,fluid
+Saline water,water-saline,fluid
+Mineralized water,water-mineralized,fluid
+Lithia water,lithia-water,fluid
+Coolant,liquid-coolant,fluid
+Used coolant,liquid-coolant-used,fluid
+Sulfuric waste water,water-yellow-waste,fluid
+Fluoric waste water,water-greenyellow-waste,fluid
+Chloric waste water,water-green-waste,fluid
+Nitric waste water,water-red-waste,fluid
+Viscous mud water,water-viscous-mud,fluid
+Heavy mud water,water-heavy-mud,fluid
+Concentrated mud water,water-concentrated-mud,fluid
+Light mud water,water-light-mud,fluid
+Thin mud water,water-thin-mud,fluid
+Steam,steam,fluid
+Compressed air,gas-compressed-air,fluid
+Oxygen gas,gas-oxygen,fluid
+Hydrogen peroxide gas,gas-hydrogen-peroxide,fluid
+Carbon monoxide,gas-carbon-monoxide,fluid
+Carbon dioxide,gas-carbon-dioxide,fluid
+Hydrogen gas,gas-hydrogen,fluid
+Deuterium gas,gas-deuterium,fluid
+Chlorine gas,gas-chlorine,fluid
+Hydrogen chloride gas,gas-hydrogen-chloride,fluid
+Hydrochloric acid,liquid-hydrochloric-acid,fluid
+Allyl chloride gas,gas-allylchlorid,fluid
+Epichlorohydrin gas,gas-epichlorhydrin,fluid
+Chloromethane gas,gas-chlor-methane,fluid
+Perchloric acid,liquid-perchloric-acid,fluid
+Phosgene gas,gas-phosgene,fluid
+Sodium hydroxide solution,liquid-aqueous-sodium-hydroxide,fluid
+Nitrogen gas,gas-nitrogen,fluid
+Ammonia gas,gas-ammonia,fluid
+Nitrogen monoxide gas,gas-nitrogen-monoxide,fluid
+Nitrogen dioxide gas,gas-nitrogen-dioxide,fluid
+Dinitrogen tetroxide gas,gas-dinitrogen-tetroxide,fluid
+Ammonium chloride gas,gas-ammonium-chloride,fluid
+Urea gas,gas-urea,fluid
+Melamine gas,gas-melamine,fluid
+Nitric acid,liquid-nitric-acid,fluid
+Monochloramine gas,gas-monochloramine,fluid
+Hydrazine gas,gas-hydrazine,fluid
+Methylamine gas,gas-methylamine,fluid
+Dimethylamine gas,gas-dimethylamine,fluid
+Dimethylhydrazine gas,gas-dimethylhydrazine,fluid
+Sulfuric and Nitric acid mixture,sulfuric-nitric-acid,fluid
+Nitroglycerin,nitroglycerin,fluid
+Hydrogen sulfide gas,gas-hydrogen-sulfide,fluid
+Enriched hydrogen sulfide gas,gas-enriched-hydrogen-sulfide,fluid
+Sulfur dioxide gas,gas-sulfur-dioxide,fluid
+Sulfuric acid,liquid-sulfuric-acid,fluid
+Acid gas,gas-acid,fluid
+Hydrogen fluoride gas,gas-hydrogen-fluoride,fluid
+Hydrofluoric acid,liquid-hydrofluoric-acid,fluid
+Natural gas,gas-natural-1,fluid
+Raw gas,gas-raw-1,fluid
+Natural gas liquids,liquid-ngl,fluid
+Multi-phase oil,liquid-multi-phase-oil,fluid
+Crude oil,crude-oil,fluid
+Gas condensates,liquid-condensates,fluid
+Residual gas,gas-residual,fluid
+Methane gas,gas-methane,fluid
+Ethane gas,gas-ethane,fluid
+Butane gas,gas-butane,fluid
+Propene gas,gas-propene,fluid
+Methanol gas,gas-methanol,fluid
+Ethylene gas,gas-ethylene,fluid
+Benzene gas,gas-benzene,fluid
+Fuel oil,liquid-fuel-oil,fluid
+Liquid fuel,liquid-fuel,fluid
+Naphtha,liquid-naphtha,fluid
+Base mineral oil,liquid-mineral-oil,fluid
+Lubricant,lubricant,fluid
+Synthesis gas,gas-synthesis,fluid
+Toluene liquid,liquid-toluene,fluid
+Butadiene gas,gas-butadiene,fluid
+Phenol liquid,liquid-phenol,fluid
+Ethylbenzene liquid,liquid-ethylbenzene,fluid
+Styrene liquid,liquid-styrene,fluid
+Formaldehyde gas,gas-formaldehyde,fluid
+Polyethylene liquid,liquid-polyethylene,fluid
+Glycerol liquid,liquid-glycerol,fluid
+Bisphenol A liquid,liquid-bisphenol-a,fluid
+Acetone gas,gas-acetone,fluid
+Ethylene oxide,gas-ethylene-oxide,fluid
+Ethylene carbonate,liquid-ethylene-carbonate,fluid
+Liquid plastic,liquid-plastic,fluid
+Liquid resin,liquid-resin,fluid
+Liquid rubber,liquid-rubber,fluid
+Ferric chloride solution,ferric-chloride-solution,fluid
+Tungstic acid,tungstic-acid,fluid
+Heavy water,heavy-water,fluid
+Pure water,pure-water,fluid
+Compressed air,liquid-air,fluid
+Oxygen,oxygen,fluid
+Hydrogen peroxide,hydrogen-peroxide,fluid
+Carbon dioxide,carbon-dioxide,fluid
+Hydrogen,hydrogen,fluid
+Deuterium,deuterium,fluid
+Chlorine,chlorine,fluid
+Hydrogen chloride,hydrogen-chloride,fluid
+Nitrogen,nitrogen,fluid
+Ammonia,ammonia,fluid
+Nitric oxide,nitric-oxide,fluid
+Nitrogen dioxide,nitrogen-dioxide,fluid
+Dinitrogen tetroxide,dinitrogen-tetroxide,fluid
+Nitric acid,nitric-acid,fluid
+Hydrazine,hydrazine,fluid
+Hydrogen sulfide,hydrogen-sulfide,fluid
+Sulfur dioxide,sulfur-dioxide,fluid
+Sulfuric acid,sulfuric-acid,fluid
+Petroleum gas,petroleum-gas,fluid
+Light oil,light-oil,fluid
+Heavy oil,heavy-oil,fluid
+Glycerol,glycerol,fluid
+Pulping liquor,liquid-pulping-liquor,fluid
+Brown liquor,liquid-brown-liquor,fluid
+White liquor,liquid-white-liquor,fluid
+Black liquor,liquid-black-liquor,fluid
+Green liquor,liquid-green-liquor,fluid
+Nutrient pulp,liquid-nutrient-pulp,fluid
+Raw vegetable oil,liquid-raw-vegetable-oil,fluid
+Vegetable oil,liquid-vegetable-oil,fluid
+Fermentation base,liquid-fermentation-raw,fluid
+Acetic acid,liquid-acetic-acid,fluid
+Acetic anhydride,liquid-acetic-anhydride,fluid
+Ethanol gas,gas-ethanol,fluid
+Cellulose acetate mixture,liquid-cellulose-acetate-mixture,fluid
+Cellulose acetate,liquid-cellulose-acetate,fluid
+Propionic acid,liquid-propionic-acid,fluid
+Artificial fish water,liquid-fish-atmosphere,fluid
+Polluted artificial fish water,liquid-polluted-fish-atmosphere,fluid
+Raw fish oil,liquid-raw-fish-oil,fluid
+Fish oil,liquid-fish-oil,fluid
+Artificial puffer atmosphere,gas-puffer-atmosphere,fluid
+Alien spores,alien-spores,fluid
+Alien goo,alien-goo,fluid
+Alien acid fluid,alien-acid,fluid
+Alien explosive fluid,alien-explosive,fluid
+Alien poison fluid,alien-poison,fluid
+Alien flame fluid,alien-fire,fluid
