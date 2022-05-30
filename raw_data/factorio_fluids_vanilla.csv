@@ -1,0 +1,10 @@
+name,id,type
+Unknown fluid,fluid-unknown,fluid
+Water,water,fluid
+Crude oil,crude-oil,fluid
+Steam,steam,fluid
+Heavy oil,heavy-oil,fluid
+Light oil,light-oil,fluid
+Petroleum gas,petroleum-gas,fluid
+Sulfuric acid,sulfuric-acid,fluid
+Lubricant,lubricant,fluid

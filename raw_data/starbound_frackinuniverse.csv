@@ -1,4 +1,4 @@
-itemName,shortdescription,description,price,category
+id,name,description,price,category
 bee_aquarum_drone,Aquarum Drone,Aquarum Drone,,craftingMaterial
 bee_aquarum_queen,Aquarum Queen,Aquarum Queen,,craftingMaterial
 bee_aquarum_youngQueen,Young Aquarum Queen,Aquarum Young Queen,,craftingMaterial

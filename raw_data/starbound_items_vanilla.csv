@@ -1,4 +1,4 @@
-itemName,shortdescription,description,price,category
+id,name,description,price,category
 durablefishingrod,Durable Fishing Rod,A durasteel rod for fishing in extreme environments.,1500,fishingRod
 fishingrod,Fishing Rod,A simple wooden fishing rod with titanium fittings.,150,fishingRod
 fossilbrushbeginner,Basic Fossil Brush,"Can be used once to excavate a fossil, with limited success.",10,tool
@@ -736,15 +736,6 @@ saxophone,Saxophone,A saxophone. For when you've got the space blues.,3000,music
 steeldrum,Steel Drum,A steel drum. Let's make some noise.,3000,musicalInstrument
 trumpet,Trumpet,A trumpet. Try not to blow your own horn.,3000,musicalInstrument
 violin,Violin,A violin. Don't bow out just yet.,3000,musicalInstrument
-liquidhealing,Healing Water,"A measure of cool, clear, healing water. Drinking it will restore your body.",,liquid
-liquidlava,Lava,"A measure of bubbling, searing lava.",,liquid
-liquidfuel,Liquid Erchius Fuel,"A dangerous and volatile substance, syphoned from moons and used as FTL fuel.",1,liquid
-liquidmilk,Coconut Milk,A measure of coconut milk. The taste is amazing.,,liquid
-liquidoil,Oil,A measure of gooey unrefined oil.,,liquid
-liquidpoison,Poison,A measure of strong poison.,,liquid
-liquidslime,Slime,A slimey liquid.,,liquid
-swampwater,Swamp Water,A measure of dirty swamp water.,,liquid
-liquidwater,Water,"A measure of cool, clear water.",,liquid
 alienrock,Alien Rock,This strange rock comes from an alien world.,0,block
 alienstripedwood,Striped Wood,A piece of alien striped wood. Stripey!,0,block
 ancientblock,Ancient Block,These bricks have certainly survived the test of time.,0,block

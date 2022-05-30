@@ -1,4 +1,4 @@
-itemName,shortdescription,description,price,category
+id,name,description,price,category
 arcana_bag_spell,Velvet Pouch,"This small velvet pouch can store many small items in it, such as seeds and herbs.",500,tool
 arcana_bag_essence,Essence Storage,This storage is used for storing various different types of essence.,500,tool
 arcana_inventory,Backpack,"Several specialized bags have been attached to this backpack, increasing its carrying capacity.",2500,tool

@@ -1,4 +1,4 @@
-localised_name,name,type
+name,id,type
 Wooden chest,wooden-chest,item
 Iron chest,iron-chest,item
 Steel chest,steel-chest,item
@@ -229,12 +229,3 @@ Item with tags,item-with-tags,item-with-tags
 Simple entity with force,simple-entity-with-force,item
 Simple entity with owner,simple-entity-with-owner,item
 Burner generator,burner-generator,item
-Unknown fluid,fluid-unknown,fluid
-Water,water,fluid
-Crude oil,crude-oil,fluid
-Steam,steam,fluid
-Heavy oil,heavy-oil,fluid
-Light oil,light-oil,fluid
-Petroleum gas,petroleum-gas,fluid
-Sulfuric acid,sulfuric-acid,fluid
-Lubricant,lubricant,fluid

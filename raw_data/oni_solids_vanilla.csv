@@ -1,4 +1,4 @@
-elementId,name,state
+id,name,state
 Aerogel,Aerogel,Solid
 Algae,Algae,Solid
 Aluminum,Aluminum,Solid
@@ -93,70 +93,3 @@ Mud,Mud,Solid
 Sucrose,Sucrose,Solid
 Graphite,Graphite,Solid
 SolidNuclearWaste,Solid Nuclear Waste,Solid
-Brine,Brine,Liquid
-Chlorine,Chlorine,Liquid
-CrudeOil,Crude Oil,Liquid
-DirtyWater,Polluted Water,Liquid
-LiquidCarbonDioxide,Carbon Dioxide,Liquid
-LiquidHelium,Helium,Liquid
-LiquidHydrogen,Hydrogen,Liquid
-LiquidMethane,Methane,Liquid
-LiquidOxygen,Oxygen,Liquid
-LiquidPhosphorus,Phosphorus,Liquid
-LiquidPropane,Propane,Liquid
-LiquidSulfur,Liquid Sulfur,Liquid
-Magma,Magma,Liquid
-Mercury,Mercury,Liquid
-MoltenAluminum,Aluminum,Liquid
-MoltenCarbon,Carbon,Liquid
-MoltenCopper,Copper,Liquid
-MoltenGlass,Glass,Liquid
-MoltenGold,Gold,Liquid
-MoltenIron,Iron,Liquid
-MoltenCobalt,Cobalt,Liquid
-MoltenLead,Lead,Liquid
-MoltenNiobium,Niobium,Liquid
-MoltenSalt,Salt,Liquid
-MoltenSteel,Steel,Liquid
-MoltenTungsten,Tungsten,Liquid
-MoltenUranium,Uranium,Liquid
-Naphtha,Naphtha,Liquid
-NuclearWaste,Nuclear Waste,Liquid
-Petroleum,Petroleum,Liquid
-Resin,Resin,Liquid
-SaltWater,Salt Water,Liquid
-SuperCoolant,Super Coolant,Liquid
-ViscoGel,Visco-Gel,Liquid
-Water,Water,Liquid
-Ethanol,Ethanol,Liquid
-MoltenSyngas,STRINGS.ELEMENTS.MOLTENSYNGAS.NAME,Liquid
-MoltenSucrose,Sucrose,Liquid
-AluminumGas,Aluminum,Gas
-CarbonDioxide,Carbon Dioxide,Gas
-CarbonGas,Carbon,Gas
-ChlorineGas,Chlorine,Gas
-ContaminatedOxygen,Polluted Oxygen,Gas
-CopperGas,Copper,Gas
-GoldGas,Gold,Gas
-Helium,Helium,Gas
-Hydrogen,Hydrogen,Gas
-IronGas,Iron,Gas
-CobaltGas,Cobalt,Gas
-LeadGas,Lead,Gas
-MercuryGas,Mercury,Gas
-Methane,Natural Gas,Gas
-NiobiumGas,Niobium,Gas
-Fallout,Nuclear Fallout,Gas
-Oxygen,Oxygen,Gas
-PhosphorusGas,Phosphorus,Gas
-Propane,Propane,Gas
-RockGas,Rock Gas,Gas
-SaltGas,Salt,Gas
-SourGas,Sour Gas,Gas
-Steam,Steam,Gas
-SteelGas,Steel,Gas
-SulfurGas,Sulfur,Gas
-SuperCoolantGas,Super Coolant,Gas
-TungstenGas,Tungsten,Gas
-EthanolGas,Ethanol,Gas
-Syngas,Synthesis Gas,Gas

@@ -1,0 +1,10 @@
+id,name,description,price,category
+liquidhealing,Healing Water,"A measure of cool, clear, healing water. Drinking it will restore your body.",,liquid
+liquidlava,Lava,"A measure of bubbling, searing lava.",,liquid
+liquidfuel,Liquid Erchius Fuel,"A dangerous and volatile substance, syphoned from moons and used as FTL fuel.",1,liquid
+liquidmilk,Coconut Milk,A measure of coconut milk. The taste is amazing.,,liquid
+liquidoil,Oil,A measure of gooey unrefined oil.,,liquid
+liquidpoison,Poison,A measure of strong poison.,,liquid
+liquidslime,Slime,A slimey liquid.,,liquid
+swampwater,Swamp Water,A measure of dirty swamp water.,,liquid
+liquidwater,Water,"A measure of cool, clear water.",,liquid
