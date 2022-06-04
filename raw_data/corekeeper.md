@@ -1,1 +1,0 @@
-Core Keeper IDs by Baxuvis, source: https://www.unknowncheats.me/forum/unity/493405-core-keeper-trainer.html
