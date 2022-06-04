@@ -1,0 +1,360 @@
+id,name,description
+WoodLog,Lumber,Wood harvested from an Arbor Tree or an Oakshell.
+AdvancedCure,Serum Vial,A doctor-administered cure for severe ailments.
+Antihistamine,Allergy Medication,Suppresses and prevents allergic reactions.
+BasicBooster,Vitamin Chews,Minorly reduces the chance of becoming sick.
+BasicCure,Curative Tablet,"A simple, easy-to-take remedy for minor germ-based diseases."
+BasicRadPill,Basic Rad Pill,Increases a Duplicant's natural radiation absorption rate.
+IntermediateBooster,Immuno Booster,Significantly reduces the chance of becoming sick.
+IntermediateCure,Medical Pack,A doctor-administered cure for moderate ailments.
+IntermediateRadPill,Intermediate Rad Pill,Increases a Duplicant's natural radiation absorption rate.
+artifact_sandstone,Sandstone,A beautiful rock composed of multiple layers of sediment.
+artifact_sink,Sink,No collection is complete without it.
+artifact_rubikscube,Rubik's Cube,This mystery of the universe has already been solved.
+artifact_officemug,Office Mug,An intermediary place to store espresso before you move it to your mouth.
+artifact_obelisk,Small Obelisk,"A rectangular stone piece.
+
+Its function is unclear."
+artifact_okayxray,Old X-Ray,"Ew, weird. It has five fingers!"
+artifact_blender,Blender,"Equipment used to conduct experiments answering the age-old question, ""Could that blend""?"
+artifact_moldavite,Moldavite,A unique green stone formed from the impact of a meteorite.
+artifact_vhs,Archaic Tech,Be kind when you handle it. It's very fragile.
+artifact_saxophone,Mangled Saxophone,"The name ""Pesquet"" is barely legible on the inside."
+artifact_modernart,Modern Art,I don't get it.
+artifact_honeyjar,Honey Jar,Sweet golden liquid with just a touch of uranium.
+artifact_ameliaswatch,Wrist Watch,"It was discovered in a package labeled ""To be entrusted to Dr. Walker""."
+artifact_teapot,Encrusted Teapot,"A teapot from the depths of space, coated in a thick layer of Neutronium."
+artifact_brickphone,Strange Brick,It still works.
+artifact_robotarm,Robot Arm,It's not functional. Just cool.
+artifact_shieldgenerator,Shield Generator,A mechanical prototype capable of producing a small section of shielding.
+artifact_bioluminescentrock,Bioluminescent Rock,"A thriving colony of tiny, microscopic organisms is responsible for giving it its bluish glow."
+artifact_grubstatue,Grubgrub Statue,A moving tribute to a tiny plant hugger.
+artifact_stethoscope,Stethoscope,"Listens to Duplicant heartbeats, or gurgly tummies."
+artifact_eggrock,Egg-Shaped Rock,"It's unclear whether this is its naturally occurring shape, or if its appearance as been sculpted."
+artifact_hatchfossil,Pristine Fossil,The preserved bones of an early species of Hatch.
+artifact_rocktornado,Tornado Rock,"It's unclear how it formed, although I'm glad it did."
+artifact_pacupercolator,Percolator,Don't drink from it! There was a pacu... IN the percolator!
+artifact_magmalamp,Magma Lamp,"The sequel to ""Lava Lamp""."
+artifact_oracle,Useless Machine,What does it do?
+artifact_dnamodel,Double Helix Model,An educational model of genetic information.
+artifact_rainboweggrock,Egg-Shaped Rock,"It's unclear whether this is its naturally occurring shape, or if its appearance as been sculpted.
+
+This one is rainbow colored."
+artifact_plasmalamp,Plasma Lamp,No space colony is complete without one.
+artifact_moodring,Radiation Mood Ring,How radioactive are you feeling?
+artifact_solarsystem,Self-Contained System,"A marvel of the cosmos, inside this display is an entirely self-contained solar system."
+artifact_moonmoonmoon,Moonmoonmoon,A moon's moon's moon. It's very small.
+artifact_reactormodel,Model Nuclear Power Plant,It's pronounced nu-clear.
+ResearchDatabank,Data Bank,Raw data that can be processed into Interstellar Research points.
+CarePackage,Care Package,"A delivery system for recently printed resources.
+
+It will dematerialize shortly."
+PowerStationTools,Microchip,"A specialized Microchip created by a professional engineer.
+
+Tunes up Generators to increase their Power output."
+OrbitalResearchDatabank,Data Bank,Raw Data that can be processed into Data Analysis Research points.
+MachineParts,Custom Parts,"Specialized Parts crafted by a professional engineer.
+
+Jerry Rig machine buildings to increase their efficiency."
+Mushroom,Mushroom,"An edible, flavorless fungus that grew in the dark."
+MushroomWrap,Mushroom Wrap,"Flavorful Mushrooms wrapped in Lettuce.
+
+It has an earthy flavor punctuated by a refreshing crunch."
+PacuFillet,Meat,Uncooked meat from a very dead critter. Yum!
+PickledMeal,Pickled Meal,"Meal Lice preserved in vinegar.
+
+It's a rarely acquired taste."
+PlantMeat,Plant Meat,Planty plant meat from a plant. How nice!
+PrickleFruit,Bristle Berry,"A sweet, mostly pleasant-tasting fruit covered in prickly barbs."
+RawEgg,Raw Egg,"A raw Egg that has been cracked open for use in Food preparation.
+
+It will never hatch."
+RotPile,Rot Pile,"An inedible glop of former foodstuff.
+
+Rot Piles break down into Polluted Dirt over time."
+Salsa,Stuffed Berry,A baked Bristle Berry stuffed with delectable spices and vibrantly flavored.
+ShellfishMeat,Raw Shellfish,An uncooked chunk of very dead Sanishell. Yum!
+SpiceBread,Pepper Bread,"A loaf of bread, lightly spiced with Pincha Peppernut for a mild bite.
+
+There's a simple joy to be had in pulling it apart in one's fingers."
+SpiceNut,Pincha Peppernut,"The flavorful nut of a Pincha Pepperplant.
+
+The bitter outer rind hides a rich, peppery core that is useful in cooking."
+SpicyTofu,Spicy Tofu,"Tofu marinated in a flavorful Pincha Peppernut sauce.
+
+It packs a delightful punch."
+SurfAndTurf,Surf'n'Turf,"A bit of Meat from the land and Cooked Seafood from the sea.
+
+It's hearty and satisfying."
+SwampDelights,Swampy Delights,"Dried gelatinous cubes from a Bog Jelly.
+
+Each cube has a wonderfully chewy texture and is lightly coated in a delicate powder."
+SwampFruit,Bog Jelly,A fruit with an outer film that contains chewy gelatinous cubes.
+SwampLilyFlower,Balm Lily Flower,"A medicinal flower that soothes most minor maladies.
+
+It is exceptionally fragrant."
+FarmStationTools,Micronutrient Fertilizer,"Specialized Fertilizer mixed by a Duplicant with the Crop Tending Skill.
+
+Increases the Growth Rate of one Plant."
+EggShell,Egg Shell,Can be crushed to produce Lime.
+CrabWoodShell,Oakshell Molt,Can be crushed to produce Lumber.
+CrabShell,Pokeshell Molt,Can be crushed to produce Lime.
+BabyCrabWoodShell,Small Oakshell Molt,Can be crushed to produce Lumber.
+BabyCrabShell,Small Pokeshell Molt,Can be crushed to produce Lime.
+WormSuperFruit,Grubfruit,"A plump, healthy fruit with a honey-like taste."
+WormSuperFood,Grubfruit Preserve,"A long lasting Grubfruit jam preserved in Sucrose.
+
+The thick, goopy jam retains the shape of the jar when poured out, but the sweet taste can't be matched."
+WormBasicFruit,Spindly Grubfruit,"A Grubfruit that failed to develop properly.
+
+It is nonetheless edible, and vaguely tasty."
+WormBasicFood,Roast Grubfruit Nut,"Slow roasted Spindly Grubfruit.
+
+It has a smoky aroma and tastes of coziness."
+Tofu,Tofu,"A bland curd made from Nosh Beans.
+
+It has an unusual but pleasant consistency."
+TableSalt,Table Salt,"A seasoning that Duplicants can add to their Food to boost Morale.
+
+Duplicants will automatically use Table Salt while sitting at a Mess Table during mealtime.
+
+Only the finest grains are chosen."
+MushBar,Mush Bar,"An edible, putrefied mudslop.
+
+Mush Bars are preferable to starvation, but only just barely."
+GasGrassHarvested,Gas Grass,Gas grass.
+RailGunPayload,Interplanetary Payload,"Contains resources packed for interstellar shipping.
+
+Can be launched by a Interplanetary Launcher or unpacked with a Payload Opener."
+GeneShufflerRecharge,Vacillator Recharge,Replenishes one charge to a depleted Neural Vacillator.
+HeatCube,Heat Cube,A cube that holds heat.
+Meat,Meat,Uncooked meat from a very dead critter. Yum!
+Lettuce,Lettuce,"Crunchy, slightly salty leaves from a Waterweed plant."
+GrilledPrickleFruit,Gristle Berry,"The grilled bud of a Bristle Berry.
+
+Heat unlocked an exquisite taste in the fruit, though the burnt spines leave something to be desired."
+LightBugPurpleEgg,Royal Nymph Egg,"Shine Bugs emit a soft Light in hopes of attracting more of their kind for company.
+
+The light of the Royal morph has been turned purple through selective breeding."
+MoleEgg,Shove Vole Egg,"Shove Voles are burrowing critters that eat the Regolith collected on terrestrial surfaces.
+
+They cannot burrow through Refined Metals."
+MoleDelicacyEgg,Delecta Vole Egg,"Delecta Voles are burrowing critters whose bodies sprout shearable Tonic Root when Regolith is ingested at preferred temperatures.
+
+They cannot burrow through Refined Metals."
+OilfloaterEgg,Larva Egg,Slicksters are slimy critters that consume Carbon Dioxide and exude Crude Oil.
+OilfloaterDecorEgg,Longhair Larva Egg,"Longhair Slicksters are friendly critters that consume Oxygen and thrive in close contact with Duplicant companions.
+
+Longhairs have extremely beautiful and luxurious coats."
+OilfloaterHighTempEgg,Molten Larva Egg,Molten Slicksters are slimy critters that consume Carbon Dioxide and exude Petroleum.
+PuftAlphaEgg,Puftlet Prince Egg,The Puft Prince is a lazy critter that excretes little Solid lumps of whatever it has been breathing.
+PuftBleachstoneEgg,Squeaky Puftlet Egg,Squeaky Pufts are non-aggressive critters that excrete lumps of Bleachstone with each breath.
+PuftEgg,Puftlet Egg,Pufts are non-aggressive critters that excrete lumps of Slime with each breath.
+PuftOxyliteEgg,Dense Puftlet Egg,Dense Pufts are non-aggressive critters that excrete condensed Oxylite with each breath.
+SquirrelEgg,Pip Egg,"Pips are pesky, nonhostile critters that subsist on Thimble Reeds and Arbor Tree branches.
+
+They are known to bury Seeds in the ground whenever they can find a suitable area with enough space."
+SquirrelHugEgg,Cuddle Pip Egg,"Cuddle Pips are fluffy, affectionate critters who exhibit a strong snuggling instinct towards all types of eggs.
+
+This is temporarily amplified when they are hugged by a passing Duplicant."
+LightBugPinkEgg,Coral Nymph Egg,"Shine Bugs emit a soft Light in hopes of attracting more of their kind for company.
+
+The light of the Coral morph has been turned pink through selective breeding."
+DebrisPayload,Rocket Debris,Whatever is left over from a Rocket Self-Destruct can be recovered once it has crash-landed.
+DreckoEgg,Drecklet Egg,"Dreckos are nonhostile critters that graze on Pincha Pepperplants, Balm Lily or Mealwood Plants.
+
+Their backsides are covered in thick woolly fibers that only grow in Hydrogen climates."
+DreckoPlasticEgg,Glossy Drecklet Egg,"Glossy Dreckos are nonhostile critters that graze on live Mealwood Plants and Bristle Blossoms.
+
+Their backsides are covered in bioplastic scales that only grow in Hydrogen climates."
+LightBugBlackEgg,Abyss Nymph Egg,"This Shine Bug emits no Light, but it makes up for it by having an excellent personality."
+LightBugBlueEgg,Azure Nymph Egg,"Shine Bugs emit a soft Light in hopes of attracting more of their kind for company.
+
+The light of the Azure morph has been turned blue through selective breeding."
+LightBugEgg,Shine Nymph Egg,Shine Bugs emit a soft Light in hopes of attracting more of their kind for company.
+LightBugCrystalEgg,Radiant Nymph Egg,"Shine Bugs emit a soft Light in hopes of attracting more of their kind for company.
+
+The light of the Radiant morph has been amplified through selective breeding."
+LightBugOrangeEgg,Sun Nymph Egg,"Shine Bugs emit a soft Light in hopes of attracting more of their kind for company.
+
+The light of the Sun morph has been turned orange through selective breeding."
+StaterpillarEgg,Slug Egg,"Plug Slugs are dynamic creatures that generate electrical Power during the night.
+
+Their power can be harnessed by leaving an exposed wire near areas where they like to sleep."
+OxyfernSeed,Oxyfern Seed,The Seed of an Oxyfern plant.
+PrickleFlowerSeed,Blossom Seed,"The Seed of a Bristle Blossom.
+
+Digging up Buried Objects may uncover a Blossom Seed."
+SaltPlantSeed,Dasha Saltvine Seed,"The Seed of a Dasha Saltvine.
+
+Digging up Buried Objects may uncover a Dasha Saltvine Seed."
+SeaLettuceSeed,Waterweed Seed,"The Seed of a Waterweed.
+
+Digging up Buried Objects may uncover a Waterweed Seed."
+SpiceVineSeed,Pincha Pepper Seed,"The Seed of a Pincha Pepperplant.
+
+Digging up Buried Objects may uncover a Pincha Pepper Seed."
+SwampForagePlant,Swamp Chard Heart,"A seedless plant with a squishy, juicy center and an awful smell.
+
+It cannot be replanted."
+SwampHarvestPlantSeed,Bog Bucket Seed,"The Seed of a Bog Bucket.
+
+Digging up Buried Objects may uncover a Bog Bucket Seed."
+SwampLilySeed,Balm Lily Seed,"The Seed of a Balm Lily.
+
+Digging up Buried Objects may uncover a Balm Lily Seed."
+ToePlantSeed,Tranquil Toe Seed,"The Seed of a Tranquil Toes.
+
+Digging up Buried Objects may uncover a Tranquil Toe Seed."
+WineCupsSeed,Mallow Seed,"The Seed of a Mellow Mallow.
+
+Digging up Buried Objects may uncover a Mallow Seed."
+WormPlantSeed,Grubfruit Seed,"The Seed of a Spindly Grubfruit Plant.
+
+Digging up Buried Objects may uncover a Grubfruit Seed."
+BasicPlantFood,Meal Lice,A flavorless grain that almost never wiggles on its own.
+BerryPie,Mixed Berry Pie,"A pie made primarily of Grubfruit and Gristle Berries.
+
+The mixture of berries creates a fragrant, colorful filling that packs a sweet punch."
+Burger,Frost Burger,"Meat and Lettuce on a chilled Frost Bun.
+
+It's the only burger best served cold."
+ColdWheatBread,Frost Bun,"A simple bun baked from Sleet Wheat Grain grain.
+
+Each bite leaves a mild cooling sensation in one's mouth, even when the bun itself is warm."
+CookedEgg,Omelette,"Fluffed and folded Egg innards.
+
+It turns out you do, in fact, have to break a few eggs to make it."
+CookedFish,Cooked Seafood,"A cooked piece of freshly caught aquatic critter.
+
+Unsurprisingly, it tastes a bit fishy."
+CookedMeat,Barbeque,"The cooked meat of a defeated critter.
+
+It has a delightful smoky aftertaste."
+Curry,Curried Beans,"Chewy Nosh Beans simmered with chunks of Tonic Root.
+
+It's so spicy!"
+FieldRation,Nutrient Bar,"A nourishing nutrient paste, sandwiched between thin wafer layers."
+FishMeat,Pacu Fillet,An uncooked fillet from a very dead Pacu. Yum!
+FriedMushBar,Mush Fry,"Deep fried, solidified mudslop.
+
+The inside is almost completely uncooked, despite the crunch on the outside."
+FriedMushroom,Fried Mushroom,"A fried dish made with a fruiting Dusk Cap.
+
+It has a thick, savory flavor with subtle earthy undertones."
+FruitCake,Berry Sludge,"A mashed up Bristle Berry sludge with an exceptionally long shelf life.
+
+Its aggressive, overbearing sweetness can leave the tongue feeling temporarily numb."
+GammaMush,Gamma Mush,A disturbingly delicious mixture of irradiated dirt and water.
+BasicPlantBar,Liceloaf,"Meal Lice compacted into a dense, immobile loaf."
+PrickleGrassSeed,Briar Seed,"The Seed of a Bluff Briar.
+
+Digging up Buried Objects may uncover a Briar Seed."
+BasicFabric,Reed Fiber,A ball of raw cellulose used in the production of Clothing and textiles.
+BasicFabricMaterialPlantSeed,Thimble Reed Seed,"The Seed of a Thimble Reed.
+
+Digging up Buried Objects may uncover a Thimble Reed Seed."
+BasicForagePlant,Muckroot,"A seedless fruit with an upsettingly bland aftertaste.
+
+It cannot be replanted.
+
+Digging up Buried Objects may uncover a Muckroot."
+BasicSingleHarvestPlantSeed,Mealwood Seed,"The Seed of a Mealwood.
+
+Digging up Buried Objects may uncover a Mealwood Seed."
+BeanPlantSeed,Nosh Bean,"The Seed of a Nosh Sprout.
+
+Digging up Buried Objects may uncover a Nosh Bean."
+BulbPlantSeed,Buddy Bud Seed,"The Seed of a Buddy Bud.
+
+Digging up Buried Objects may uncover a Buddy Bud Seed."
+CactusPlantSeed,Joya Seed,"The Seed of a Jumping Joya.
+
+Digging up Buried Objects may uncover a Joya Seed."
+ColdBreatherSeed,Wort Seed,"The Seed of a Wheezewort.
+
+Digging up Buried Objects may uncover a Wort Seed."
+ColdWheatSeed,Sleet Wheat Grain,"The Seed of a Sleet Wheat plant.
+
+Grain can be sown to cultivate more Sleet Wheat, or processed into Food."
+CritterTrapPlantSeed,Saturn Critter Trap Seed,"The Seed of a Saturn Critter Trap.
+
+Digging up Buried Objects may uncover a Saturn Critter Trap Seed."
+CylindricaSeed,Bliss Burst Seed,"The Seed of a Bliss Burst.
+
+Digging up Buried Objects may uncover a Bliss Burst Seed."
+MushroomSeed,Fungal Spore,"The Seed of a Dusk Cap.
+
+Digging up Buried Objects may uncover a Fungal Spore."
+ForestForagePlant,Hexalent Fruit,"A seedless fruit with an unusual rubbery texture.
+
+It cannot be replanted.
+
+Hexalent fruit is much more calorie dense than Muckroot fruit."
+LeafyPlantSeed,Mirth Leaf Seed,"The Seed of a Mirth Leaf.
+
+Digging up Buried Objects may uncover a Mirth Leaf Seed."
+GingerConfig,Tonic Root,"A chewy, fibrous rhizome with a fiery aftertaste.
+
+It relieves gassiness."
+GasGrassSeed,Gas Grass Seed,"The Seed of a Gas Grass plant.
+
+Used as feed for Gassy Moos."
+ForestTreeSeed,Arbor Acorn,"The Seed of an Arbor Tree.
+
+Digging up Buried Objects may uncover an Arbor Acorn."
+EvilFlowerSeed,Sporechid Seed,"The Seed of a Sporechid.
+
+Digging up Buried Objects may uncover a Sporechid Seed."
+FilterPlantSeed,Hydrocactus Seed,"The Seed of a Hydrocactus.
+
+Digging up Buried Objects may uncover a Hydrocactus Seed."
+CrabEgg,Pinch Roe,"Pokeshells are nonhostile critters that eat Polluted Dirt and Rot Piles.
+
+The shells they leave behind after molting can be crushed into Lime."
+CrabFreshWaterEgg,Sani Pinch Roe,"Sanishells are nonhostile critters that thrive in  Water and eliminates Germs from any liquid it inhabits.
+
+They eat Polluted Dirt, Slime and Rot Piles."
+HatchHardEgg,Stone Hatchling Egg,Stone Hatches excrete solid Coal as waste and enjoy burrowing into the ground.
+DivergentBeetleEgg,Sweetle Egg,"Sweetles are nonhostile critters that excrete large amounts of solid Sucrose.
+
+They are closely related to the Grubgrub and exhibit similar, albeit less effective farming behaviors."
+DivergentWormEgg,Grubgrub Egg,"Grubgrubs form symbiotic relationships with plants, especially Grubfruit Plants, and instinctually tend to them.
+
+Grubgrubs are closely related to Sweetles."
+HatchVeggieEgg,Sage Hatchling Egg,Sage Hatches excrete solid Coal as waste and enjoy burrowing into the ground.
+PacuCleanerEgg,Gulp Fry Egg,Every organism in the known universe finds the Pacu extremely delicious.
+HatchMetalEgg,Smooth Hatchling Egg,Smooth Hatches enjoy burrowing into the ground and excrete Refined Metal when fed Metal Ore.
+HatchEgg,Hatchling Egg,Hatches excrete solid Coal as waste and may be uncovered by digging up Buried Objects.
+PacuEgg,Fry Egg,"Pacus are aquatic creatures that can live in any liquid, such as Water or Contaminated Water.
+
+Every organism in the known universe finds the Pacu extremely delicious."
+CrabWoodEgg,Oak Pinch Roe,"Oakshells are nonhostile critters that eat Polluted Dirt, Slime and Rot Piles.
+
+The shells they leave behind after molting can be crushed into Lumber.
+
+Oakshells thrive in Ethanol."
+PacuTropicalEgg,Tropical Fry Egg,Every organism in the known universe finds the Pacu extremely delicious.
+Atmo_Suit,Atmo Suit,Supplies Duplicants with Oxygen in toxic and low breathability environments.
+Worn_Atmo_Suit,Worn Atmo Suit,"A worn out Atmo Suit.
+
+Suits can be repaired at an Exosuit Forge."
+Cool_Vest,Cool Vest,Protects the wearer from Heat by decreasing insulation
+CustomClothing,Primo Garb,Increases Decor in a small area effect around the wearer
+EquippableBalloon,Balloon Friend,
+Funky_Vest,Snazzy Suit,Increases Decor in a small area effect around the wearer. Can be upgraded to Primo Garb at the Clothing Refashionator
+Jet_Suit,Jet Suit,"Supplies Duplicants with Oxygen in toxic and low breathability environments.
+
+Allows Duplicant flight."
+Worn_Jet_Suit,Worn Jet Suit,"A worn out Jet Suit.
+
+Suits can be repaired at an Exosuit Forge."
+Lead_Suit,Lead Suit,Supplies Duplicants with Oxygen in toxic and low breathability environments.
+Worn_Lead_Suit,Worn Lead Suit,"A worn out Lead Suit.
+
+Suits can be repaired at an Exosuit Forge."
+Oxygen_Mask,Oxygen Mask,Supplies Duplicants with Oxygen in toxic and low breathability environments.
+Worn_Oxygen_Mask,Worn Oxygen Mask,"A worn out Oxygen Mask.
+
+Masks can be repaired at a Crafting Station."
+Warm_Vest,Warm Sweater,Protects the wearer from Cold by increasing insulation
