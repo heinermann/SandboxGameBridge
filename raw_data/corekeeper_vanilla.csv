@@ -1,0 +1,488 @@
+id,name
+1,Copper Shovel
+2,Ancient Pickaxe
+3,Copper Pickaxe
+4,Watering Can
+5,Large Watering Can
+10,Wood Pickaxe
+11,Wood Shovel
+12,Copper Hoe
+15,Tin Pickaxe
+16,Tin Shovel
+17,Tin Hoe
+20,Iron Pickaxe
+21,Iron Shovel
+22,Iron Hoe
+30,Scarlet Pickaxe
+50,Wood Fishing Rod
+51,Tin Fishing Rod
+52,Iron Fishing Rod
+53,Scarlet Fishing Rod
+70,Red Paint Brush
+71,Yellow Paint Brush
+72,Green Paint Brush  
+73,Purple Paint Brush
+74,Blue Paint Brush
+75,Brown Paint Brush
+76,White Paint Brush
+77,Black Paint Brush
+100,Chest
+101,Larva Hive Chest
+102,Mold Covered Chest
+103,Ancient Chest
+104,SeaShell Chest <BROKEN 0.3.2-3425>
+110,Torch
+111,Campfire
+112,Decorative Torch
+120,Decorative Pot
+125,Pedestal
+126,Stone Pedestal
+140,Lamp
+150,Large Shiny Glimmering Object
+170,Titan's Chest
+171,Glurch Chest
+172,Ghorm Chest
+173,Hivemother Chest
+174,Ivy's Chest
+231,<Missing item>
+232,<Missing item>
+300,Dirt Wall
+301,Stone Wall
+302,Stone Bricks Wall
+303,Clay Wall
+320,Wood Wall
+321,Larva Hive Wall
+325,Grass Wall
+328,Sand Wall
+329,Turf Wall
+350,Obsidian Wall
+351,Paintable Wall
+352,Scarlet Wall
+398,<Missing Dirt Spot>
+399,<Missing Dirt Ground>
+400,Dirt Ground
+401,Stone Ground
+402,Larva Hive Ground
+403,Grass Ground
+404,Mold Ground
+405,Beach Sand Ground
+406,Clay Ground
+407,Sand Ground
+408,Turf Ground
+450,Obsidian Ground
+1001,Copper Bar
+1002,Iron Bar
+1003,Gold Bar
+1004,Scarlet Bar
+1005,Tin Bar
+1006,Octarine Bar
+1030,Plank
+1500,Copper Ore
+1505,Tin Ore
+1510,Iron Ore
+1520,Gold Ore
+1600,Ancient Gemstone
+1610,Wood
+1630,Slime
+1640,Fiber
+1647,Mechanical Part
+2020,<Missing GIGANTIC SKULL BOMB> <BROKEN 0.3.2-3425>
+2021,Ancient Coin
+2500,Ghorm's Horn
+2501,Glurch Eye
+2502,Heart Of The Hive Mother
+2503,Giant Slime Summoning Idol
+2504,Ghorm Summoning Idol
+2505,Hive Mother Summoning Idol
+2506,Skull of The Corrupted Shaman
+3090,<BROKEN 0.3.2-3425>
+3930,Mysterious Idol
+3931,Slime Oil
+4001,Ancient Fountain
+4003,Basic Workbench
+4004,Furnace
+4005,Electronics Table
+4006,Greenery Pod
+4007,Carpenter Table
+4008,Alchemy Table
+4009,Table Saw
+4010,Iron Workbench
+4011,Copper Anvil
+4012,Jewelry WorkBench
+4013,Cooking Pot
+4014,Iron Anvil
+4015,Smelter Kiln
+4016,Scarlet WorkBench
+4017,RailWay Forge
+4018,Painter's Table
+4019,Tin Workbench
+4020,Tin Anvil
+4021,Scarlet Anvil
+4022,Automation Table
+4023,Cartography Table
+4024,Octarine Anvil <BROKEN 0.3.2-3425>
+4025,Salvage and Repair Station
+4026,Distillery Table
+4100,Electricity Generator
+4700,Wood Floor
+4701,Wood Fence Gate
+4702,Wood Fence
+4703,Wood Bridge
+4704,Stone Floor
+4705,Stone Fence Gate
+4706,Stone Fence
+4707,Stone Bridge
+4708,Paintable Floor
+4709,Scarlet Floor
+4710,Scarlet Fence Gate
+4711,Scarlet Fence
+4712,Scarlet Bridge
+4750,Rug
+4751,Woven Mat
+4760,Bed
+4770,Wood Door
+4771,Stone Door
+5010,Caveling Skull
+5011,Leaf Fossil
+5012,Ammonite
+5013,Geode
+5014,Broken Core Idol
+5015,Ocarina
+5016,Old Amulet
+5017,Ear Plate
+5018,Bone Creole
+5019,Triangle Triket
+5020,Twisted Agate
+5021,Blood Skull
+5022,Grub Knot
+5023,Petrified Egg
+5024,Old Spore Mask
+5025,Hard Thorn
+5026,Balloon Spore
+5027,Caveling Doll
+5028,Small Caveling Skull 
+5029,Golden Feather
+5030,Mechanical Arm
+5031,Dry Butterfly
+5032,Precious Urn
+5033,Amber Chunk
+5034,Petrified Coral
+5035,Mold Dew
+5036,Fungal Bone
+5037,Mildew Leaf
+5038,Chipped Plate
+5039,Stone Cap
+5040,Giant Mite
+5041,Rusty Spoon
+5042,Green Kelp
+5043,Golden Starfish
+5044,Amber Fish Egg
+5045,Soft Sponge
+5046,Adder Stone
+5047,Caveling Perfume
+5048,Enhydro Crystal
+5049,Mucos Amoeba
+5050,Parasite Fossil
+5051,Golden Cocoon
+5052,Grub Pearl
+5053,Giant Germ
+5054,Mold Shell
+5055,Ceremonial Flute
+5056,Data Slate
+5057,Lost Paddle
+5058,Feather Fish Scale
+5059,Caveling Medal
+5060,Rainbow kelp
+5061,Bubble Pearl
+5062,Black Bubble Pearl
+5063,sealed Beverage
+5064,Shark Tooth
+5065,Forked Coral
+5066,Petrified Trilobite
+5067,Rusty Fishing Hook
+5068,Fish Fossil
+5069,Fizzy Crystal
+5070,Grey Kelp
+5071,Yellow Kelp
+5072,Pale Kelp
+5073,Red Kelp
+5074,Early Human Skull
+5075,Golden Caveling Mask
+5076,Anceint Gem Plate
+5077,Antique Board Game
+5078,Music Bowl
+5079,Seismic Clock
+5080,Old Journal
+5081,Mysterious Doll Set
+5082,Ritual Goblet
+5083,Oracle Card "Entity"
+5084,Glurch Figurine
+5085,Ivy Figurine
+5086,Ghorm Figurine
+5087,HiveMother Figurine
+5088,Slime Figurine
+5089,Purple Slime Figurine
+5090,Red Slime Figurine
+5091,Acid Larva Figurine
+5092,Larva Figurine
+5093,Big Larva Figurine
+5094,Hive Larva Figurine
+5095,Big Hive Larva Figurine
+5096,Caveling Figurine
+5097,Caveling Gardener Figurine
+5098,Caveling Hunter Figurine
+5099,Caveling Shaman Figurine
+5100,Infected Caveling Figurine
+5101,Caveling Brute Figurine
+5102,Azeos Figurine
+5103,Malugaz Figurine
+5104,Tentacle Figurine
+5105,Mold Tentacle Figurine
+5106,Snare Plant Figurine
+5107,Blue Slime Figurine
+5108,Oracle Card "Aura"
+5109,Oracle Card "Brilliance"
+5500,Mushroom
+5501,Giant Mushroom
+5511,Chrysalis
+5512,Ground Slime
+5513,Ground Acid Slime
+5514,Ground Poison Slime
+5515,Ground Slippery Slime
+5520,Ancient Crate 
+5611,Wooden Crate 
+5612,Flower Vessel    
+5616,Ancient Feather
+5617,
+5618,
+5619,Bush
+5620,Tall Grass
+5624,Camp Tent
+5625,Camp Mattress
+5626,<Missing Valuable>
+5627,<Missing> <Some sorta Plant>
+5628,<Missing> <Unlit campfire>
+5630,Mold Vessel
+5632,
+5700,Caveling Floor
+5701,Broken Stone Pillar
+5702,Caveling Pot
+5703,Caveling Table
+5704,Caveling Chair
+5705,Caveling Toilet
+5706,Caveling Bed
+5709,Water Well
+5710,Dark Caveling Floor Tile
+5711,Caveling Throne
+5750,Mold Tree <0.3.2-3425>-<BROKEN>
+5751,Mold Well
+5752,Mold Pillar
+5803,Land Kelp
+5804,Tall Land Kelp
+5806,Fishing Net Rack
+5807,Driftwood Table
+5808,Driftwood Stool
+5809,Wooden Sign "Core"
+5810,Wooden Sign "Tulip"
+6002,Tombstone
+6500,Lever
+6501,Electrical Wire
+6502,Ancient Wire
+6504,Electrical Door
+6505,Logic Circuit
+6506,Pulse Circuit
+6507,Delay Circuit
+6508,Electricity_Stick
+6550,Rail
+6551,Minecart
+6600,Hive Spike Trap
+6601,Spike Trap
+6650,Drill
+6651,Conveyor Belt
+6652,Robot Arm
+8001,Heart Berry Seed
+8003,Heart Berry
+8004,Glow Tulip Seed
+8006,Glow Tulip
+8007,Bomb Pepper Seed
+8009,Bomb Pepper
+8010,Carrock Seed
+8012,Carrock
+8013,Puffungi Seed
+8015,Puffungi
+8016,Root Seed
+8018,Grub Kapok Seed
+8100,Golden Heart Berry
+8101,Golden Glow Tulip
+8102,Golden Bomb Pepper
+8103,Golden Carrock
+8104,Golden Puffungi
+8200,Recall Idol
+8210,Hive Mother Scanner
+8211,Ghorm The Devourer Scanner
+8220,Azeos The Sky Titan Scanner
+8250,Rune Parchment
+8300,Lantern
+8301,Orb Lantern
+8302,Small Lantern
+8320,wooden Shield
+8321,Toxic Defender
+8340,Swift Feather
+8350,Blue Leather Tome
+8400,Cave Pouch
+8401,Ghorm's Stomach Bag
+8402,Scarlet Shell Bag
+8403,Explorer BackPack
+8500,Copper Helm
+8501,Wood Helm
+8502,Peasant Helm
+8503,Caveling Hood
+8504,Iron Helm
+8505,Bronze Helm
+8509,Carapace Helm
+8510,Larva Helm
+8511,Scarlet Helm
+8512,Hunter Helm
+8513,Farmers Hat
+8600,Copper Breastplate
+8601,Wood Chest
+8602,Peasant Chest
+8603,Caveling Chest
+8604,Iron Breastplate
+8605,Bronze Breastplate
+8609,Carapace Breastplate
+8610,Larva Chest
+8611,Scarlet Breastplate
+8612,Hunter Cloak
+8613,Ivy's Thorn Harness
+8700,Copper Pants
+8701,Wood Pants
+8703,Cavgeling Pants
+8704,Iron Pants
+8705,Bronze Pants
+8706,Scarlet Pants
+8707,Ivy's Pants
+8800,Copper Cross Necklace
+8801,Grub Egg Necklace
+8802,Iron Chunk Necklace
+8803,Heart Berry Necklace
+8804,Ammonite Necklace
+8805,Gold Crystal Necklace
+8806,Blob Rosary Necklace
+8807,Azeos Beak Necklace
+8808,Remedaisy Necklace
+8809,Ancient Guardian Necklace
+8810,Mold Vein Necklace
+8811,cave Guppy Necklace
+8812,Bubble Pearl Necklace
+8813,Polished Copper Cross Necklace
+8814,Polished Iron Chunk Necklace
+8815,Polished Gold Crystal Necklace
+8816,Ancient Gem Necklace
+8817,Skull Necklace
+8850,Clot Ring
+8851,Larva Ring
+8852,Wooden Thorn Ring
+8853,Glow Tulip Ring
+8854,Swift Ring
+8855,Ring of Rock
+8856,Ring of Stone
+8857,Gold Crystal Ring
+8858,Melting Crystal Ring
+8859,Sky Ring
+8860,Caveling Mother's Ring
+8861,Petal Ring
+8862,Mold Ring
+8863,Rusted Ring
+8864,Sea Foam Ring
+8865,Polished Gold Crystal Ring
+8866,Polished Glow Tulip Ring
+8867,Polished Swift Ring
+8868,Ancient Gem Ring
+8869,Ivy's Ring
+8870,Skull Ring
+8900,Copper Sword
+8901,Iron Sword
+8902,Scarlet Sword
+8903,Tin Sword
+8905,Slime Sword
+8906,Octarine Sword
+8930,Larva Spike Club
+8940,Poisonous Sickle
+8950,Broken Handle
+8951,Rune Song 
+8952,Tin Dagger
+8953,Tin Axe
+8954,Battle Axe
+8955,Scarlet Dagger
+8956,Ritual Dagger
+9001,Bomb
+9002,Crude Bomb
+9003,Large Bomb
+9100,Flintlock Musket
+9102,Slingshot
+9110,Grubzooka
+9111,Hand Mortar
+9112,Blowpipe
+9113,Fireball Staff
+9400,Healing Potion
+9401,Enrage Potion
+9402,StoneSkin Potion
+9403,Poison Aid Potion
+9404,Greater Healing Potion
+9405,Keen Potion
+9406,Guardian's Potion
+9500,Soup
+9501,Pudding
+9502,Salad
+9504,Steak
+9505,Cheese
+9506,Dip Snack
+9507,Sushi
+9508,Fish Balls
+9509,Fillet
+9550,Rare Soup
+9551,Rare Pudding
+9552,Rare Salad
+9553,Rare Wrap
+9554,Rare Steak
+9555,Rare Cheese
+9556,Rare Dip Snack
+9557,Rare Sushi
+9558,Rare Fish Balls
+9559,Rare Fillet
+9575,Epic Soup
+9576,Epic Pudding
+9577,Epic Salad
+9578,Epic Wrap
+9579,Epic Steak
+9580,Epic Cheese
+9581,Epic Dip Snack
+9582,Epic Sushi
+9583,Epic Fish Balls
+9584,Epic Fillet
+9600,Caveling Bread
+9601,Jingle Jam Cookie
+9602,Food Ration
+9700,Orange Cave Guppy
+9701,Blue Cave Guppy
+9702,Rock Jaw
+9703,Gem Crab
+9704,Dagger Fin
+9705,Pink Palace Fish
+9706,Teal Palace Fish
+9707,Crown Squid
+9708,Yellow Blister Head
+9709,Green Blister Head
+9710,Devil Worm
+9711,Vampire Eel
+9712,Mold Shark
+9713,Rot Fish
+9714,Black Steel Urchin
+9715,Azure Feather Fish
+9716,Emerald Feather Fish
+9717,Spirit Veil
+9718,Astral Jelly
+9900,Chipped Blade
+9901,Clear Gemstone
+9902,Crystal Skull Shard
