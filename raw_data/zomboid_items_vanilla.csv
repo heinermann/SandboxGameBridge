@@ -1,0 +1,1490 @@
+name,id,Version,Type,Category
+.223 Ammo,223Bullets,41.1,Normal,items_weapons
+.223 Magazine,223Clip,41.1,Normal,items_weapons
+.308 Ammo,308Bullets,41.1,Normal,items_weapons
+.308 Magazine,308Clip,41.1,Normal,items_weapons
+.308 Magazine,M14Clip,41.1,Normal,items_weapons
+.38 Special Bullets,Bullets38,41.1,Normal,items_weapons
+.44 Magazine,44Clip,41.1,Normal,items_weapons
+.44 Magnum Bullets,Bullets44,41.1,Normal,items_weapons
+.45 Auto,Bullets45,41.1,Normal,items_weapons
+.45 Auto Magazine,45Clip,41.1,Normal,items_weapons
+.556 Ammo,556Bullets,41.1,Normal,items_weapons
+.556 Magazine,556Clip,41.1,Normal,items_weapons
+223 Bullets Mold,223BulletsMold,41.1,Normal,newitems
+308 Bullets Mold,308BulletsMold,41.1,Normal,newitems
+9mm Bullets Mold,9mmBulletsMold,41.1,Normal,newitems
+9mm Magazine,9mmClip,41.1,Normal,items_weapons
+9mm Rounds,Bullets9mm,41.1,Normal,items_weapons
+Acoustic Guitar,GuitarAcoustic,41.1,Weapon,items_weapons
+Adhesive Bandages,Bandaid,41.1,Normal,newitems
+Advanced Carpentry,BookCarpentry3,41.1,Literature,items_literature
+Advanced Cooking,BookCooking3,41.1,Literature,items_literature
+Advanced Electricity,BookElectrician3,41.1,Literature,items_literature
+Advanced Farming,BookFarming3,41.1,Literature,items_literature
+Advanced First Aid,BookFirstAid3,41.1,Literature,items_literature
+Advanced Fishing,BookFishing3,41.1,Literature,items_literature
+Advanced Foraging,BookForaging3,41.1,Literature,items_literature
+Advanced Mechanics,BookMechanic3,41.1,Literature,items_literature
+Advanced Metalwork,BookMetalWelding3,41.1,Literature,items_literature
+Advanced Smithing,BookBlacksmith3,41.1,Literature,items_literature
+Advanced Tailoring,BookTailoring3,41.1,Literature,items_literature
+Advanced Trapping,BookTrapping3,41.1,Literature,items_literature
+Aerosol Bomb,Aerosolbomb,41.1,Weapon,newitems
+Aerosol Bomb with Sensor,AerosolbombSensorV1,41.1,Weapon,newitems
+Aerosol Bomb with Sensor,AerosolbombSensorV2,41.1,Weapon,newitems
+Aerosol Bomb with Sensor,AerosolbombSensorV3,41.1,Weapon,newitems
+Aerosol Bomb with Timer,AerosolbombTriggered,41.1,Weapon,newitems
+Airforce Coveralls,Boilersuit_Flying,41.1,Clothing,clothing/clothing_suits
+Airforce Helmet,Hat_SPHhelmet,41.1,Clothing,clothing/clothing_hats
+Alarm Clock,AlarmClock2,41.1,AlarmClock,newitems
+Alcohol Wipes,AlcoholWipes,41.1,Drainable,newitems
+Aluminum,Aluminum,41.1,Normal,newitems
+Ammo Straps,AmmoStraps,41.1,WeaponPart,newitems
+Amplifier,Amplifier,41.1,Normal,newitems
+Angler USA Magazine Vol. 1,FishingMag1,41.1,Literature,items_literature
+Angler USA Magazine Vol. 2,FishingMag2,41.1,Literature,items_literature
+Animal Print Strapless Bra,Bra_Strapless_AnimalPrint,41.1,Clothing,clothing/clothing_underwear
+Animal Print Straps Bra,Bra_Straps_AnimalPrint,41.1,Clothing,clothing/clothing_underwear
+Animal Print Underpants,Underpants_AnimalPrint,41.1,Clothing,clothing/clothing_underwear
+Antibiotics,Antibiotics,41.1,Food,newitems
+Antidepressants,PillsAntiDep,41.1,Drainable,items
+Antique Television,TvAntique,41.1,Radio,items_radio
+Antlers Boppers,Hat_Antlers,41.1,Clothing,clothing/clothing_hats
+Apple,Apple,41.1,Food,items_food
+Apron,Apron_Black,41.1,Clothing,clothing/clothing_others
+Apron,Apron_White,41.1,Clothing,clothing/clothing_others
+Apron,Apron_Random,41.1,Clothing,clothing/clothing_others
+Army Baseball Cap,Hat_BaseballCapArmy,41.1,Clothing,clothing/clothing_hats
+Army Baseball Cap,Hat_BaseballCapArmy_Reverse,41.1,Clothing,clothing/clothing_hats
+Army Beret,Hat_BeretArmy,41.1,Clothing,clothing/clothing_hats
+Army Coat,Jacket_CoatArmy,41.1,Clothing,clothing/clothing_jacket
+Army Pants,Trousers_ArmyService,41.1,Clothing,clothing/clothing_pants
+Aviator Glasses,Glasses_Aviators,41.1,Clothing,clothing/clothing_others
+Avocado,Avocado,41.1,Food,items_food
+Axe,Axe,41.1,Weapon,items_weapons
+Backpack,Bag_SurvivorBag,41.1,Container,clothing/clothing_others
+Bacon,Bacon,41.1,Food,farming
+Bacon Bits,BaconBits,41.1,Food,farming
+Bacon Rashers,BaconRashers,41.1,Food,farming
+Badminton Racket,BadmintonRacket,41.1,Weapon,items_weapons
+Bag of Concrete Powder,ConcretePowder,41.1,Normal,items
+Bag of Plaster Powder,PlasterPowder,41.1,Normal,items
+Bagel,BagelPlain,41.1,Food,items_food
+Baggy Jeans,Trousers_JeanBaggy,41.1,Clothing,clothing/clothing_pants
+Baguette,Baguette,41.1,Food,items_food
+Baking Pan,BakingPan,41.1,Normal,newitems
+Baking Soda,BakingSoda,41.1,Drainable,newitems
+Baking Tray,BakingTray,41.1,Normal,items
+Baking Tray with Bread,BakingTrayBread,41.1,Food,items_food
+Balaclava,Hat_BalaclavaFull,41.1,Clothing,clothing/clothing_hats
+Ball Peen Hammer,BallPeenHammer,41.1,Weapon,items_weapons
+Baloney,Baloney,41.1,Food,items_food
+Banana,Banana,41.1,Food,items_food
+Bandage,Bandage,41.1,Normal,newitems
+Bandana (Face),Hat_BandanaMask,41.1,Clothing,clothing/clothing_hats
+Bandana (Face),Hat_BandanaMaskTINT,41.1,Clothing,clothing/clothing_hats
+Bandana (Head),Hat_Bandana,41.1,Clothing,clothing/clothing_hats
+Bandana (Head),Hat_BandanaTINT,41.1,Clothing,clothing/clothing_hats
+Bandana (Tied),Hat_BandanaTied,41.1,Clothing,clothing/clothing_hats
+Bandana (Tied),Hat_BandanaTiedTINT,41.1,Clothing,clothing/clothing_hats
+Bandeau,BoobTube,41.1,Clothing,clothing/clothing_shirts
+Banjo,Banjo,41.1,Weapon,items_weapons
+Barbed Wire,BarbedWire,41.1,Normal,items
+Barbell,BarBell,41.1,Weapon,items_weapons
+Bare Hands,BareHands,41.1,Weapon,items_weapons
+Barrel Dogs Leather Jacket,Jacket_LeatherBarrelDogs,41.1,Clothing,clothing/clothing_jacket
+Barricade,Barricade,41.1,Normal,items
+Baseball,Baseball,41.1,Normal,newitems
+Baseball Bat,BaseballBat,41.1,Weapon,items_weapons
+Baseball Cap,Hat_BaseballCap,41.1,Clothing,clothing/clothing_hats
+Baseball Cap,Hat_BaseballCapRed,41.1,Clothing,clothing/clothing_hats
+Baseball Cap,Hat_BaseballCapBlue,41.1,Clothing,clothing/clothing_hats
+Baseball Cap,Hat_BaseballCapGreen,41.1,Clothing,clothing/clothing_hats
+Baseball Cap,Hat_BaseballCap_Reverse,41.1,Clothing,clothing/clothing_hats
+Baseball Cap,Hat_BaseballCapRed_Reverse,41.1,Clothing,clothing/clothing_hats
+Baseball Cap,Hat_BaseballCapBlue_Reverse,41.1,Clothing,clothing/clothing_hats
+Baseball Cap,Hat_BaseballCapGreen_Reverse,41.1,Clothing,clothing/clothing_hats
+Basketball,Basketball,41.1,Normal,newitems
+Bass,Bass,41.1,Food,items_food
+Bath Robe,LongCoat_Bathrobe,41.1,Clothing,clothing/clothing_suits
+Bath Towel,BathTowel,41.1,Drainable,newitems
+Bayonnet,Bayonnet,41.1,WeaponPart,newitems
+Beanie Hat,Hat_Beany,41.1,Clothing,clothing/clothing_hats
+Beef Jerky,BeefJerky,41.1,Food,items_food
+Beer Bottle,BeerBottle,41.1,Food,items_food
+Beer Can,BeerCan,41.1,Food,items_food
+Bell,Bell,41.1,Normal,newitems
+Bell Pepper,BellPepper,41.1,Food,items_food
+Bellows,Bellows,41.1,Normal,newitems
+Belt,Belt,41.1,Normal,items
+Belt,Belt2,41.1,Clothing,clothing/clothing_others
+Beret,Hat_Beret,41.1,Clothing,clothing/clothing_hats
+Berries,BerryBlue,41.1,Food,items_food
+Berries,BerryBlack,41.1,Food,items_food
+Berries,BerryGeneric1,41.1,Food,items_food
+Berries,BerryGeneric2,41.1,Food,items_food
+Berries,BerryGeneric3,41.1,Food,items_food
+Berries,BerryGeneric4,41.1,Food,items_food
+Berries,BerryGeneric5,41.1,Food,items_food
+Berries,BerryPoisonIvy,41.1,Food,items_food
+Beta Blockers,PillsBeta,41.1,Drainable,items
+Bicycle Helmet,Hat_BicycleHelmet,41.1,Clothing,clothing/clothing_hats
+Big Hiking Bag,Bag_BigHikingBag,41.1,Container,clothing/clothing_others
+Big Spiffo,SpiffoBig,41.1,Normal,newitems
+Bikini,Bikini_TINT,41.1,Clothing,clothing/clothing_others
+Bikini,Bikini_Pattern01,41.1,Clothing,clothing/clothing_others
+Biscuit,Biscuit,41.1,Food,items_food
+Black Band Fedora,Hat_Fedora_Delmonte,41.1,Clothing,clothing/clothing_hats
+Black Beans,Blackbeans,41.1,Food,items_food
+Black Chess Pieces,ChessBlack,41.1,Normal,newitems
+Black Corset,Corset_Black,41.1,Clothing,clothing/clothing_underwear
+Black Electric Bass,GuitarElectricBassBlack,41.1,Weapon,items_weapons
+Black Electric Guitar,GuitarElectricBlack,41.1,Weapon,items_weapons
+Black Forest Cake Slice,CakeBlackForest,41.1,Food,items_food
+Black Frilly Strapless Bra,Bra_Strapless_FrillyBlack,41.1,Clothing,clothing/clothing_underwear
+Black Frilly Straps Bra,Bra_Straps_FrillyBlack,41.1,Clothing,clothing/clothing_underwear
+Black Frilly Underpants,FrillyUnderpants_Black,41.1,Clothing,clothing/clothing_underwear
+Black Hair Dye,HairDyeBlack,41.1,Drainable,newitems
+Black Leather Trousers,Trousers_LeatherBlack,41.1,Clothing,clothing/clothing_pants
+Black Sage,BlackSage,41.1,Food,items_food
+Black Speedo,Briefs_SmallTrunks_Black,41.1,Clothing,clothing/clothing_underwear
+Black Strapless Bra,Bra_Strapless_Black,41.1,Clothing,clothing/clothing_underwear
+Black Straps Bra,Bra_Straps_Black,41.1,Clothing,clothing/clothing_underwear
+Black Trousers,Trousers_Black,41.1,Clothing,clothing/clothing_pants
+Black Underpants,Underpants_Black,41.1,Clothing,clothing/clothing_underwear
+Bleach,Bleach,41.1,Food,items_food
+Bleach Bottle With Water,WaterBleachBottle,41.1,Drainable,items_food
+Blonde Hair Dye,HairDyeBlonde,41.1,Drainable,newitems
+Blue Electric Bass,GuitarElectricBassBlue,41.1,Weapon,items_weapons
+Blue Electric Guitar,GuitarElectricBlue,41.1,Weapon,items_weapons
+Blue Fireman T-Shirt,Tshirt_Profession_FiremanBlue,41.1,Clothing,clothing/clothing_shirts
+Blue Hair Dye,HairDyeBlue,41.1,Drainable,newitems
+Blue Light Bulb,LightBulbBlue,41.1,Normal,newitems
+Blue Pen,BluePen,41.1,Weapon,items_weapons
+Blue Plate,PlateBlue,41.1,Normal,newitems
+Blue Police T-Shirt,Tshirt_Profession_PoliceBlue,41.1,Clothing,clothing/clothing_shirts
+Blue Speedo,Briefs_SmallTrunks_Blue,41.1,Clothing,clothing/clothing_underwear
+Boiled Egg,EggBoiled,41.1,Food,items_food
+Bonnie Hat,Hat_BonnieHat,41.1,Clothing,clothing/clothing_hats
+Bonnie Hat,Hat_BonnieHat_CamoGreen,41.1,Clothing,clothing/clothing_hats
+Book,Book,41.1,Literature,items_literature
+Boots,Shoes_BlackBoots,41.1,Clothing,clothing/clothing_shoes
+Bottle of Disinfectant,Disinfectant,41.1,Drainable,newitems
+Bottle with Remoulade (Half),RemouladeHalf,41.1,Food,farming
+Bow Tie,Tie_BowTieFull,41.1,Clothing,clothing/clothing_others
+Bowl,Bowl,41.1,Normal,items
+Bowl of Beans,BeanBowl,41.1,Food,items_food
+Bowl of Pasta,PastaBowl,41.1,Food,items_food
+Bowl of Ramen Noodles,RamenBowl,41.1,Food,items_food
+Bowl of Rice,RiceBowl,41.1,Food,items_food
+Bowl of Soup,SoupBowl,41.1,Food,items_food
+Bowl of Stew,StewBowl,41.1,Food,items_food
+Bowl of Water,WaterBowl,41.1,Drainable,items_food
+Bowling Shirt Blue,Shirt_Bowling_Blue,41.1,Clothing,clothing/clothing_shirts
+Bowling Shirt Brown,Shirt_Bowling_Brown,41.1,Clothing,clothing/clothing_shirts
+Bowling Shirt Green,Shirt_Bowling_Green,41.1,Clothing,clothing/clothing_shirts
+Bowling Shirt Lime Green,Shirt_Bowling_LimeGreen,41.1,Clothing,clothing/clothing_shirts
+Bowling Shirt Pink,Shirt_Bowling_Pink,41.1,Clothing,clothing/clothing_shirts
+Bowling Shirt White,Shirt_Bowling_White,41.1,Clothing,clothing/clothing_shirts
+Bowling Shoes,Shoes_Bowling,41.1,Clothing,clothing/clothing_shoes
+Box of .223 Bullets,223Box,41.1,Normal,items_weapons
+Box of .308 Bullets,308Box,41.1,Normal,items_weapons
+Box of .38 Special Bullets,Bullets38Box,41.1,Normal,items_weapons
+Box of .44 Magnum Bullets,Bullets44Box,41.1,Normal,items_weapons
+Box of .45 Auto Bullets,Bullets45Box,41.1,Normal,items_weapons
+Box of .556 Bullets,556Box,41.1,Normal,items_weapons
+Box of 9mm Bullets,Bullets9mmBox,41.1,Normal,items_weapons
+Box of Jars,BoxOfJars,41.1,Normal,newitems
+Box of Nails,NailsBox,41.1,Normal,newitems
+Box of Paperclips,PaperclipBox,41.1,Normal,newitems
+Box of Screws,ScrewsBox,41.1,Normal,newitems
+Box of Shotgun Shells,ShotgunShellsBox,41.1,Normal,items_weapons
+Box of Sparklers,Sparklers,41.1,Normal,newitems
+Boxers,Boxers_White,41.1,Clothing,clothing/clothing_underwear
+Boxing Gloves,Gloves_BoxingRed,41.1,Clothing,clothing/clothing_others
+Boxing Gloves,Gloves_BoxingBlue,41.1,Clothing,clothing/clothing_others
+Boxing Head Gear,Hat_BoxingRed,41.1,Clothing,clothing/clothing_hats
+Boxing Head Gear,Hat_BoxingBlue,41.1,Clothing,clothing/clothing_hats
+Boxing Shorts,Shorts_BoxingRed,41.1,Clothing,clothing/clothing_pants
+Boxing Shorts,Shorts_BoxingBlue,41.1,Clothing,clothing/clothing_pants
+Bread,Bread,41.1,Food,items_food
+Bread,BreadDough,41.1,Food,items_food
+Bread Knife,BreadKnife,41.1,Weapon,items_weapons
+Bread Slices,BreadSlices,41.1,Food,items_food
+Bricktoys,Bricktoys,41.1,Normal,newitems
+Briefs,Briefs_White,41.1,Clothing,clothing/clothing_underwear
+Briefs,Briefs_AnimalPrints,41.1,Clothing,clothing/clothing_underwear
+Broccoli,Broccoli,41.1,Food,items_food
+Broccoli Seeds,BroccoliSeed,41.1,Normal,farming
+Broccoli Seeds Packet,BroccoliBagSeed,41.1,Normal,farming
+Broken Fishing Net Trap,BrokenFishingNet,41.1,Normal,newitems
+Broom,Broom,41.1,Weapon,items_weapons
+Brown Ranger T-Shirt,Tshirt_Profession_RangerBrown,41.1,Clothing,clothing/clothing_shirts
+Brown Sugar,SugarBrown,41.1,Food,items_food
+Bucket,BucketEmpty,41.1,Normal,items
+Bucket Hat,Hat_BucketHat,41.1,Clothing,clothing/clothing_hats
+Bucket of Concrete,BucketConcreteFull,41.1,Drainable,items
+Bucket of Plaster,BucketPlasterFull,41.1,Drainable,items
+Bucket of Water,BucketWaterFull,41.1,Drainable,items
+Bullets Ammo Strap,AmmoStrap_Bullets,41.1,Clothing,clothing/clothing_others
+Bunny Ears,Hat_BunnyEarsBlack,41.1,Clothing,clothing/clothing_hats
+Bunny Ears,Hat_BunnyEarsWhite,41.1,Clothing,clothing/clothing_hats
+Bunny Suit,BunnySuitPink,41.1,Clothing,clothing/clothing_others
+Bunny Suit,BunnySuitBlack,41.1,Clothing,clothing/clothing_others
+Bunny Tail,BunnyTail,41.1,Clothing,clothing/clothing_others
+Burger,Burger,41.1,Food,items_food
+Burger,BurgerRecipe,41.1,Food,items_food
+Burrito,Burrito,41.1,Food,items_food
+Burrito,BurritoRecipe,41.1,Food,items_food
+Butter,Butter,41.1,Food,items_food
+Butter Knife,ButterKnife,41.1,Weapon,items_weapons
+Button,Button,41.1,Normal,newitems
+Cabbage,Cabbage,41.1,Food,farming
+Cabbage Seeds,CabbageSeed,41.1,Normal,farming
+Cabbage Seeds Packet,CabbageBagSeed,41.1,Normal,farming
+Cage Trap,TrapCage,41.1,Normal,newitems
+Cake,CakeRaw,41.1,Food,items_food
+Cake Batter,CakeBatter,41.1,Normal,newitems
+Cake Preparation,CakePrep,41.1,Food,items_food
+Cake Slice,CakeSlice,41.1,Food,items_food
+Camera,Camera,41.1,Normal,newitems
+Camo Hunting Vest,Vest_Hunting_Camo,41.1,Clothing,clothing/clothing_shirts
+Campfire Materials,CampfireKit,41.1,Normal,camping
+Can Opener,TinOpener,41.1,Normal,items
+Candle,Candle,41.1,Drainable,items
+Candy Cane,Candycane,41.1,Food,items_food
+Candy Package,CandyPackage,41.1,Food,items_food
+Canned Beans,TinnedBeans,41.1,Food,items_food
+Canned Bolognese,CannedBolognese,41.1,Food,items_food
+Canned Carrots,CannedCarrots2,41.1,Food,items_food
+Canned Chili,CannedChili,41.1,Food,items_food
+Canned Corn,CannedCorn,41.1,Food,items_food
+Canned Corned Beef,CannedCornedBeef,41.1,Food,items_food
+Canned Fruit Cocktail,CannedFruitCocktail,41.1,Food,items_food
+Canned Mushroom Soup,CannedMushroomSoup,41.1,Food,items_food
+Canned Peaches,CannedPeaches,41.1,Food,items_food
+Canned Peas,CannedPeas,41.1,Food,items_food
+Canned Pineapple,CannedPineapple,41.1,Food,items_food
+Canned Potato,CannedPotato2,41.1,Food,items_food
+Canned Sardines,CannedSardines,41.1,Food,items_food
+Canned Soup,TinnedSoup,41.1,Food,items_food
+Canned Tomato,CannedTomato2,41.1,Food,items_food
+Canned Tuna,TunaTin,41.1,Food,items_food
+Canoe Paddle,CanoePadel,41.1,Weapon,items_weapons
+Canoe Paddle Double,CanoePadelX2,41.1,Weapon,items_weapons
+Carpentry for Beginners,BookCarpentry1,41.1,Literature,items_literature
+Carpentry for Intermediates,BookCarpentry2,41.1,Literature,items_literature
+Carrot Cake Slice,CakeCarrot,41.1,Food,items_food
+Carrot Seeds,CarrotSeed,41.1,Normal,farming
+Carrot Seeds Packet,CarrotBagSeed,41.1,Normal,farming
+Carrots,Carrots,41.1,Food,items_food
+Carving Fork,CarvingFork,41.1,Normal,newitems
+Cat Toy,CatToy,41.1,Normal,newitems
+Catfish,Catfish,41.1,Food,items_food
+CD,Disc,41.1,Normal,newitems
+CD,Disc_Retail,41.1,Normal,newitems
+Cereal Bowl,CerealBowl,41.1,Food,items_food
+Chair Leg,ChairLeg,41.1,Weapon,items_weapons
+Charcoal,Charcoal,41.1,Drainable,items
+Chardonnay,Wine,41.1,Food,items_food
+Cheese,Cheese,41.1,Food,items_food
+Cheese Cake Slice,CakeCheeseCake,41.1,Food,items_food
+Cheese Sandwich,CheeseSandwich,41.1,Food,items_food
+Chef Hat,Hat_ChefHat,41.1,Clothing,clothing/clothing_hats
+Chef Jacket,Jacket_Chef,41.1,Clothing,clothing/clothing_jacket
+Chef Pants,Trousers_Chef,41.1,Clothing,clothing/clothing_pants
+Cherry,Cherry,41.1,Food,items_food
+Chicken,Chicken,41.1,Food,items_food
+Chicken Foot,ChickenFoot,41.1,Food,items_food
+Chicken Nuggets,ChickenNuggets,41.1,Food,items_food
+Chipped Stone,SharpedStone,41.1,Normal,newitems
+Chocolate Cake Slice,CakeChocolate,41.1,Food,items_food
+Chocolate Chips,ChocolateChips,41.1,Food,items_food
+Chocolate Cookie,CookiesChocolate,41.1,Food,items_food
+Chocolate Doughnut,DoughnutChocolate,41.1,Food,items_food
+Choke Tube Full,ChokeTubeFull,41.1,WeaponPart,newitems
+Choke Tube Improved,ChokeTubeImproved,41.1,WeaponPart,newitems
+Chopsticks,Chopsticks,41.1,Normal,newitems
+Civilian Bulletproof Vest,Vest_BulletCivilian,41.1,Clothing,clothing/clothing_shirts
+Cleaning Liquid,CleaningLiquid2,41.1,Drainable,newitems
+Clip-on Bow Tie,Tie_BowTieWorn,41.1,Clothing,clothing/clothing_others
+Clip-on Spiffo Tie,Tie_Worn_Spiffo,41.1,Clothing,clothing/clothing_others
+Clip-on Tie,Tie_Worn,41.1,Clothing,clothing/clothing_others
+Closed Umbrella,ClosedUmbrellaRed,41.1,Weapon,items_weapons
+Closed Umbrella,ClosedUmbrellaBlue,41.1,Weapon,items_weapons
+Closed Umbrella,ClosedUmbrellaBlack,41.1,Weapon,items_weapons
+Closed Umbrella,ClosedUmbrellaWhite,41.1,Weapon,items_weapons
+Club Hammer,ClubHammer,41.1,Weapon,items_weapons
+Cockroach,Cockroach,41.1,Food,items_food
+Cocoa Powder,CocoaPowder,41.1,Food,items_food
+Cold Cuppa,ColdCuppa,41.1,Food,items_food
+Cold Cuppa,ColdDrinkRed,41.1,Food,items_food
+Cold Cuppa,ColdDrinkWhite,41.1,Food,items_food
+Cold Cuppa,ColdDrinkSpiffo,41.1,Food,items_food
+Cold Pack,Coldpack,41.1,Normal,newitems
+Cologne,Cologne,41.1,Normal,newitems
+Coloured Party Hat,Hat_PartyHat_TINT,41.1,Clothing,clothing/clothing_hats
+Comb,Comb,41.1,Normal,newitems
+Combination Padlock,CombinationPadlock,41.1,Key,newitems
+Comfrey,Comfrey,41.1,Normal,newitems
+Comfrey Poultice,ComfreyCataplasm,41.1,Normal,newitems
+Comic Book,ComicBook,41.1,Literature,items_literature
+Common Mallow,CommonMallow,41.1,Food,items_food
+Compost Bag,CompostBag,41.1,Drainable,newitems
+Cone,Cone,41.1,Food,items_food
+Cookie,CookieChocolateChip,41.1,Food,items_food
+Cooking for Beginners,BookCooking1,41.1,Literature,items_literature
+Cooking for Intermediates,BookCooking2,41.1,Literature,items_literature
+Cooking Pot,Pot,41.1,Normal,items
+Cooking Pot with Pasta,WaterPotPasta,41.1,Food,items_food
+Cooking Pot with Rice,WaterPotRice,41.1,Food,items_food
+Cooking Pot with Water,WaterPot,41.1,Drainable,items_food
+Cordless Phone,CordlessPhone,41.1,Normal,newitems
+Cork,Cork,41.1,Normal,newitems
+Corkscrew,Corkscrew,41.1,Normal,newitems
+Corn,Corn,41.1,Food,items_food
+Corn Flour,Cornflour,41.1,Drainable,newitems
+Cornbread,Cornbread,41.1,Food,items_food
+Corndog,Corndog,41.1,Food,items_food
+Cornmeal,Cornmeal,41.1,Drainable,items
+Corpse,CorpseMale,41.1,Normal,newitems
+Corpse,CorpseFemale,41.1,Normal,newitems
+Corset,Corset,41.1,Clothing,clothing/clothing_underwear
+Cotton Balls,CottonBalls,41.1,Normal,newitems
+Cotton Balls Doused in Alcohol,AlcoholedCottonBalls,41.1,Drainable,newitems
+Coveralls,Boilersuit,41.1,Clothing,clothing/clothing_suits
+Coveralls,Boilersuit_Yellow,41.1,Clothing,clothing/clothing_suits
+Coveralls,Boilersuit_BlueRed,41.1,Clothing,clothing/clothing_suits
+Cowboy Hat,Hat_Cowboy,41.1,Clothing,clothing/clothing_hats
+Crackers,Crackers,41.1,Food,items_food
+Crafted Spear,SpearCrafted,41.1,Weapon,items_weapons
+Crafted Timer,TimerCrafted,41.1,Normal,newitems
+Crafted Trigger,TriggerCrafted,41.1,Normal,newitems
+Crappie,Crappie,41.1,Food,items_food
+Crash Helmet,Hat_CrashHelmet,41.1,Clothing,clothing/clothing_hats
+Crate,Crate,41.1,Normal,items
+Crayfish,Crayfish,41.1,Food,items_food
+Crayons,Crayons,41.1,Normal,newitems
+CreditCard,CreditCard,41.1,Normal,newitems
+Cricket,Cricket,41.1,Food,items_food
+Croissant,Croissant,41.1,Food,items_food
+Crop Top,Shirt_CropTopNoArmTINT,41.1,Clothing,clothing/clothing_shirts
+Crop Top Arms,Shirt_CropTopTINT,41.1,Clothing,clothing/clothing_shirts
+Crowbar,Crowbar,41.1,Weapon,items_weapons
+Cube,Cube,41.1,Normal,newitems
+Cupcake,Cupcake,41.1,Food,items_food
+Cyan Light Bulb,LightBulbCyan,41.1,Normal,newitems
+D-E Pistol,Pistol3,41.1,Weapon,items_weapons
+Daikon,Daikon,41.1,Food,items_food
+Dark Red Fireman T-Shirt,Tshirt_Profession_FiremanRed02,41.1,Clothing,clothing/clothing_shirts
+Dart,Dart,41.1,Normal,newitems
+Dead Bird,DeadBird,41.1,Food,items_food
+Dead Mouse,DeadMouse,41.1,Food,items_food
+Dead Rabbit,DeadRabbit,41.1,Food,items_food
+Dead Rat,DeadRat,41.1,Food,items_food
+Dead Squirrel,DeadSquirrel,41.1,Food,items_food
+Denim Jeans,TrousersMesh_DenimLight,41.1,Clothing,clothing/clothing_pants
+Denim Shirt,Shirt_Denim,41.1,Clothing,clothing/clothing_shirts
+Denim Shorts,Shorts_ShortDenim,41.1,Clothing,clothing/clothing_pants
+Denim Strips,DenimStrips,41.1,Normal,newitems
+Diamond-pattern Sweater,Jumper_DiamondPatternTINT,41.1,Clothing,clothing/clothing_jacket
+Diamond-pattern Sweater Vest,Jumper_TankTopDiamondTINT,41.1,Clothing,clothing/clothing_jacket
+Dice,Dice,41.1,Normal,newitems
+Digital Watch,DigitalWatch,41.1,Normal,newitems
+Digital Watch,DigitalWatch2,41.1,AlarmClock,newitems
+Dirt Bag,Dirtbag,41.1,Drainable,items
+Dirty Bandage,BandageDirty,41.1,Normal,newitems
+Dirty Denim Strips,DenimStripsDirty,41.1,Normal,newitems
+Dirty Leather Strips,LeatherStripsDirty,41.1,Normal,newitems
+Dirty Rag,RippedSheetsDirty,41.1,Normal,items
+Dish Towel,DishCloth,41.1,Drainable,items
+Disposable Camera,CameraDisposable,41.1,Normal,newitems
+Dog Chew Toy,DogChew,41.1,Normal,newitems
+Dog Food,Dogfood,41.1,Food,items_food
+Doll,Doll,41.1,Normal,newitems
+Doodle,Doodle,41.1,Literature,items_literature
+Door,Door,41.1,Normal,items
+Door Hinge,Hinge,41.1,Normal,items
+Double Barrel Shotgun,DoubleBarrelShotgun,41.1,Weapon,items_weapons
+Double Holster,HolsterDouble,41.1,Clothing,clothing/clothing_others
+Dough,Dough,41.1,Food,items_food
+Doughnut,DoughnutPlain,41.1,Food,items_food
+Drawer,Drawer,41.1,Normal,items
+Dress,Dress_Normal,41.1,Clothing,clothing/clothing_suits
+Drumstick,Drumstick,41.1,Weapon,items_weapons
+Dry Ramen Noodles,Ramen,41.1,Food,items_food
+Duct Tape,DuctTape,41.1,Drainable,newitems
+Duffel Bag,Bag_MoneyBag,41.1,Container,clothing/clothing_others
+Duffel Bag,Bag_DuffelBag,41.1,Container,clothing/clothing_others
+Duffel Bag,Bag_WeaponBag,41.1,Container,clothing/clothing_others
+Duffel Bag,Bag_WorkerBag,41.1,Container,clothing/clothing_others
+Duffel Bag,Bag_ShotgunBag,41.1,Container,newBags
+Duffel Bag,Bag_DuffelBagTINT,41.1,Container,clothing/clothing_others
+Duffel Bag,Bag_ShotgunDblBag,41.1,Container,newBags
+Duffel Bag,Bag_InmateEscapedBag,41.1,Container,clothing/clothing_others
+Duffel Bag,Bag_ShotgunSawnoffBag,41.1,Container,newBags
+Duffel Bag,Bag_ShotgunDblSawnoffBag,41.1,Container,newBags
+DumbBell,DumbBell,41.1,Weapon,items_weapons
+Dust Mask,Hat_DustMask,41.1,Clothing,clothing/clothing_hats
+Ear Muffs,Hat_EarMuffs,41.1,Clothing,clothing/clothing_hats
+Ear Protectors,Hat_EarMuff_Protectors,41.1,Clothing,clothing/clothing_hats
+Earbuds,Earbuds,41.1,Normal,newitems
+Edamame,Edamame,41.1,Food,items_food
+Egg,Egg,41.1,Food,items_food
+Egg Carton,EggCarton,41.1,Food,items_food
+Egg Sushi,SushiEgg,41.1,Food,items_food
+Eggplant,Eggplant,41.1,Food,items_food
+Electric Wire,ElectricWire,41.1,Normal,items_radio
+Electricity for Beginners,BookElectrician1,41.1,Literature,items_literature
+Electricity for Intermediates,BookElectrician2,41.1,Literature,items_literature
+Electronics Magazine Vol. 1,ElectronicsMag1,41.1,Literature,items_literature
+Electronics Magazine Vol. 2,ElectronicsMag2,41.1,Literature,items_literature
+Electronics Magazine Vol. 3,ElectronicsMag3,41.1,Literature,items_literature
+Electronics Magazine Vol. 4,ElectronicsMag5,41.1,Literature,items_literature
+Electronics Scrap,ElectronicsScrap,41.1,Normal,newitems
+Empty Beer Can,BeerCanEmpty,41.1,Normal,newitems
+Empty Bleach Bottle,BleachEmpty,41.1,Normal,newitems
+Empty Bottle,BeerEmpty,41.1,Normal,items
+Empty Bottle,WineEmpty,41.1,Normal,items
+Empty Bottle,WineEmpty2,41.1,Normal,items
+Empty Bottle,WhiskeyEmpty,41.1,Normal,items
+Empty Bottle,RemouladeEmpty,41.1,Normal,farming
+Empty Bottle,MayonnaiseEmpty,41.1,Normal,farming
+Empty Bottle,WaterBottleEmpty,41.1,Normal,items
+Empty Cyan Mug,Mugl,41.1,Normal,items
+Empty Fertilizer,FertilizerEmpty,41.1,Normal,items
+Empty Gas Can,EmptyPetrolCan,41.1,Normal,newitems
+Empty Jar,EmptyJar,41.1,Normal,newitems
+Empty Notebook,Notebook,41.1,Literature,items_literature
+Empty Paint Bucket,PaintbucketEmpty,41.1,Normal,newitems
+Empty Pop Bottle,PopBottleEmpty,41.1,Normal,items
+Empty Pop Can,PopEmpty,41.1,Normal,newitems
+Empty Pop Can,Pop2Empty,41.1,Normal,newitems
+Empty Pop Can,Pop3Empty,41.1,Normal,newitems
+Empty Red Mug,MugRed,41.1,Normal,items
+Empty Spiffo Mug,MugSpiffo,41.1,Normal,items
+Empty Tin Can,TinCanEmpty,41.1,Normal,newitems
+Empty White Mug,MugWhite,41.1,Normal,items
+Engineer Magazine Vol. 1,EngineerMagazine1,41.1,Literature,items_literature
+Engineer Magazine Vol. 2,EngineerMagazine2,41.1,Literature,items_literature
+Eraser,Eraser,41.1,Normal,newitems
+Expert Carpentry,BookCarpentry4,41.1,Literature,items_literature
+Expert Cooking,BookCooking4,41.1,Literature,items_literature
+Expert Electricity,BookElectrician4,41.1,Literature,items_literature
+Expert Farming,BookFarming4,41.1,Literature,items_literature
+Expert First Aid,BookFirstAid4,41.1,Literature,items_literature
+Expert Fishing,BookFishing4,41.1,Literature,items_literature
+Expert Foraging,BookForaging4,41.1,Literature,items_literature
+Expert Mechanics,BookMechanic4,41.1,Literature,items_literature
+Expert Metalwork,BookMetalWelding4,41.1,Literature,items_literature
+Expert Smithing,BookBlacksmith4,41.1,Literature,items_literature
+Expert Tailoring,BookTailoring4,41.1,Literature,items_literature
+Expert Trapping,BookTrapping4,41.1,Literature,items_literature
+Extinguisher,Extinguisher,41.1,Drainable,newitems
+Eyepatch,Glasses_Eyepatch_Left,41.1,Clothing,clothing/clothing_others
+Eyepatch,Glasses_Eyepatch_Right,41.1,Clothing,clothing/clothing_others
+Eyes Makeup,MakeupEyeshadow,41.1,Normal,newitems
+Fancy Plate,PlateFancy,41.1,Normal,newitems
+Fancy Shoes,Shoes_Fancy,41.1,Clothing,clothing/clothing_shoes
+Farming for Beginners,BookFarming1,41.1,Literature,items_literature
+Farming for Intermediates,BookFarming2,41.1,Literature,items_literature
+Fast Food Server Hat,Hat_FastFood,41.1,Clothing,clothing/clothing_hats
+Fedora,Hat_Fedora,41.1,Clothing,clothing/clothing_hats
+Fiberglass Stock,FiberglassStock,41.1,WeaponPart,newitems
+Film Camera,CameraFilm,41.1,Normal,newitems
+Fingerless Gloves,Gloves_FingerlessGloves,41.1,Clothing,clothing/clothing_others
+Firefighter Helmet,Hat_Fireman,41.1,Clothing,clothing/clothing_hats
+Firefighter Jacket,Jacket_Fireman,41.1,Clothing,clothing/clothing_jacket
+Firefighter Pants,Trousers_Fireman,41.1,Clothing,clothing/clothing_pants
+First Aid for Beginners,BookFirstAid1,41.1,Literature,items_literature
+First Aid for Intermediates,BookFirstAid2,41.1,Literature,items_literature
+First Aid Kit,FirstAidKit,41.1,Container,newitems
+Fish Fillet,FishFillet,41.1,Food,items_food
+Fish Roe,FishRoe,41.1,Food,items_food
+Fish Sushi,SushiFish,41.1,Food,items_food
+Fishing for Beginners,BookFishing1,41.1,Literature,items_literature
+Fishing for Intermediates,BookFishing2,41.1,Literature,items_literature
+Fishing Line,FishingLine,41.1,Drainable,newitems
+Fishing Net Trap,FishingNet,41.1,Normal,newitems
+Fishing Rod,FishingRod,41.1,Weapon,items_weapons
+Fishing Rod,CraftedFishingRod,41.1,Weapon,items_weapons
+Fishing Rod,FishingRodTwineLine,41.1,Weapon,items_weapons
+Fishing Rod,CraftedFishingRodTwineLine,41.1,Weapon,items_weapons
+Fishing Rod Without line,FishingRodBreak,41.1,Weapon,items_weapons
+Fishing Tackle,FishingTackle,41.1,Normal,newitems
+Fishing Tackle,FishingTackle2,41.1,Normal,newitems
+Fishnets,TightsFishnets,41.1,Clothing,clothing/clothing_underwear
+Flame Trap,FlameTrap,41.1,Weapon,newitems
+Flame Trap with Sensor,FlameTrapSensorV1,41.1,Weapon,newitems
+Flame Trap with Sensor,FlameTrapSensorV2,41.1,Weapon,newitems
+Flame Trap with Sensor,FlameTrapSensorV3,41.1,Weapon,newitems
+Flame Trap with Timer,FlameTrapTriggered,41.1,Weapon,newitems
+Flashlight,Torch,41.1,Drainable,items
+Flint,Flint,41.1,Normal,camping
+Flint and Steel,SteelAndFlint,41.1,Normal,camping
+Flip Flops,Shoes_FlipFlop,41.1,Clothing,clothing/clothing_shoes
+Flute,Flute,41.1,Weapon,items_weapons
+Football,Football,41.1,Normal,newitems
+Football,Football2,41.1,Weapon,newitems
+Football Helmet,Hat_FootballHelmet,41.1,Clothing,clothing/clothing_hats
+Foraging for Beginners,BookForaging1,41.1,Literature,items_literature
+Foraging for Intermediates,BookForaging2,41.1,Literature,items_literature
+Foreman Vest,Vest_Foreman,41.1,Clothing,clothing/clothing_shirts
+Fork,Fork,41.1,Weapon,items_weapons
+Formal Shirt,Shirt_FormalTINT,41.1,Clothing,clothing/clothing_shirts
+Formal Shirt,Shirt_FormalWhite,41.1,Clothing,clothing/clothing_shirts
+Fossoil T-Shirt,Tshirt_Fossoil,41.1,Clothing,clothing/clothing_shirts
+Foundation Makeup,MakeupFoundation,41.1,Normal,newitems
+Fountain Cup,FountainCup,41.1,Normal,newitems
+Four Logs Stack,LogStacks4,41.1,Normal,newitems
+Frame,Frame,41.1,Normal,newitems
+Fried Chicken,ChickenFried,41.1,Food,items_food
+Fried Fish,FishFried,41.1,Food,items_food
+Fried Onion Rings,FriedOnionRings,41.1,Food,items_food
+Fried Onion Rings,FriedOnionRingsCraft,41.1,Food,items_food
+Fried Oysters,OystersFried,41.1,Food,items_food
+Fried Shrimp,ShrimpFried,41.1,Food,items_food
+Fried Shrimp,ShrimpFriedCraft,41.1,Food,items_food
+Fried Tofu,TofuFried,41.1,Food,items_food
+Fries,Fries,41.1,Food,items_food
+Frog,Frog,41.1,Normal,newitems
+Frog Meat,FrogMeat,41.1,Food,items_food
+Frosted Doughnut,DoughnutFrosted,41.1,Food,items_food
+Fruit Jam,JamFruit,41.1,Food,items_food
+Fruit Muffin,MuffinFruit,41.1,Food,items_food
+Frying Pan,Pan,41.1,Weapon,items_weapons
+Furry Ears,Hat_FurryEars,41.1,Clothing,clothing/clothing_hats
+Garbage Bag,Garbagebag,41.1,Container,newitems
+Garden Fork,GardenFork,41.1,Weapon,items_weapons
+Garden Hoe,GardenHoe,41.1,Weapon,items_weapons
+Garden Saw,GardenSaw,41.1,Normal,items
+Gardening Spray Can (Empty),GardeningSprayEmpty,41.1,Normal,farming
+Gardening Spray Can (Full),GardeningSprayFull,41.1,Drainable,farming
+Garter,Garter,41.1,Clothing,clothing/clothing_underwear
+Gas Can,PetrolCan,41.1,Drainable,items
+Gas Mask,Hat_GasMask,41.1,Clothing,clothing/clothing_hats
+Gas2Go T-Shirt,Tshirt_Gas2Go,41.1,Clothing,clothing/clothing_shirts
+Generator,Generator,41.1,Normal,newitems
+Ghillie Suit Pants,Ghillie_Trousers,41.1,Clothing,clothing/clothing_pants
+Ghillie Suit Torso,Ghillie_Top,41.1,Clothing,clothing/clothing_jacket
+GigaMart Waistcoat,Vest_Waistcoat_GigaMart,41.1,Clothing,clothing/clothing_shirts
+Ginger Pickled,GingerPickled,41.1,Food,items_food
+Ginseng,Ginseng,41.1,Food,items_food
+Glasses,Glasses_Normal,41.1,Clothing,clothing/clothing_others
+Gloves,Gloves_WhiteTINT,41.1,Clothing,clothing/clothing_others
+GoldStar Boppers,Hat_GoldStar,41.1,Clothing,clothing/clothing_hats
+Golf Ball,GolfBall,41.1,Normal,newitems
+Golf Cap,Hat_GolfHatTINT,41.1,Clothing,clothing/clothing_hats
+Golfclub,Golfclub,41.1,Weapon,items_weapons
+Good Cooking Magazine Vol. 1,CookingMag1,41.1,Literature,items_literature
+Good Cooking Magazine Vol. 2,CookingMag2,41.1,Literature,items_literature
+Graham Crackers,GrahamCrackers,41.1,Food,items_food
+Granola Bar,GranolaBar,41.1,Food,items_food
+Grape fruit,Grapefruit,41.1,Food,items_food
+Grape Leaves,GrapeLeaves,41.1,Food,items_food
+Grapes,Grapes,41.1,Food,items_food
+Grasshopper,Grasshopper,41.1,Food,items_food
+Gravel Bag,Gravelbag,41.1,Drainable,items
+Gravy,Gravy,41.1,Food,items_food
+Gravy Mix,GravyMix,41.1,Drainable,newitems
+Green Camo Hunting Vest,Vest_Hunting_CamoGreen,41.1,Clothing,clothing/clothing_shirts
+Green Hair Dye,HairDyeGreen,41.1,Drainable,newitems
+Green Light Bulb,LightBulbGreen,41.1,Normal,newitems
+Green Ranger T-Shirt,Tshirt_Profession_RangerGreen,41.1,Clothing,clothing/clothing_shirts
+Green Santa Hat,Hat_SantaHatGreen,41.1,Clothing,clothing/clothing_hats
+Green Santa Suit Jacket,JacketLong_SantaGreen,41.1,Clothing,clothing/clothing_jacket
+Green Santa Suit Pants,Trousers_SantaGReen,41.1,Clothing,clothing/clothing_pants
+Green Veteran T-Shirt,Tshirt_Profession_VeterenGreen,41.1,Clothing,clothing/clothing_shirts
+Grey Hunting Vest,Vest_Hunting_Grey,41.1,Clothing,clothing/clothing_shirts
+Griddle Pan,GridlePan,41.1,Weapon,items_weapons
+Grill Brush,GrillBrush,41.1,Normal,newitems
+Grilled Cheese Sandwich,GrilledCheese,41.1,Food,items_food
+Guerilla Radio Vol. 1,RadioMag1,41.1,Literature,items_radio
+Guerilla Radio Vol. 2,RadioMag2,41.1,Literature,items_radio
+Guerilla Radio Vol. 3,RadioMag3,41.1,Literature,items_radio
+Gum,Gum,41.1,Food,items_food
+Gun Case,RifleCase1,41.1,Container,newBags
+Gun Case,RifleCase2,41.1,Container,newBags
+Gun Case,RifleCase3,41.1,Container,newBags
+Gun Case,ShotgunCase1,41.1,Container,newBags
+Gun Case,ShotgunCase2,41.1,Container,newBags
+Gun Light,GunLight,41.1,WeaponPart,newitems
+Gunpowder,GunPowder,41.1,Drainable,newitems
+Habanero,PepperHabanero,41.1,Food,items_food
+Hair gel,Hairgel,41.1,Drainable,newitems
+Hairspray,Hairspray,41.1,Normal,newitems
+Ham,Ham,41.1,Food,items_food
+Ham Slice,HamSlice,41.1,Food,items_food
+Hammer,Hammer,41.1,Weapon,items_weapons
+Hand Axe,HandAxe,41.1,Weapon,items_weapons
+Hand Fork,HandFork,41.1,Weapon,items_weapons
+Hand Scythe,HandScythe,41.1,Weapon,items_weapons
+Hand Torch,HandTorch,41.1,Drainable,newitems
+Handle,Handle,41.1,Normal,newitems
+Hard Hat,Hat_HardHat,41.1,Clothing,clothing/clothing_hats
+Hat Arrow,Hat_JokeArrow,41.1,Clothing,clothing/clothing_hats
+Hat Knife,Hat_JokeKnife,41.1,Clothing,clothing/clothing_hats
+Hawaiian Red Shirt,Shirt_HawaiianRed,41.1,Clothing,clothing/clothing_shirts
+Hawaiian Shirt,Shirt_HawaiianTINT,41.1,Clothing,clothing/clothing_shirts
+Hazmat Suit,HazmatSuit,41.1,Clothing,clothing/clothing_suits
+Headphones,Headphones,41.1,Normal,newitems
+Hearts Boxers,Boxers_Hearts,41.1,Clothing,clothing/clothing_underwear
+High Visibility Vest,Vest_HighViz,41.1,Clothing,clothing/clothing_shirts
+High-end Camera,CameraExpensive,41.1,Normal,newitems
+Hiking Bag,Bag_NormalHikingBag,41.1,Container,clothing/clothing_others
+Hockey Goalie Mask,Hat_HockeyMask,41.1,Clothing,clothing/clothing_hats
+Hockey Helmet,Hat_HockeyHelmet,41.1,Clothing,clothing/clothing_hats
+Hockey Stick,HockeyStick,41.1,Weapon,items_weapons
+Holster,HolsterSimple,41.1,Clothing,clothing/clothing_others
+Home Alarm,HomeAlarm,41.1,Normal,newitems
+Honey,Honey,41.1,Food,items_food
+Hoodie,HoodieUP_WhiteTINT,41.1,Clothing,clothing/clothing_jacket
+Hoodie,HoodieDOWN_WhiteTINT,41.1,Clothing,clothing/clothing_jacket
+Hospital Gown,HospitalGown,41.1,Clothing,clothing/clothing_suits
+Hot Cuppa,Mugfull,41.1,Food,items_food
+Hot Drink,HotDrink,41.1,Food,items_food
+Hot Drink,HotDrinkRed,41.1,Food,items_food
+Hot Drink,HotDrinkWhite,41.1,Food,items_food
+Hot Drink,HotDrinkSpiffo,41.1,Food,items_food
+Hot sauce,Hotsauce,41.1,Food,items_food
+Hot Teacup,HotDrinkTea,41.1,Food,items_food
+Hotdog,Hotdog,41.1,Food,items_food
+HottieZ,HottieZ,41.1,Literature,items_literature
+House Key,Key1,41.1,Key,newitems
+House Key,Key2,41.1,Key,newitems
+House Key,Key3,41.1,Key,newitems
+House Key,Key4,41.1,Key,newitems
+House Key,Key5,41.1,Key,newitems
+How to Use Generators,ElectronicsMag4,41.1,Literature,items_literature
+Hunting Knife,HuntingKnife,41.1,Weapon,items_weapons
+Ice Cream Cone,ConeIcecream,41.1,Food,items_food
+Ice Cream Server Apron,Apron_IceCream,41.1,Clothing,clothing/clothing_others
+Ice Cream Server Hat,Hat_FastFood_IceCream,41.1,Clothing,clothing/clothing_hats
+Ice Hockey Stick,IceHockeyStick,41.1,Weapon,items_weapons
+Ice Pick,IcePick,41.1,Weapon,items_weapons
+Icing,Icing,41.1,Food,items_food
+Insecticide Spray,GardeningSprayCigarettes,41.1,Drainable,farming
+Instant Popcorn,Popcorn,41.1,Food,items_food
+Iron Rodent Leather Jacket,Jacket_LeatherIronRodent,41.1,Clothing,clothing/clothing_jacket
+Iron Sight,IronSight,41.1,WeaponPart,newitems
+Jack'o'lantern,HalloweenPumpkin,41.1,Food,items_food
+Jacket,Jacket_NavyBlue,41.1,Clothing,clothing/clothing_jacket
+Jacket,Jacket_WhiteTINT,41.1,Clothing,clothing/clothing_jacket
+Jalapeno,PepperJalapeno,41.1,Food,items_food
+Jar Lid,JarLid,41.1,Normal,newitems
+Jar of Bell Peppers,CannedBellPepper,41.1,Food,newitems
+Jar of Broccoli,CannedBroccoli,41.1,Food,newitems
+Jar of Cabbage,CannedCabbage,41.1,Food,newitems
+Jar of Carrots,CannedCarrots,41.1,Food,newitems
+Jar of Eggplants,CannedEggplant,41.1,Food,newitems
+Jar of Leeks,CannedLeek,41.1,Food,newitems
+Jar of Potatoes,CannedPotato,41.1,Food,newitems
+Jar of Red Radishes,CannedRedRadish,41.1,Food,newitems
+Jar of Tomatoes,CannedTomato,41.1,Food,newitems
+Jay Chicken Hat,Hat_Jay,41.1,Clothing,clothing/clothing_hats
+Jay Chicken Server Apron,Apron_Jay,41.1,Clothing,clothing/clothing_others
+Jeans,Trousers_Denim,41.1,Clothing,clothing/clothing_pants
+Jelly Doughnut,DoughnutJelly,41.1,Food,items_food
+Jockey Helmet - 1,Hat_JockeyHelmet01,41.1,Clothing,clothing/clothing_hats
+Jockey Helmet - 2,Hat_JockeyHelmet02,41.1,Clothing,clothing/clothing_hats
+Jockey Helmet - 3,Hat_JockeyHelmet03,41.1,Clothing,clothing/clothing_hats
+Jockey Helmet - 4,Hat_JockeyHelmet04,41.1,Clothing,clothing/clothing_hats
+Jockey Helmet - 5,Hat_JockeyHelmet05,41.1,Clothing,clothing/clothing_hats
+Jockey Helmet - 6,Hat_JockeyHelmet06,41.1,Clothing,clothing/clothing_hats
+Jockey Silks - 1,Shirt_Jockey01,41.1,Clothing,clothing/clothing_shirts
+Jockey Silks - 2,Shirt_Jockey02,41.1,Clothing,clothing/clothing_shirts
+Jockey Silks - 3,Shirt_Jockey03,41.1,Clothing,clothing/clothing_shirts
+Jockey Silks - 4,Shirt_Jockey04,41.1,Clothing,clothing/clothing_shirts
+Jockey Silks - 5,Shirt_Jockey05,41.1,Clothing,clothing/clothing_shirts
+Jockey Silks - 6,Shirt_Jockey06,41.1,Clothing,clothing/clothing_shirts
+Journal,Journal,41.1,Literature,items_literature
+JS-2000 Shotgun,Shotgun,41.1,Weapon,items_weapons
+Juice Box,JuiceBox,41.1,Food,items_food
+Katana,Katana,41.1,Weapon,items_weapons
+Kentucky Baseball Helmet,Hat_BaseballHelmet_KY,41.1,Clothing,clothing/clothing_hats
+Kentucky Baseball Shirt,Shirt_Baseball_KY,41.1,Clothing,clothing/clothing_shirts
+Kettle,Kettle,41.1,Normal,items
+Kettle of Water,FullKettle,41.1,Drainable,items
+Key,KeyPadlock,41.1,Key,newitems
+Key Ring,KeyRing,41.1,Container,newitems
+Keytar,Keytar,41.1,Weapon,items_weapons
+Kitchen Knife,KitchenKnife,41.1,Weapon,items_weapons
+Knee-length Dress,Dress_Knees,41.1,Clothing,clothing/clothing_suits
+Knee-length Skirt,Skirt_Knees,41.1,Clothing,clothing/clothing_pants
+Knitting Needles,KnittingNeedles,41.1,Normal,newitems
+KY Baseball Cap,Hat_BaseballCapKY,41.1,Clothing,clothing/clothing_hats
+KY Baseball Cap,Hat_BaseballCapKY_Red,41.1,Clothing,clothing/clothing_hats
+KY Baseball Cap,Hat_BaseballCapKY_Reverse,41.1,Clothing,clothing/clothing_hats
+LaCrosse Stick,LaCrosseStick,41.1,Weapon,items_weapons
+Laines Auto Manual - Commercial Models,MechanicMag2,41.1,Literature,items_literature
+Laines Auto Manual - Performance Models,MechanicMag3,41.1,Literature,items_literature
+Laines Auto Manual - Standard Models,MechanicMag1,41.1,Literature,items_literature
+Large Backpack,Bag_ALICEpack,41.1,Container,clothing/clothing_others
+Laser,Laser,41.1,WeaponPart,newitems
+Lead Pipe,LeadPipe,41.1,Weapon,items_weapons
+Leaf Rake,LeafRake,41.1,Weapon,items_weapons
+Leash,Leash,41.1,Normal,newitems
+Leather Gloves,Gloves_LeatherGloves,41.1,Clothing,clothing/clothing_others
+Leather Gloves,Gloves_LeatherGlovesBlack,41.1,Clothing,clothing/clothing_others
+Leather Jacket,Jacket_Black,41.1,Clothing,clothing/clothing_jacket
+Leather Jacket,JacketLong_Random,41.1,Clothing,clothing/clothing_jacket
+Leather Strips,LeatherStrips,41.1,Normal,newitems
+Leek,Leek,41.1,Food,items_food
+Lemon,Lemon,41.1,Food,items_food
+Lemon Grass,LemonGrass,41.1,Food,items_food
+Letter Opener,LetterOpener,41.1,Weapon,items_weapons
+Lettuce,Lettuce,41.1,Food,items_food
+Light Brown Hair Dye,HairDyeLightBrown,41.1,Drainable,newitems
+Light Bulb,LightBulb,41.1,Normal,newitems
+Lime,Lime,41.1,Food,items_food
+Lipstick,Lipstick,41.1,Normal,newitems
+Lit Candle,CandleLit,41.1,Drainable,items
+Little Bait Fish,BaitFish,41.1,Food,items_food
+Little Black Dress,Dress_SmallBlackStraps,41.1,Clothing,clothing/clothing_suits
+Lobster,Lobster,41.1,Food,items_food
+Locket,Locket,41.1,Normal,newitems
+Log,Log,41.1,Normal,items
+Lollipop,Lollipop,41.1,Food,items_food
+Long Denim Shorts,Shorts_LongDenim,41.1,Clothing,clothing/clothing_pants
+Long Dress,Dress_Long,41.1,Clothing,clothing/clothing_suits
+Long Dress,Dress_long_Straps,41.1,Clothing,clothing/clothing_suits
+Long Gloves,Gloves_LongWomenGloves,41.1,Clothing,clothing/clothing_others
+Long Johns,LongJohns,41.1,Clothing,clothing/clothing_suits
+Long Johns Bottoms,LongJohns_Bottoms,41.1,Clothing,clothing/clothing_pants
+Long Skirt,Skirt_Long,41.1,Clothing,clothing/clothing_pants
+Long Sleeve T-Shirt,Tshirt_WhiteLongSleeve,41.1,Clothing,clothing/clothing_shirts
+Long Sleeve T-Shirt,Tshirt_WhiteLongSleeveTINT,41.1,Clothing,clothing/clothing_shirts
+Long Socks,Socks_Long,41.1,Clothing,clothing/clothing_shoes
+Long Sport Shorts,Shorts_LongSport,41.1,Clothing,clothing/clothing_pants
+Long Sport Shorts,Shorts_LongSport_Red,41.1,Clothing,clothing/clothing_pants
+Lumberjack Shirt,Shirt_Lumberjack,41.1,Clothing,clothing/clothing_shirts
+M14 Single Shot Assault Rifle,AssaultRifle2,41.1,Weapon,items_weapons
+M16 Assault Rifle,AssaultRifle,41.1,Weapon,items_weapons
+M1911 Pistol,Pistol2,41.1,Weapon,items_weapons
+M36 Revolver,Revolver_Short,41.1,Weapon,items_weapons
+M625 Revolver,Revolver,41.1,Weapon,items_weapons
+M9 Pistol,Pistol,41.1,Weapon,items_weapons
+Mac and Cheese,Macandcheese,41.1,Food,items_food
+Machete,Machete,41.1,Weapon,items_weapons
+Magazine,Magazine,41.1,Literature,items_literature
+Magenta Light Bulb,LightBulbMagenta,41.1,Normal,newitems
+Magnum,Revolver_Long,41.1,Weapon,items_weapons
+Makeshift Ham Radio,HamRadioMakeShift,41.1,Radio,items_radio
+Makeshift Radio,RadioMakeShift,41.1,Radio,items_radio
+Makeshift Walkie Talkie,WalkieTalkieMakeShift,41.1,Radio,items_radio
+MakeUp_GreenCamo,MakeUp_GreenCamo,41.1,Clothing,clothing/clothing_others
+Maki,Maki,41.1,Food,items_food
+Mango,Mango,41.1,Food,items_food
+Map,Map,41.1,Map,newitems
+Maple Syrup,MapleSyrup,41.1,Food,items_food
+March Ridge Map,MarchRidgeMap,41.1,Map,newitems
+Marinara,Marinara,41.1,Food,items_food
+Marmalade,JamMarmalade,41.1,Food,items_food
+Marshmallows,Marshmallows,41.1,Food,items_food
+Master Carpentry,BookCarpentry5,41.1,Literature,items_literature
+Master Cooking,BookCooking5,41.1,Literature,items_literature
+Master Electricity,BookElectrician5,41.1,Literature,items_literature
+Master Farming,BookFarming5,41.1,Literature,items_literature
+Master First Aid,BookFirstAid5,41.1,Literature,items_literature
+Master Fishing,BookFishing5,41.1,Literature,items_literature
+Master Foraging,BookForaging5,41.1,Literature,items_literature
+Master Mechanics,BookMechanic5,41.1,Literature,items_literature
+Master Metalwork,BookMetalWelding5,41.1,Literature,items_literature
+Master Smithing,BookBlacksmith5,41.1,Literature,items_literature
+Master Tailoring,BookTailoring5,41.1,Literature,items_literature
+Master Trapping,BookTrapping5,41.1,Literature,items_literature
+Matches,Matches,41.1,Drainable,items
+Mattress,Mattress,41.1,Moveable,newitems
+Mayonnaise,MayonnaiseFull,41.1,Food,farming
+McCoys T-Shirt,Tshirt_McCoys,41.1,Clothing,clothing/clothing_shirts
+Meat Cleaver,MeatCleaver,41.1,Weapon,items_weapons
+Meat Dumpling,MeatDumpling,41.1,Food,items_food
+Meat Patty,MeatPatty,41.1,Food,items_food
+Meat Steam Bun,MeatSteamBun,41.1,Food,items_food
+Mechanics for Beginners,BookMechanic1,41.1,Literature,items_literature
+Mechanics for Intermediates,BookMechanic2,41.1,Literature,items_literature
+Medical Cap,Hat_SurgicalCap_Blue,41.1,Clothing,clothing/clothing_hats
+Medical Cap,Hat_SurgicalCap_Green,41.1,Clothing,clothing/clothing_hats
+Medical Coat,JacketLong_Doctor,41.1,Clothing,clothing/clothing_jacket
+Medical Corset,Corset_Medical,41.1,Clothing,clothing/clothing_underwear
+Medical Mask,Hat_SurgicalMask_Blue,41.1,Clothing,clothing/clothing_hats
+Medical Mask,Hat_SurgicalMask_Green,41.1,Clothing,clothing/clothing_hats
+Medical Pants,Trousers_Scrubs,41.1,Clothing,clothing/clothing_pants
+Medical Scrubs,Shirt_Scrubs,41.1,Clothing,clothing/clothing_shirts
+Medical T-Shirt,Tshirt_Scrubs,41.1,Clothing,clothing/clothing_shirts
+Metal Bar,MetalBar,41.1,Weapon,items_weapons
+Metal Drum,MetalDrum,41.1,Normal,newitems
+Metalwork for Beginners,BookMetalWelding1,41.1,Literature,items_literature
+Metalwork for Intermediates,BookMetalWelding2,41.1,Literature,items_literature
+Mildew Spray,GardeningSprayMilk,41.1,Drainable,farming
+Military Backpack,Bag_ALICEpack_Army,41.1,Container,clothing/clothing_others
+Military Boots,Shoes_ArmyBoots,41.1,Clothing,clothing/clothing_shoes
+Military Bulletproof Vest,Vest_BulletArmy,41.1,Clothing,clothing/clothing_shirts
+Military Camo Pants,Trousers_CamoGreen,41.1,Clothing,clothing/clothing_pants
+Military Camo Shirt,Shirt_CamoGreen,41.1,Clothing,clothing/clothing_shirts
+Military Camo Shorts,Shorts_CamoGreenLong,41.1,Clothing,clothing/clothing_pants
+Military Camo Shorts,Shorts_CamoUrbanLong,41.1,Clothing,clothing/clothing_pants
+Military Desert Boots,Shoes_ArmyBootsDesert,41.1,Clothing,clothing/clothing_shoes
+Military Desert Camo Jacket,Jacket_ArmyCamoDesert,41.1,Clothing,clothing/clothing_jacket
+Military Desert Camo Pants,Trousers_CamoDesert,41.1,Clothing,clothing/clothing_pants
+Military Desert Camo Shirt,Shirt_CamoDesert,41.1,Clothing,clothing/clothing_shirts
+Military Desert Camo T-Shirt,Tshirt_CamoDesert,41.1,Clothing,clothing/clothing_shirts
+Military Green Camo Jacket,Jacket_ArmyCamoGreen,41.1,Clothing,clothing/clothing_jacket
+Military Green Camo T-Shirt,Tshirt_CamoGreen,41.1,Clothing,clothing/clothing_shirts
+Military Helmet,Hat_Army,41.1,Clothing,clothing/clothing_hats
+Military T-Shirt,Tshirt_ArmyGreen,41.1,Clothing,clothing/clothing_shirts
+Military Urban Camo Pants,Trousers_CamoUrban,41.1,Clothing,clothing/clothing_pants
+Military Urban Camo Shirt,Shirt_CamoUrban,41.1,Clothing,clothing/clothing_shirts
+Military Urban Camo T-Shirt,Tshirt_CamoUrban,41.1,Clothing,clothing/clothing_shirts
+Minced Meat,MincedMeat,41.1,Food,items_food
+Mini Skirt,Skirt_Mini,41.1,Clothing,clothing/clothing_pants
+Mining Helmet,Hat_HardHat_Miner,41.1,Clothing,clothing/clothing_hats
+Mirror,Mirror,41.1,Normal,newitems
+Modjeska,Modjeska,41.1,Food,items_food
+Molotov Cocktail,Molotov,41.1,Weapon,items_weapons
+Money,Money,41.1,Normal,newitems
+Mop,Mop,41.1,Normal,newitems
+Mortar and Pestle,MortarPestle,41.1,Normal,newitems
+Motion Sensor,MotionSensor,41.1,Normal,newitems
+Motorcycle Helmet,Hat_CrashHelmetFULL,41.1,Clothing,clothing/clothing_hats
+Mouse Trap,TrapMouse,41.1,Normal,newitems
+Moveable,Moveable,41.1,Moveable,moveables
+Moveable,Mov_Lamp1,41.1,Moveable,newitems
+Moveable,Mov_Lamp2,41.1,Moveable,newitems
+Moveable,Mov_Lamp3,41.1,Moveable,newitems
+Moveable,Mov_Lamp4,41.1,Moveable,newitems
+Moveable,Mov_Lamp5,41.1,Moveable,newitems
+Moveable,Mov_Lamp6,41.1,Moveable,newitems
+Moveable,Mov_Toaster,41.1,Moveable,newitems
+Moveable,Mov_Microwave,41.1,Moveable,newitems
+Moveable,Mov_Microwave2,41.1,Moveable,newitems
+Moveable,Mov_AntiqueStove,41.1,Moveable,newitems
+MSR700 Rifle,VarmintRifle,41.1,Weapon,items_weapons
+MSR788 Rifle,HuntingRifle,41.1,Weapon,items_weapons
+Muffin,MuffinGeneric,41.1,Food,items_food
+Muffin Baking Tray,BakingTray_Muffin,41.1,Food,items_food
+Muffin Baking Tray,BakingTray_Muffin_Recipe,41.1,Food,items_food
+Muffin Tray,MuffinTray,41.1,Normal,newitems
+Mug of Water,WaterMug,41.1,Drainable,items_food
+Mug of Water,WaterMugRed,41.1,Drainable,items_food
+Mug of Water,WaterMugWhite,41.1,Drainable,items_food
+Mug of Water,WaterMugSpiffo,41.1,Drainable,items_food
+Muldraugh Map,MuldraughMap,41.1,Map,newitems
+Mushrooms,MushroomGeneric1,41.1,Food,items_food
+Mushrooms,MushroomGeneric2,41.1,Food,items_food
+Mushrooms,MushroomGeneric3,41.1,Food,items_food
+Mushrooms,MushroomGeneric4,41.1,Food,items_food
+Mushrooms,MushroomGeneric5,41.1,Food,items_food
+Mushrooms,MushroomGeneric6,41.1,Food,items_food
+Mushrooms,MushroomGeneric7,41.1,Food,items_food
+Mutton Chop,MuttonChop,41.1,Food,items_food
+Nails,Nails,41.1,Normal,items
+Navy Blue Trousers,Trousers_NavyBlue,41.1,Clothing,clothing/clothing_pants
+Needle,Needle,41.1,Normal,items
+Newspaper,Newspaper,41.1,Literature,items_literature
+Newspaper Hat,Hat_NewspaperHat,41.1,Clothing,clothing/clothing_hats
+Nightstick,Nightstick,41.1,Weapon,items_weapons
+Noise Generator with Sensor,NoiseTrapSensorV1,41.1,Weapon,newitems
+Noise Generator with Sensor,NoiseTrapSensorV2,41.1,Weapon,newitems
+Noise Generator with Sensor,NoiseTrapSensorV3,41.1,Weapon,newitems
+Noise Generator with Timer,NoiseTrapTriggered,41.1,Weapon,newitems
+Noise Maker,NoiseTrap,41.1,Weapon,newitems
+Noodle Soup,NoodleSoup,41.1,Food,items_food
+Notched Wooden Plank,PercedWood,41.1,Normal,newitems
+Nuclear Biochemical Mask,Hat_NBCmask,41.1,Clothing,clothing/clothing_hats
+Oatmeal,Oatmeal,41.1,Food,items_food
+Oatmeal Cookie,CookiesOatmeal,41.1,Food,items_food
+Olive Oil,OilOlive,41.1,Food,items_food
+Omelette,EggOmelette,41.1,Food,items_food
+Omelette,OmeletteRecipe,41.1,Food,items_food
+Onigiri,Onigiri,41.1,Food,items_food
+Onion,Onion,41.1,Food,items_food
+Onion Rings,OnionRings,41.1,Food,items_food
+Open Balaclava,Hat_BalaclavaFace,41.1,Clothing,clothing/clothing_hats
+Opened Canned Fruit Cocktail,CannedFruitCocktailOpen,41.1,Food,items_food
+Opened Canned Peaches,CannedPeachesOpen,41.1,Food,items_food
+Opened Canned Pineapple,CannedPineappleOpen,41.1,Food,items_food
+Orange,Orange,41.1,Food,items_food
+Orange Hunting Vest,Vest_Hunting_Orange,41.1,Clothing,clothing/clothing_shirts
+Orange Light Bulb,LightBulbOrange,41.1,Normal,newitems
+Orange Plate,PlateOrange,41.1,Normal,newitems
+Orange Soda,PopBottle,41.1,Food,items_food
+Oven Mitt,OvenMitt,41.1,Normal,newitems
+Overalls,Dungarees,41.1,Clothing,clothing/clothing_pants
+Oysters,Oysters,41.1,Food,items_food
+Padded Jacket,Jacket_Padded,41.1,Clothing,clothing/clothing_jacket
+Padded Jacket,Jacket_PaddedDOWN,41.1,Clothing,clothing/clothing_jacket
+Padded Pants,Trousers_Padded,41.1,Clothing,clothing/clothing_pants
+Padlock,Padlock,41.1,Key,newitems
+Painkillers,Pills,41.1,Drainable,items
+Paint Brush,Paintbrush,41.1,Normal,items
+Paint Bucket With Water,WaterPaintbucket,41.1,Drainable,newitems
+Pancake Mix,PancakeMix,41.1,Drainable,newitems
+Pancakes,Pancakes,41.1,Food,items_food
+Pancakes,PancakesCraft,41.1,Food,items_food
+Pancakes,PancakesRecipe,41.1,Food,items_food
+Pants,Trousers,41.1,Clothing,clothing/clothing_pants
+Pants,Trousers_WhiteTINT,41.1,Clothing,clothing/clothing_pants
+Pants,Trousers_WhiteTEXTURE,41.1,Clothing,clothing/clothing_pants
+Pants,Trousers_DefaultTEXTURE,41.1,Clothing,clothing/clothing_pants
+Pants,Trousers_DefaultTEXTURE_HUE,41.1,Clothing,clothing/clothing_pants
+Pants,Trousers_DefaultTEXTURE_TINT,41.1,Clothing,clothing/clothing_pants
+Paper Bag,PaperBag,41.1,Container,newitems
+Paper Bag,Paperbag_Jays,41.1,Container,newitems
+Paper Bag,Paperbag_Spiffos,41.1,Container,newitems
+Paper Napkins,PaperNapkins,41.1,Normal,newitems
+Paperclip,Paperclip,41.1,Normal,newitems
+Party Hat with Stars,Hat_PartyHat_Stars,41.1,Clothing,clothing/clothing_hats
+Pasta,Pasta,41.1,Food,items_food
+Pasta,PastaPan,41.1,Food,items_food
+Pasta,PastaPot,41.1,Food,items_food
+Peach,Peach,41.1,Food,items_food
+Peaked Army Cap,Hat_PeakedCapArmy,41.1,Clothing,clothing/clothing_hats
+Peanut Butter Sandwich,PeanutButterSandwich,41.1,Food,items_food
+Peanuts,Peanuts,41.1,Food,items_food
+Pear,Pear,41.1,Food,items_food
+Peas,Peas,41.1,Food,items_food
+Pen,Pen,41.1,Weapon,items_weapons
+Pencil,Pencil,41.1,Weapon,items_weapons
+Pepper,Pepper,41.1,Food,items_food
+Pepperoni,Pepperoni,41.1,Food,items_food
+Perch,Perch,41.1,Food,items_food
+Perfume,Perfume,41.1,Normal,newitems
+PickAxe,PickAxe,41.1,Weapon,items_weapons
+PickAxe Handle,PickAxeHandle,41.1,Weapon,items_weapons
+Pickles,Pickles,41.1,Food,items_food
+Picture of Kate,KatePic,41.1,Normal,items
+Pie,PieWholeRaw,41.1,Food,items_food
+Pie Dough,PieDough,41.1,Normal,newitems
+Pie Preparation,PiePrep,41.1,Food,items_food
+Pie Slice,Pie,41.1,Food,items_food
+Pike,Pike,41.1,Food,items_food
+PileOCrepe Server Apron,Apron_PileOCrepe,41.1,Clothing,clothing/clothing_others
+PileOCrepe T-Shirt,Tshirt_PileOCrepe,41.1,Clothing,clothing/clothing_shirts
+Pillow,Pillow,41.1,Normal,items
+Pine Cone,Pinecone,41.1,Normal,newitems
+Pineapple,Pineapple,41.1,Food,items_food
+Pink Frilly Strapless Bra,Bra_Strapless_FrillyPink,41.1,Clothing,clothing/clothing_underwear
+Pink Frilly Straps Bra,Bra_Straps_FrillyPink,41.1,Clothing,clothing/clothing_underwear
+Pink Frilly Underpants,FrillyUnderpants_Pink,41.1,Clothing,clothing/clothing_underwear
+Pink Hair Dye,HairDyePink,41.1,Drainable,newitems
+Pink Light Bulb,LightBulbPink,41.1,Normal,newitems
+Pipe Bomb,PipeBomb,41.1,Weapon,newitems
+Pipe Bomb with Sensor,PipeBombSensorV1,41.1,Weapon,newitems
+Pipe Bomb with Sensor,PipeBombSensorV2,41.1,Weapon,newitems
+Pipe Bomb with Sensor,PipeBombSensorV3,41.1,Weapon,newitems
+Pipe Bomb with Timer,PipeBombTriggered,41.1,Weapon,newitems
+Pipe Wrench,PipeWrench,41.1,Weapon,items_weapons
+Pizza,Pizza,41.1,Food,items_food
+Pizza Whirled T-Shirt,Tshirt_PizzaWhirled,41.1,Clothing,clothing/clothing_shirts
+PizzaWhirled Server Apron,Apron_PizzaWhirled,41.1,Clothing,clothing/clothing_others
+Plank,Plank,41.1,Weapon,items_weapons
+Plantain,Plantain,41.1,Normal,newitems
+Plantain Poultice,PlantainCataplasm,41.1,Normal,newitems
+Plastic Bag,Plasticbag,41.1,Container,newitems
+Plastic Bag,GroceryBag1,41.1,Container,newBags
+Plastic Bag,GroceryBag2,41.1,Container,newBags
+Plastic Bag,GroceryBag3,41.1,Container,newBags
+Plastic Bag,GroceryBag4,41.1,Container,newBags
+Plastic Cup,PlasticCup,41.1,Normal,newitems
+Plastic Tray,PlasticTray,41.1,Normal,newitems
+Plate,Plate,41.1,Normal,newitems
+Playing Cards,CardDeck,41.1,Normal,newitems
+Plunger,Plunger,41.1,Weapon,items_weapons
+Poached Egg,EggPoached,41.1,Food,items_food
+Police Bulletproof Vest,Vest_BulletPolice,41.1,Clothing,clothing/clothing_shirts
+Police Deputy Hat,Hat_Police_Grey,41.1,Clothing,clothing/clothing_hats
+Police Deputy Jacket,Jacket_Police,41.1,Clothing,clothing/clothing_jacket
+Police Deputy Pants,Trousers_PoliceGrey,41.1,Clothing,clothing/clothing_pants
+Police Deputy Shirt,Shirt_PoliceGrey,41.1,Clothing,clothing/clothing_shirts
+Police Deputy T-Shirt,Tshirt_PoliceGrey,41.1,Clothing,clothing/clothing_shirts
+Police Motorcycle Helmet,Hat_CrashHelmet_Police,41.1,Clothing,clothing/clothing_hats
+Police Shirt,Shirt_OfficerWhite,41.1,Clothing,clothing/clothing_shirts
+Police Trooper Hat,Hat_Police,41.1,Clothing,clothing/clothing_hats
+Police Trooper Pants,Trousers_Police,41.1,Clothing,clothing/clothing_pants
+Police Trooper Shirt,Shirt_PoliceBlue,41.1,Clothing,clothing/clothing_shirts
+Police Trooper T-Shirt,Tshirt_PoliceBlue,41.1,Clothing,clothing/clothing_shirts
+Polo Neck Sweater,Jumper_PoloNeck,41.1,Clothing,clothing/clothing_jacket
+Poncho,PonchoGreen,41.1,Clothing,clothing/clothing_jacket
+Poncho,PonchoYellow,41.1,Clothing,clothing/clothing_jacket
+Poncho,PonchoGreenDOWN,41.1,Clothing,clothing/clothing_jacket
+Poncho,PonchoYellowDOWN,41.1,Clothing,clothing/clothing_jacket
+Pool Ball,PoolBall,41.1,Normal,items
+Poolcue,Poolcue,41.1,Weapon,items_weapons
+Poppy Bagel,BagelPoppy,41.1,Food,items_food
+Pork Chop,PorkChop,41.1,Food,items_food
+Pot of Soup,PotOfSoup,41.1,Food,items_food
+Pot of Soup,PotOfSoupRecipe,41.1,Food,items_food
+Pot of Stew,PotOfStew,41.1,Food,items_food
+Potato,Potato,41.1,Food,farming
+Potato Seeds,PotatoSeed,41.1,Normal,farming
+Potato Seeds Packet,PotatoBagSeed,41.1,Normal,farming
+Premium Tech. Walkie Talkie,WalkieTalkie3,41.1,Radio,items_radio
+Premium Technologies Ham Radio,HamRadio1,41.1,Radio,items_radio
+Premium Technologies Radio,RadioRed,41.1,Radio,items_radio
+Premium Technologies Television,TvWideScreen,41.1,Radio,items_radio
+Priest Shirt,Shirt_Priest,41.1,Clothing,clothing/clothing_shirts
+Prison Guard Pants,Trousers_PrisonGuard,41.1,Clothing,clothing/clothing_pants
+Prison Guard Shirt,Shirt_PrisonGuard,41.1,Clothing,clothing/clothing_shirts
+Prisoner Jumpsuit,Boilersuit_Prisoner,41.1,Clothing,clothing/clothing_suits
+Prisoner Jumpsuit,Boilersuit_PrisonerKhaki,41.1,Clothing,clothing/clothing_suits
+Processed Cheese,Processedcheese,41.1,Food,items_food
+Propane Torch,BlowTorch,41.1,Drainable,newitems
+Pumpkin,Pumpkin,41.1,Food,items_food
+Pumpkin Pie Slice,PiePumpkin,41.1,Food,items_food
+Purple Light Bulb,LightBulbPurple,41.1,Normal,newitems
+Purse,Purse,41.1,Container,newitems
+Rabbit Meat,Rabbitmeat,41.1,Food,items_food
+Raccoon Hat,Hat_Raccoon,41.1,Clothing,clothing/clothing_hats
+Radio Receiver,RadioReceiver,41.1,Normal,items_radio
+Radio Transmitter,RadioTransmitter,41.1,Normal,items_radio
+Radish,RedRadish,41.1,Food,farming
+Radish Seeds,RedRadishSeed,41.1,Normal,farming
+Radish Seeds Packet,RedRadishBagSeed,41.1,Normal,farming
+Rain Boots,Shoes_Wellies,41.1,Clothing,clothing/clothing_shoes
+Rake,Rake,41.1,Weapon,items_weapons
+Ranger Hat,Hat_Ranger,41.1,Clothing,clothing/clothing_hats
+Ranger Jacket,Jacket_Ranger,41.1,Clothing,clothing/clothing_jacket
+Ranger Pants,Trousers_Ranger,41.1,Clothing,clothing/clothing_pants
+Ranger Shirt,Shirt_Ranger,41.1,Clothing,clothing/clothing_shirts
+Ranger T-Shirt,Tshirt_Ranger,41.1,Clothing,clothing/clothing_shirts
+Raspberry Shortbread,CookieJelly,41.1,Food,items_food
+Raw Axe,AxeStone,41.1,Weapon,items_weapons
+Razor,Razor,41.1,Normal,newitems
+Reading Glasses,Glasses_Reading,41.1,Clothing,clothing/clothing_others
+Receiver,Receiver,41.1,Normal,newitems
+Recoil Pad,RecoilPad,41.1,WeaponPart,newitems
+Red Corset,Corset_Red,41.1,Clothing,clothing/clothing_underwear
+Red Dot,RedDot,41.1,WeaponPart,newitems
+Red Electric Bass,GuitarElectricBassRed,41.1,Weapon,items_weapons
+Red Electric Guitar,GuitarElectricRed,41.1,Weapon,items_weapons
+Red Fireman T-Shirt,Tshirt_Profession_FiremanRed,41.1,Clothing,clothing/clothing_shirts
+Red Frilly Strapless Bra,Bra_Strapless_FrillyRed,41.1,Clothing,clothing/clothing_underwear
+Red Frilly Straps Bra,Bra_Straps_FrillyRed,41.1,Clothing,clothing/clothing_underwear
+Red Frilly Underpants,FrillyUnderpants_Red,41.1,Clothing,clothing/clothing_underwear
+Red Hair Dye,HairDyeRed,41.1,Drainable,newitems
+Red Light Bulb,LightBulbRed,41.1,Normal,newitems
+Red Pen,RedPen,41.1,Weapon,items_weapons
+Red Speedo,Briefs_SmallTrunks_Red,41.1,Clothing,clothing/clothing_underwear
+Red Spots Strapless Bra,Bra_Strapless_RedSpots,41.1,Clothing,clothing/clothing_underwear
+Red Spots Underpants,Underpants_RedSpots,41.1,Clothing,clothing/clothing_underwear
+Red Stripes Boxer,Boxers_RedStripes,41.1,Clothing,clothing/clothing_underwear
+Red Velvet Cake Slice,CakeRedVelvet,41.1,Food,items_food
+Red Veteran T-Shirt,Tshirt_Profession_VeterenRed,41.1,Clothing,clothing/clothing_shirts
+Red Wine,Wine2,41.1,Food,items_food
+Reflective Ski Sunglasses,Glasses,41.1,Clothing,clothing/clothing_others
+Refried Beans,RefriedBeans,41.1,Food,items_food
+Remote Aerosol Bomb,AerosolbombRemote,41.1,Weapon,newitems
+Remote Flame Trap,FlameTrapRemote,41.1,Weapon,newitems
+Remote Noise Generator,NoiseTrapRemote,41.1,Weapon,newitems
+Remote Pipe Bomb,PipeBombRemote,41.1,Weapon,newitems
+Remote Smoke Bomb,SmokeBombRemote,41.1,Weapon,newitems
+Remoulade,RemouladeFull,41.1,Food,farming
+Rice,RicePan,41.1,Food,items_food
+Rice,RicePot,41.1,Food,items_food
+Rice Paper,RicePaper,41.1,Food,items_food
+Rice Vinegar,RiceVinegar,41.1,Food,items_food
+Riding Boots,Shoes_RidingBoots,41.1,Clothing,clothing/clothing_shoes
+Riding Helmet,Hat_RidingHelmet,41.1,Clothing,clothing/clothing_hats
+Riot Helmet,Hat_RiotHelmet,41.1,Clothing,clothing/clothing_hats
+Ripped Sheets,RippedSheets,41.1,Normal,items
+Riverside Map,RiversideMap,41.1,Map,newitems
+Riverside Rangers Baseball Helmet,Hat_BaseballHelmet_Rangers,41.1,Clothing,clothing/clothing_hats
+Riverside Rangers Baseball Shirt,Shirt_Baseball_Rangers,41.1,Clothing,clothing/clothing_shirts
+Roasted Vegetables,PanFriedVegetables2,41.1,Food,items_food
+Roasting Pan,RoastingPan,41.1,Normal,items
+Rock T-Shirt,Tshirt_Rock,41.1,Clothing,clothing/clothing_shirts
+Rolled Dough,DoughRolled,41.1,Food,items_food
+Rolling Pin,RollingPin,41.1,Weapon,items_weapons
+Rope,Rope,41.1,Normal,newitems
+Rosehips,Rosehips,41.1,Food,items_food
+Rosewood Map,RosewoodMap,41.1,Map,newitems
+Round Neck Sweater,Jumper_RoundNeck,41.1,Clothing,clothing/clothing_jacket
+Rubber Band,RubberBand,41.1,Normal,newitems
+Rubber Duck,Rubberducky,41.1,Normal,newitems
+Rubber Duck,Rubberducky2,41.1,Drainable,newitems
+Sack,SackOnions,41.1,Container,newBags
+Sack,SackCarrots,41.1,Container,newBags
+Sack,EmptySandbag,41.1,Container,newitems
+Sack,SackCabbages,41.1,Container,newBags
+Sack,SackPotatoes,41.1,Container,newBags
+Sack of Apples,SackProduce_Apple,41.1,Food,newitems
+Sack of Bell Peppers,SackProduce_BellPepper,41.1,Food,newitems
+Sack of Broccoli,SackProduce_Broccoli,41.1,Food,newitems
+Sack of Cabbages,SackProduce_Cabbage,41.1,Food,newitems
+Sack of Carrots,SackProduce_Carrot,41.1,Food,newitems
+Sack of Cherries,SackProduce_Cherry,41.1,Food,newitems
+Sack of Corn,SackProduce_Corn,41.1,Food,newitems
+Sack of Eggplants,SackProduce_Eggplant,41.1,Food,newitems
+Sack of Grapes,SackProduce_Grapes,41.1,Food,newitems
+Sack of Leeks,SackProduce_Leek,41.1,Food,newitems
+Sack of Lettuce,SackProduce_Lettuce,41.1,Food,newitems
+Sack of Onions,SackProduce_Onion,41.1,Food,newitems
+Sack of Peaches,SackProduce_Peach,41.1,Food,newitems
+Sack of Pears,SackProduce_Pear,41.1,Food,newitems
+Sack of Potatoes,SackProduce_Potato,41.1,Food,newitems
+Sack of Radishes,SackProduce_RedRadish,41.1,Food,newitems
+Sack of Strawberries,SackProduce_Strawberry,41.1,Food,newitems
+Sack of Tomatoes,SackProduce_Tomato,41.1,Food,newitems
+Safety Goggles,Glasses_SafetyGoggles,41.1,Clothing,clothing/clothing_others
+Salad,Salad,41.1,Food,farming
+Salad,FruitSalad,41.1,Food,items_food
+Salami,Salami,41.1,Food,items_food
+Salmon,Salmon,41.1,Food,items_food
+Sand Bag,Sandbag,41.1,Drainable,items
+Sandals,Shoes_Sandals,41.1,Clothing,clothing/clothing_shoes
+Sandwich,Sandwich,41.1,Food,items_food
+Sandwich,BaguetteSandwich,41.1,Food,items_food
+Santa Hat,Hat_SantaHat,41.1,Clothing,clothing/clothing_hats
+Santa Suit Jacket,JacketLong_Santa,41.1,Clothing,clothing/clothing_jacket
+Santa Suit Pants,Trousers_Santa,41.1,Clothing,clothing/clothing_pants
+Satin Negligee,Dress_SatinNegligee,41.1,Clothing,clothing/clothing_suits
+Saucepan,Saucepan,41.1,Weapon,items_weapons
+Saucepan with Pasta,WaterSaucepanPasta,41.1,Food,items_food
+Saucepan with Rice,WaterSaucepanRice,41.1,Food,items_food
+Saucepan with Water,WaterSaucepan,41.1,Drainable,items_food
+Sausage,Sausage,41.1,Food,items_food
+Saw,Saw,41.1,Normal,items
+Sawn Off Double Barrel Shotgun,DoubleBarrelShotgunSawnoff,41.1,Weapon,items_weapons
+Sawn Off JS-2000 Shotgun,ShotgunSawnoff,41.1,Weapon,items_weapons
+Saxophone,Saxophone,41.1,Weapon,items_weapons
+Scalpel,Scalpel,41.1,Weapon,items_weapons
+Scanner Module,ScannerModule,41.1,Normal,items_radio
+Scarf,Scarf_White,41.1,Clothing,clothing/clothing_others
+Scarf,Scarf_StripeRedWhite,41.1,Clothing,clothing/clothing_others
+Scarf,Scarf_StripeBlueWhite,41.1,Clothing,clothing/clothing_others
+Scarf,Scarf_StripeBlackWhite,41.1,Clothing,clothing/clothing_others
+School Bag,Bag_Schoolbag,41.1,Container,clothing/clothing_others
+Scissors,Scissors,41.1,Weapon,items_weapons
+Scrambled Eggs,EggScrambled,41.1,Food,items_food
+Scrap Metal,ScrapMetal,41.1,Normal,newitems
+Screwdriver,Screwdriver,41.1,Weapon,items_weapons
+Screws,Screws,41.1,Normal,newitems
+Seaweed,Seaweed,41.1,Food,items_food
+Seed Bag,SeedBag,41.1,Container,newitems
+Seeding Broccoli,BloomingBroccoli,41.1,Food,farming
+Sesame Bagel,BagelSesame,41.1,Food,items_food
+Sewing Kit,SewingKit,41.1,Container,newitems
+Sheet,Sheet,41.1,Normal,items
+Sheet of Paper,SheetPaper2,41.1,Literature,items_literature
+Sheet Rope,SheetRope,41.1,Normal,items
+Shell Suit Jacket,Jacket_Shellsuit_Blue,41.1,Clothing,clothing/clothing_jacket
+Shell Suit Jacket,Jacket_Shellsuit_Pink,41.1,Clothing,clothing/clothing_jacket
+Shell Suit Jacket,Jacket_Shellsuit_TINT,41.1,Clothing,clothing/clothing_jacket
+Shell Suit Jacket,Jacket_Shellsuit_Teal,41.1,Clothing,clothing/clothing_jacket
+Shell Suit Jacket,Jacket_Shellsuit_Black,41.1,Clothing,clothing/clothing_jacket
+Shell Suit Jacket,Jacket_Shellsuit_Green,41.1,Clothing,clothing/clothing_jacket
+Shell Suit Trousers,Trousers_Shellsuit_Blue,41.1,Clothing,clothing/clothing_pants
+Shell Suit Trousers,Trousers_Shellsuit_Pink,41.1,Clothing,clothing/clothing_pants
+Shell Suit Trousers,Trousers_Shellsuit_TINT,41.1,Clothing,clothing/clothing_pants
+Shell Suit Trousers,Trousers_Shellsuit_Teal,41.1,Clothing,clothing/clothing_pants
+Shell Suit Trousers,Trousers_Shellsuit_Black,41.1,Clothing,clothing/clothing_pants
+Shell Suit Trousers,Trousers_Shellsuit_Green,41.1,Clothing,clothing/clothing_pants
+Shells Ammo Strap,AmmoStrap_Shells,41.1,Clothing,clothing/clothing_others
+Shoes,Shoes_Black,41.1,Clothing,clothing/clothing_shoes
+Shoes,Shoes_Brown,41.1,Clothing,clothing/clothing_shoes
+Shoes,Shoes_Random,41.1,Clothing,clothing/clothing_shoes
+Shooting Glasses,Glasses_Shooting,41.1,Clothing,clothing/clothing_others
+Short Dress,Dress_Short,41.1,Clothing,clothing/clothing_suits
+Short Skirt,Skirt_Short,41.1,Clothing,clothing/clothing_pants
+Short Sleeve Shirt,Shirt_FormalWhite_ShortSleeve,41.1,Clothing,clothing/clothing_shirts
+Short Sleeve Shirt,Shirt_FormalWhite_ShortSleeveTINT,41.1,Clothing,clothing/clothing_shirts
+Shortbread Cookie,CookiesShortbread,41.1,Food,items_food
+Shorts,Shorts_ShortFormal,41.1,Clothing,clothing/clothing_pants
+Shotgun Shells,ShotgunShells,41.1,Normal,items_weapons
+Shotgun Shells Mold,ShotgunShellsMold,41.1,Normal,newitems
+Shovel,Shovel,41.1,Weapon,items_weapons
+Shovel,Shovel2,41.1,Weapon,items_weapons
+Shower Cap,Hat_ShowerCap,41.1,Clothing,clothing/clothing_hats
+Shrimp,Shrimp,41.1,Food,items_food
+Shrimp Dumpling,ShrimpDumpling,41.1,Food,items_food
+Silk Boxers,Boxers_Silk_Red,41.1,Clothing,clothing/clothing_underwear
+Silk Boxers,Boxers_Silk_Black,41.1,Clothing,clothing/clothing_underwear
+Ski Goggles,Glasses_SkiGoggles,41.1,Clothing,clothing/clothing_others
+Skinny Leather Trousers,TrousersMesh_Leather,41.1,Clothing,clothing/clothing_pants
+Skirt,Skirt_Normal,41.1,Clothing,clothing/clothing_pants
+Sledgehammer,Sledgehammer,41.1,Weapon,items_weapons
+Sledgehammer,Sledgehammer2,41.1,Weapon,items_weapons
+Sleeping Tablets,PillsSleepingTablets,41.1,Drainable,items
+Sling,Sling,41.1,WeaponPart,newitems
+Slippers,Shoes_Slippers,41.1,Clothing,clothing/clothing_shoes
+Small Animal Meat,Smallanimalmeat,41.1,Food,items_food
+Small Bandeau,BoobTubeSmall,41.1,Clothing,clothing/clothing_shirts
+Small Bird Meat,Smallbirdmeat,41.1,Food,items_food
+Smashed Bottle,SmashedBottle,41.1,Weapon,items_weapons
+Smithing for Beginners,BookBlacksmith1,41.1,Literature,items_literature
+Smithing for Intermediates,BookBlacksmith2,41.1,Literature,items_literature
+Smoke Bomb,SmokeBomb,41.1,Weapon,newitems
+Smoke Bomb with Sensor,SmokeBombSensorV1,41.1,Weapon,newitems
+Smoke Bomb with Sensor,SmokeBombSensorV2,41.1,Weapon,newitems
+Smoke Bomb with Sensor,SmokeBombSensorV3,41.1,Weapon,newitems
+Smoke Bomb with Timer,SmokeBombTriggered,41.1,Weapon,newitems
+Smore,Smore,41.1,Food,items_food
+Snare Trap,TrapSnare,41.1,Normal,newitems
+Sneakers,Shoes_RedTrainers,41.1,Clothing,clothing/clothing_shoes
+Sneakers,Shoes_TrainerTINT,41.1,Clothing,clothing/clothing_shoes
+Sneakers,Shoes_BlueTrainers,41.1,Clothing,clothing/clothing_shoes
+Snow Shovel,SnowShovel,41.1,Weapon,items_weapons
+Soap,Soap2,41.1,Drainable,newitems
+SoccerBall,SoccerBall,41.1,Normal,newitems
+Sock,Socks,41.1,Normal,items
+Sock,Socks2,41.1,Normal,items
+Socks,Socks_Ankle,41.1,Clothing,clothing/clothing_shoes
+Soy sauce,Soysauce,41.1,Food,items_food
+Spatula,Spatula,41.1,Normal,newitems
+Speaker,Speaker,41.1,Normal,newitems
+Spear With Bread Knife,SpearBreadKnife,41.1,Weapon,items_weapons
+Spear With Butter Knife,SpearButterKnife,41.1,Weapon,items_weapons
+Spear With Fork,SpearFork,41.1,Weapon,items_weapons
+Spear With Hand Fork,SpearHandFork,41.1,Weapon,items_weapons
+Spear With Hunting Knife,SpearHuntingKnife,41.1,Weapon,items_weapons
+Spear With Ice Pick,SpearIcePick,41.1,Weapon,items_weapons
+Spear With Knife,SpearKnife,41.1,Weapon,items_weapons
+Spear With Letter Opener,SpearLetterOpener,41.1,Weapon,items_weapons
+Spear With Machete,SpearMachete,41.1,Weapon,items_weapons
+Spear With Scalpel,SpearScalpel,41.1,Weapon,items_weapons
+Spear With Scissors,SpearScissors,41.1,Weapon,items_weapons
+Spear With Screwdriver,SpearScrewdriver,41.1,Weapon,items_weapons
+Spear With Spoon,SpearSpoon,41.1,Weapon,items_weapons
+Speedo,Briefs_SmallTrunks_WhiteTINT,41.1,Clothing,clothing/clothing_underwear
+Spiffo,Spiffo,41.1,Normal,newitems
+Spiffo Suit,SpiffoSuit,41.1,Clothing,clothing/clothing_suits
+Spiffo Suit Head,Hat_Spiffo,41.1,Clothing,clothing/clothing_hats
+Spiffo Suit Tail,SpiffoTail,41.1,Clothing,clothing/clothing_suits
+Spiffo T-Shirt,Tshirt_SpiffoDECAL,41.1,Clothing,clothing/clothing_shirts
+Spiffo T-Shirt,Tshirt_BusinessSpiffo,41.1,Clothing,clothing/clothing_shirts
+Spiffo Tie,Tie_Full_Spiffo,41.1,Clothing,clothing/clothing_others
+Spiffo's Server Apron,Apron_Spiffos,41.1,Clothing,clothing/clothing_others
+Spiffo's Server Hat,Hat_FastFood_Spiffo,41.1,Clothing,clothing/clothing_hats
+Spiked Baseball Bat,BaseballBatNails,41.1,Weapon,items_weapons
+Spiked PickAxe Handle,PickAxeHandleSpiked,41.1,Weapon,items_weapons
+Spiked Plank,PlankNail,41.1,Weapon,items_weapons
+Splint,Splint,41.1,Normal,newitems
+Sponge,Sponge,41.1,Normal,newitems
+Spoon,Spoon,41.1,Weapon,items_weapons
+Sport Shorts,Shorts_ShortSport,41.1,Clothing,clothing/clothing_pants
+Sport T-Shirt,Tshirt_Sport,41.1,Clothing,clothing/clothing_shirts
+Spring roll,Springroll,41.1,Food,items_food
+Squid,Squid,41.1,Food,items_food
+Squid Calamari,SquidCalamari,41.1,Food,items_food
+Stairs Piece,Stairs,41.1,Normal,items
+Stake,Stake,41.1,Weapon,items_weapons
+Steak,Steak,41.1,Food,items_food
+Steel Knuckle,SteelKnuckle,41.1,Normal,camping
+Sterilized Bandage,AlcoholBandage,41.1,Normal,newitems
+Sterilized Rag,AlcoholRippedSheets,41.1,Normal,items
+Stick Trap,TrapStick,41.1,Normal,newitems
+Stir fry,PanFriedVegetables,41.1,Food,items_food
+Stir fry,GriddlePanFriedVegetables,41.1,Food,items_food
+Stockings,StockingsBlack,41.1,Clothing,clothing/clothing_underwear
+Stockings,StockingsWhite,41.1,Clothing,clothing/clothing_underwear
+Stockings Semi Transparent,StockingsBlackSemiTrans,41.1,Clothing,clothing/clothing_underwear
+Stockings Transparent,StockingsBlackTrans,41.1,Clothing,clothing/clothing_underwear
+Stone Hammer,HammerStone,41.1,Weapon,items_weapons
+Stone Knife,FlintKnife,41.1,Weapon,items_weapons
+Strapless Black Dress,Dress_SmallBlackStrapless,41.1,Clothing,clothing/clothing_suits
+Strapless Bra,Bra_Strapless_White,41.1,Clothing,clothing/clothing_underwear
+Strapless Small Dress,Dress_SmallStrapless,41.1,Clothing,clothing/clothing_suits
+Strapped Shoes,Shoes_Strapped,41.1,Clothing,clothing/clothing_shoes
+Straps Bra,Bra_Straps_White,41.1,Clothing,clothing/clothing_underwear
+Straps Dress,Dress_Straps,41.1,Clothing,clothing/clothing_suits
+Straps Knee-length Dress,DressKnees_Straps,41.1,Clothing,clothing/clothing_suits
+Straps Small Dress,Dress_SmallStraps,41.1,Clothing,clothing/clothing_suits
+Straw,Straw,41.1,Normal,newitems
+Strawberries,Strewberrie,41.1,Food,farming
+Strawberries Seeds,StrewberrieSeed,41.1,Normal,farming
+Strawberries Seeds Packet,StrewberrieBagSeed,41.1,Normal,farming
+Strawberry Blonde Hair Dye,HairDyeGinger,41.1,Drainable,newitems
+Strawberry Cake Slice,CakeStrawberryShortcake,41.1,Food,items_food
+String,String,41.1,Normal,newitems
+Striped T-Shirt,Tshirt_PoloStripedTINT,41.1,Clothing,clothing/clothing_shirts
+Sturdy Stick,WoodenStick,41.1,Normal,newitems
+Suit Jacket,Suit_Jacket,41.1,Clothing,clothing/clothing_jacket
+Suit Jacket,Suit_JacketTINT,41.1,Clothing,clothing/clothing_jacket
+Suit Pants,Trousers_Suit,41.1,Clothing,clothing/clothing_pants
+Suit Pants,Trousers_SuitWhite,41.1,Clothing,clothing/clothing_pants
+Suit Pants,Trousers_SuitTEXTURE,41.1,Clothing,clothing/clothing_pants
+Summer Hat,Hat_SummerHat,41.1,Clothing,clothing/clothing_hats
+Sunfish,Panfish,41.1,Food,items_food
+Sunflower Seeds,SunflowerSeeds,41.1,Food,items_food
+Sunglasses,Glasses_Sun,41.1,Clothing,clothing/clothing_others
+Surgical Gloves,Gloves_Surgical,41.1,Clothing,clothing/clothing_others
+Suture Needle,SutureNeedle,41.1,Normal,newitems
+Suture Needle Holder,SutureNeedleHolder,41.1,Normal,newitems
+Sweatband,Hat_Sweatband,41.1,Clothing,clothing/clothing_hats
+Swim Trunks,SwimTrunks_Red,41.1,Clothing,clothing/clothing_others
+Swim Trunks,SwimTrunks_Blue,41.1,Clothing,clothing/clothing_others
+Swim Trunks,SwimTrunks_Green,41.1,Clothing,clothing/clothing_others
+Swim Trunks,SwimTrunks_Yellow,41.1,Clothing,clothing/clothing_others
+Swimming Goggles,Glasses_SwimmingGoggles,41.1,Clothing,clothing/clothing_others
+Swimsuit,Swimsuit_TINT,41.1,Clothing,clothing/clothing_others
+T-Shirt,Tshirt_PoloTINT,41.1,Clothing,clothing/clothing_shirts
+T-Shirt,Tshirt_WhiteTINT,41.1,Clothing,clothing/clothing_shirts
+T-Shirt,Tshirt_SportDECAL,41.1,Clothing,clothing/clothing_shirts
+T-Shirt,Tshirt_DefaultDECAL,41.1,Clothing,clothing/clothing_shirts
+T-Shirt,Tshirt_DefaultTEXTURE,41.1,Clothing,clothing/clothing_shirts
+T-Shirt,Tshirt_DefaultDECAL_TINT,41.1,Clothing,clothing/clothing_shirts
+T-Shirt,Tshirt_DefaultTEXTURE_TINT,41.1,Clothing,clothing/clothing_shirts
+Table Leg,TableLeg,41.1,Weapon,items_weapons
+Taco,Taco,41.1,Food,items_food
+Taco,TacoRecipe,41.1,Food,items_food
+Taco Shell,TacoShell,41.1,Food,items_food
+Tactical Walkie Talkie,WalkieTalkie4,41.1,Radio,items_radio
+Tailoring for Beginners,BookTailoring1,41.1,Literature,items_literature
+Tailoring for Intermediates,BookTailoring2,41.1,Literature,items_literature
+Tank Top,Vest_DefaultTEXTURE,41.1,Clothing,clothing/clothing_shirts
+Tank Top,Vest_DefaultTEXTURE_TINT,41.1,Clothing,clothing/clothing_shirts
+Tarp,Tarp,41.1,Normal,newitems
+Tartan Golf Cap,Hat_GolfHat,41.1,Clothing,clothing/clothing_hats
+Tea Bag,Teabag2,41.1,Food,items_food
+Teacup,Teacup,41.1,Normal,newitems
+Teacup of Water,WaterTeacup,41.1,Drainable,items_food
+Tennis Ball,TennisBall,41.1,Normal,newitems
+Tennis Racket,TennisRacket,41.1,Weapon,items_weapons
+Tent,CampingTent,41.1,Normal,camping
+Tent Kit,CampingTentKit,41.1,Normal,camping
+Tent Peg,TentPeg,41.1,Normal,camping
+The Farming Magazine,FarmingMag1,41.1,Literature,items_literature
+The Herbalist,HerbalistMag,41.1,Literature,items_literature
+The Hunter Magazine Vol. 1,HuntingMag1,41.1,Literature,items_literature
+The Hunter Magazine Vol. 2,HuntingMag2,41.1,Literature,items_literature
+The Hunter Magazine Vol. 3,HuntingMag3,41.1,Literature,items_literature
+Thread,Thread,41.1,Drainable,items
+Three Logs Stack,LogStacks3,41.1,Normal,newitems
+ThunderGas T-Shirt,Tshirt_ThunderGas,41.1,Clothing,clothing/clothing_shirts
+Tie,Tie_Full,41.1,Clothing,clothing/clothing_others
+Tight Fit Apron,Apron_WhiteTEXTURE,41.1,Clothing,clothing/clothing_others
+Tights,TightsBlack,41.1,Clothing,clothing/clothing_underwear
+Tights Semi Transparent,TightsBlackSemiTrans,41.1,Clothing,clothing/clothing_underwear
+Tights Transparent,TightsBlackTrans,41.1,Clothing,clothing/clothing_underwear
+Timer,Timer,41.1,Normal,newitems
+Tin Foil Hat,Hat_TinFoilHat,41.1,Clothing,clothing/clothing_hats
+TIS T-Shirt,Tshirt_IndieStoneDECAL,41.1,Clothing,clothing/clothing_shirts
+Tissue,Tissue,41.1,Drainable,items
+Tofu,Tofu,41.1,Food,items_food
+Toilet Paper,ToiletPaper,41.1,Drainable,newitems
+Tomato,Tomato,41.1,Food,farming
+Tomato Seeds,TomatoSeed,41.1,Normal,farming
+Tomato Seeds Packet,TomatoBagSeed,41.1,Normal,farming
+Tongs,Tongs,41.1,Normal,newitems
+Toolbox,Bag_JanitorToolbox,41.1,Container,newBags
+Toothbrush,Toothbrush,41.1,Normal,newitems
+Toothpaste,Toothpaste,41.1,Normal,newitems
+Tortilla,Tortilla,41.1,Food,items_food
+Tortilla Chips,TortillaChips,41.1,Food,items_food
+Tote Bag,Tote,41.1,Container,newitems
+Toy Bear,ToyBear,41.1,Normal,newitems
+Toy Car,ToyCar,41.1,Normal,newitems
+Toys-R-Mine Walkie Talkie,WalkieTalkie1,41.1,Radio,items_radio
+Trap Box,TrapBox,41.1,Normal,newitems
+Trap Crate,TrapCrate,41.1,Normal,newitems
+Trapping for Beginners,BookTrapping1,41.1,Literature,items_literature
+Trapping for Intermediates,BookTrapping2,41.1,Literature,items_literature
+Tree Branch,TreeBranch,41.1,Normal,newitems
+Trout,Trout,41.1,Food,items_food
+Trowel,HandShovel,41.1,Weapon,farming
+Trumpet,Trumpet,41.1,Weapon,items_weapons
+Tumbler,GlassTumbler,41.1,Normal,newitems
+TV Magazine,TVMagazine,41.1,Literature,items_literature
+TV Remote,Remote,41.1,Normal,newitems
+Tweezers,Tweezers,41.1,Normal,newitems
+Twigs,Twigs,41.1,Normal,newitems
+Twine,Twine,41.1,Drainable,newitems
+Two Logs Stack,LogStacks2,41.1,Normal,newitems
+Umbrella,UmbrellaRed,41.1,Normal,newitems
+Umbrella,UmbrellaBlue,41.1,Normal,newitems
+Umbrella,UmbrellaBlack,41.1,Normal,newitems
+Umbrella,UmbrellaWhite,41.1,Normal,newitems
+Underpants,Underpants_White,41.1,Clothing,clothing/clothing_underwear
+Underwear,Male_Undies,41.1,Clothing,clothing/clothing_shoes
+Unusable Metal,UnusableMetal,41.1,Normal,newitems
+Unusable Wood,UnusableWood,41.1,Normal,newitems
+US ARMY COMM. Ham Radio,HamRadio2,41.1,Radio,items_radio
+US Army Walkie Talkie,WalkieTalkie5,41.1,Radio,items_radio
+USA Crash Helmet,Hat_CrashHelmet_Stars,41.1,Clothing,clothing/clothing_hats
+V-Neck Sweater,Jumper_VNeck,41.1,Clothing,clothing/clothing_jacket
+V-Neck Sweater Vest,Jumper_TankTopTINT,41.1,Clothing,clothing/clothing_jacket
+V1 Remote Controller,RemoteCraftedV1,41.1,Normal,newitems
+V2 Remote Controller,RemoteCraftedV2,41.1,Normal,newitems
+V3 Remote Controller,RemoteCraftedV3,41.1,Normal,newitems
+Valley Station T-Shirt,Tshirt_ValleyStation,41.1,Clothing,clothing/clothing_shirts
+ValuTech PortaDisc,CDplayer,41.1,Radio,items_radio
+ValuTech Radio,RadioBlack,41.1,Radio,items_radio
+ValuTech Television,TvBlack,41.1,Radio,items_radio
+ValuTech Walkie Talkie,WalkieTalkie2,41.1,Radio,items_radio
+Varsity Jacket,Jacket_Varsity,41.1,Clothing,clothing/clothing_jacket
+Vegetable Oil,OilVegetable,41.1,Food,items_food
+VHS,VHS,41.1,Normal,newitems
+VHS-Home,VHS_Home,41.1,Normal,newitems
+VHS-Retail,VHS_Retail,41.1,Normal,newitems
+Video Game,VideoGame,41.1,Normal,newitems
+Violets,Violets,41.1,Food,items_food
+Violin,Violin,41.1,Weapon,items_weapons
+Visor,Hat_VisorRed,41.1,Clothing,clothing/clothing_hats
+Visor,Hat_VisorBlack,41.1,Clothing,clothing/clothing_hats
+Visor,Hat_Visor_WhiteTINT,41.1,Clothing,clothing/clothing_hats
+Vitamins,PillsVitamins,41.1,Drainable,newitems
+Waffles,Waffles,41.1,Food,items_food
+Waffles,WafflesRecipe,41.1,Food,items_food
+Waistcoat,Vest_Waistcoat,41.1,Clothing,clothing/clothing_shirts
+Waistcoat,Vest_WaistcoatTINT,41.1,Clothing,clothing/clothing_shirts
+Wallet,Wallet,41.1,Normal,newitems
+Wallet,Wallet2,41.1,Normal,newitems
+Wallet,Wallet3,41.1,Normal,newitems
+Wallet,Wallet4,41.1,Normal,newitems
+Wasabi,Wasabi,41.1,Food,items_food
+Water Bottle,BeerWaterFull,41.1,Drainable,items_food
+Water Bottle,WineWaterFull,41.1,Drainable,items_food
+Water Bottle,WaterPopBottle,41.1,Drainable,items_food
+Water Bottle,WaterBottleFull,41.1,Drainable,items_food
+Water Bottle,WhiskeyWaterFull,41.1,Drainable,items_food
+Water Bottle,RemouladeWaterFull,41.1,Drainable,farming
+Water Bottle,MayonnaiseWaterFull,41.1,Drainable,farming
+Water Dish,WaterDish,41.1,Normal,newitems
+WaterDrop,WaterDrop,41.1,Normal,newitems
+Watering Can,WateredCan,41.1,Normal,farming
+Watering Can (Full),WateredCanFull,41.1,Drainable,farming
+Watermelon,Watermelon,41.1,Food,items_food
+Watermelon Chunks,WatermelonSmashed,41.1,Food,items_food
+Watermelon Slice,WatermelonSliced,41.1,Food,items_food
+Wedding Dress,WeddingDress,41.1,Clothing,clothing/clothing_suits
+Wedding Jacket,WeddingJacket,41.1,Clothing,clothing/clothing_jacket
+Wedding Veil,Hat_WeddingVeil,41.1,Clothing,clothing/clothing_hats
+Welder Mask,WeldingMask,41.1,Clothing,clothing/clothing_hats
+Welding Rods,WeldingRods,41.1,Drainable,newitems
+Westpoint Map,WestpointMap,41.1,Map,newitems
+Wet Bath Towel,BathTowelWet,41.1,Normal,newitems
+Wet Dish Towel,DishClothWet,41.1,Normal,items
+Whiskey Bottle,WhiskeyFull,41.1,Food,items_food
+White Chess Pieces,ChessWhite,41.1,Normal,newitems
+White Fireman T-Shirt,Tshirt_Profession_FiremanWhite,41.1,Clothing,clothing/clothing_shirts
+White Hair Dye,HairDyeWhite,41.1,Drainable,newitems
+White Police T-Shirt,Tshirt_Profession_PoliceWhite,41.1,Clothing,clothing/clothing_shirts
+Wild Eggs,WildEggs,41.1,Food,items_food
+Wild Garlic,WildGarlic,41.1,Normal,newitems
+Wild Garlic Poultice,WildGarlicCataplasm,41.1,Normal,newitems
+Wild Racoons Leather Jacket,Jacket_LeatherWildRacoons,41.1,Clothing,clothing/clothing_jacket
+Wine Glass,GlassWine,41.1,Normal,newitems
+Winter Hat,Hat_WinterHat,41.1,Clothing,clothing/clothing_hats
+Wire,Wire,41.1,Drainable,newitems
+Wood Axe,WoodAxe,41.1,Weapon,items_weapons
+Wooden Door Frame,DoorFrame,41.1,Normal,items
+Wooden Mallet,WoodenMallet,41.1,Weapon,items_weapons
+Wooden Spear,WoodenLance,41.1,Weapon,items_weapons
+Woolly Hat,Hat_WoolyHat,41.1,Clothing,clothing/clothing_hats
+Workable Iron,IronIngot,41.1,Drainable,newitems
+Workman Shirt,Shirt_Workman,41.1,Clothing,clothing/clothing_shirts
+Worm,Worm,41.1,Food,items_food
+Wrench,Wrench,41.1,Weapon,items_weapons
+x2 Scope,x2Scope,41.1,WeaponPart,newitems
+x4 Scope,x4Scope,41.1,WeaponPart,newitems
+x8 Scope,x8Scope,41.1,WeaponPart,newitems
+Yarn,Yarn,41.1,Normal,newitems
+Yeast,Yeast,41.1,Drainable,newitems
+Yellow Hair Dye,HairDyeYellow,41.1,Drainable,newitems
+Yellow Light Bulb,LightBulbYellow,41.1,Normal,newitems
+Yoyo,Yoyo,41.1,Normal,newitems
+Z Hurricanes Baseball Helmet,Hat_BaseballHelmet_Z,41.1,Clothing,clothing/clothing_hats
+Z Hurricanes Baseball Shirt,Shirt_Baseball_Z,41.1,Clothing,clothing/clothing_shirts
+Zucchini,Zucchini,41.1,Food,items_food

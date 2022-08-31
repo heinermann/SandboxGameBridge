@@ -1,0 +1,259 @@
+name,id
+Life Giving Amulet,amulet
+Booster Shot,lifeinjector
+Grass Suit,armorgrass
+Marble Suit,armormarble
+Night Armor,armor_sanity
+Snurtle Shell Armor,armorsnurtleshell
+Log Suit,armorwood
+Ash,ash
+Axe,axe
+Luxury Axe,goldenaxe
+Backpack,backpack
+Honey Poultice,bandage
+Beard Hair,beardhair
+Fur Roll,bedroll_furry
+Straw Roll,bedroll_straw
+Beefalo Wool,beefalowool
+Bee Mine,beemine
+Maxwell's Mosquito Trap,beemine_maxwell
+Bird Trap,birdtrap
+Bishop Charge (Projectile),bishop_charge
+Sleep Dart,blowdart_sleep
+Fire Dart,blowdart_fire
+Blow Dart,blowdart_pipe
+Blue Gem,bluegem
+Boards,boards
+Boomerang,boomerang
+Broken Tool,brokentool
+Bug Net,bugnet
+Butter,butter
+Butterfly Wings,butterflywings
+Walking Cane,cane
+Carrot (Planted),carrot_planted
+Charcoal,charcoal
+Eye Bone,chester_eyebone
+Cut Grass,cutgrass
+Cut Reeds,cutreeds
+Cut Stone,cutstone
+Deadly Feast,deadlyfeast
+Deerclops Eyeball,deerclops_eyeball
+Divining Rod,diviningrod
+Egg (Bird),bird_egg
+Cooked Egg (Bird),bird_egg_cooked
+Rotten Egg,rottenegg
+Crow Feather,feather_crow
+Crimson Feather,feather_robin
+Azure Feather,feather_robin_winter
+Fire Staff,firestaff
+Fish,fish
+Cooked Fish,fish_cooked
+Fishing Rod,fishingrod
+Flint,flint
+Frog Legs,froglegs
+Cooked Frog Legs,froglegs_cooked
+Gears,gears
+Gold Nugget,goldnugget
+Guano,guano
+Gunpowder,gunpowder
+Ham Bat,hambat
+Hammer,hammer
+Straw Hat,strawhat
+Top Hat,tophat
+Beefalo Hat,beefalohat
+Feather Hat,featherhat
+Beekeeper Hat,beehat
+Miner hat,minerhat
+Spiderhat,spiderhat
+Football Helmet,footballhat
+Rabbit Earmuffs,earmuffshat
+Winter Hat,winterhat
+Bush Hat,bushhat
+Garland,flowerhat
+Tam o' Shanter,walrushat
+Shelmet,slurtlehat
+Healing Salve,healingsalve
+Thermal Stone,heatrock
+Honey,honey
+Honeycomb,honeycomb
+Beefalo Horn,horn
+Hound's Tooth,houndstooth
+Red Gem,redgem
+Ice Staff,icestaff
+Marble,marble
+Rocks,rocks
+Krampus Sack,krampus_sack
+Light Bulb,lightbulb
+Living Log,livinglog
+Log,log
+Bunny Puff,manrabbit_tail
+Shadow Key,maxwellkey
+Meat,meat
+Cooked Meat,cookedmeat
+Jerky,meat_dried
+Monster Meat,monstermeat
+Cooked Monster Meat,cookedmonstermeat
+Monster Jerky,monstermeat_dried
+Morsel,smallmeat
+Cooked Morsel,cookedsmallmeat
+Small Jerky,smallmeat_dried
+Drumstick,drumstick
+Fried Drumstick,drumstick_cooked
+Batilisk Wing,batwing
+Cooked Batilisk Wing,batwing_cooked
+Lantern,lantern
+Red Cap,red_cap
+Cooked Red Cap,red_cap_cooked
+Green Cap,green_cap
+Cooked Green Cap,green_cap_cooked
+Blue Cap,blue_cap
+Cooked Blue Cap,blue_cap_cooked
+Nightmare Fuel,nightmarefuel
+Dark Sword,nightsword
+Nitre,nitre
+One-man Band,onemanband
+Pan Flute,panflute
+Papyrus,papyrus
+Petals,petals
+Dark Petals,petals_evil
+Pickaxe,pickaxe
+Opulent Pickaxe,goldenpickaxe
+Piggyback,piggyback
+Pig Skin,pigskin
+Pine Cone,pinecone
+Pitchfork,pitchfork
+Poop,poop
+Dragonpie,dragonpie
+Waffles,waffles
+Ratatouille,ratatouille
+Fruit Medley,fruitmedley
+Monster Lasagna,monsterlasagna
+Powcake,powcake
+Froggle Bunwich,frogglebunwich
+Pumpkin Cookie,pumpkincookie
+Honey Ham,honeyham
+Meatballs,meatballs
+Wet Goop,wetgoop
+Stuffed Eggplant,stuffedeggplant
+Taffy,taffy
+Honey Nuggets,honeynuggets
+Turkey Dinner,turkeydinner
+Fishsticks,fishsticks
+Fist Full of Jam,jammypreserves
+Fish Tacos,fishtacos
+Butter Muffin,butterflymuffin
+Pierogi,perogies
+Kabobs,kabobs
+Meaty Stew,bonestew
+Bacon and Eggs,baconeggs
+Mandrake Soup,mandrakesoup
+Purple Gem,purplegem
+Razor,razor
+Red Gem,redgem
+Rope,rope
+Seeds,seeds
+Toasted Seeds,seeds_cooked
+Sewing Kit,sewing_kit
+Shovel,shovel
+Regal Shovel,goldenshovel
+Silk,silk
+Slurtle Slime,slurtleslime
+Broken Shells,slurtle_shellpieces
+Spear,spear
+Spider Eggs,spidereggsack
+Spider Gland,spidergland
+Spitter Projectile,spider_web_spit
+Ice Projectile,ice_projectile
+Fire Projectile,fire_projectile
+Stinger,stinger
+Dapper Vest,sweatervest
+Thulecite Club,ruins_bat
+Tallbird Egg,tallbirdegg
+Hatching Tallbird Egg,tallbirdegg_cracked
+Fried Tallbird Egg,tallbirdegg_cooked
+Ring Thing,teleportato_ring
+Wooden Thing,teleportato_base
+Box Thing,teleportato_box
+Crank Thing,teleportato_crank
+Metal Potato Thing,teleportato_potato
+Tentacle Spike,tentaclespike
+Tentacle Spots,tentaclespots
+Torch,torch
+Trap,trap
+Tooth Trap,trap_teeth
+Maxwell's Tooth Trap,trap_teeth_maxwell
+Melty Marbles,trinket_1
+Fake Kazoo,trinket_2
+Gord's Knot,trinket_3
+Gnome,trinket_4
+Tiny Rocketship,trinket_5
+Frazzled Wires,trinket_6
+Ball and Cup,trinket_7
+Hardened Rubber Bung,trinket_8
+Mismatched Buttons,trinket_9
+Second-hand Dentures,trinket_10
+Lying Robot,trinket_11
+Dessicated Tentacle,trinket_12
+Koalefant Trunk,trunk_summer
+Winter Koalefant Trunk,trunk_winter
+Koalefant Trunk Steak,trunk_cooked
+Breezy Vest,trunkvest_summer
+Puffy Vest,trunkvest_winter
+Twigs,twigs
+Umbrella,umbrella
+Carrot,carrot
+Roasted Carrot,carrot_cooked
+Carrot Seeds,carrot_seeds
+Corn,corn
+Popcorn,corn_cooked
+Corn Seeds,corn_seeds
+Berries,berries
+Roasted Berries,berries_cooked
+Pumpkin,pumpkin
+Hot Pumpkin,pumpkin_cooked
+Pumpkin Seeds,pumpkin_seeds
+Pomegranate,pomegranate
+Sliced Pomegranate,pomegranate_cooked
+Pomegranate Seeds,pomegranate_seeds
+Eggplant,eggplant
+Braised Eggplant,eggplant_cooked
+Eggplant Seeds,eggplant_seeds
+Durian,durian
+Extra Smelly Durian,durian_cooked
+Durian Seeds,durian_seeds
+Dragon Fruit,dragonfruit
+Prepared Dragon Fruit,dragonfruit_cooked
+Dragon Fruit Seeds,dragonfruit_seeds
+Walrus Dart (Projectile),walrus_dart
+Walrus Tusk,walrus_tusk
+Lucy the Axe,lucy
+Telelocator Staff,telestaff
+Foliage,foliage
+Fleshy Bulb,lureplantbulb
+Science Machine,researchlab
+Green Gem,greengem
+Orange Gem,orangegem
+Yellow Gem,yellowgem
+Thulecite,thulecite
+Nightmare Amulet,purpleamulet
+Construction Amulet,greenamulet
+Slurper Pelt,slurper_pelt
+Ice,ice
+Mini Glacier,rock_ice
+Scales,dragon_scales
+Scalemail,armordragonfly
+Baby Beefalo,babybeefalo
+Beefalo,beefalo
+Beefalo (Herd),beefaloherd
+Crow,crow
+Redbird,robin
+Snowbird,robin_winter
+Frog,frog
+Koalefant (Summer),koalefant_summer
+Koalefant (Winter),koalefant_winter
+Merm,merm
+Pengull,penguin
+Gobbler,perd
+Rabbit,rabbit
+MacTusk,walrus
+Wee MacTusk,little_walrus
